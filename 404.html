@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>CRISBRAIN</title>
+  <script>
+    (() => {
+      const match = location.pathname.match(/^\/d\/([a-z0-9-]+)\/?$/i);
+
+      if (match) {
+        const target = new URL(
+          "https://crisbrain-server.onrender.com/d/" + match[1]
+        );
+
+        target.search = location.search;
+        location.replace(target.toString());
+      }
+    })();
+  </script>
+</head>
+<body>
+  <h1>CRISBRAIN</h1>
+  <p>Conteúdo não encontrado.</p>
+</body>
+</html>
