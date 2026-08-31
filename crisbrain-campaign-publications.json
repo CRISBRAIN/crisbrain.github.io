@@ -2,6 +2,36 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-2cb4cbf5bba5770f5089c436",
+      "campaign_id": "cmp-1788123840-724bb8b4",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Dell Inspiron i7 • 16 GB • 1 TB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:04:37.470392+00:00"
+    },
+    {
+      "publication_job_id": "job-374d7c280c28426837920806",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Dell 15 i5 • 8 GB • 512 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:04:37.470392+00:00"
+    },
+    {
+      "publication_job_id": "job-7a517595806f4cb7ebd33a0a",
+      "campaign_id": "cmp-1788123786-b9dea679",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Acer Nitro V15 ANV15-51-58AZ • RTX 3050, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:04:37.470392+00:00"
+    },
+    {
       "publication_job_id": "job-008746d4e1d999147926a29f",
       "campaign_id": "cmp-1788123758-9560a980",
       "campaign_family_id": "fam-c30384e630df806d7d0e",
