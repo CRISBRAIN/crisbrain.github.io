@@ -1,6 +1,206 @@
 {
-  "version": 1,
+  "version": 2,
   "items": [
+    {
+      "publication_job_id": "job-e62f30aba31eed3e013d3ee6",
+      "campaign_id": "cmp-1788182517-59dd4589",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-59dd4589/pin-01-3e3cee/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-b15c1b30f5ca104f36b457f1",
+      "campaign_id": "cmp-1788182517-6c848c2f",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-6c848c2f/pin-01-d7cc8a/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-4020ac14f481b848e47308ee",
+      "campaign_id": "cmp-1788182517-e013aa69",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-e013aa69/pin-01-ebdfbb/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-c771771258112b4ffca8d7b0",
+      "campaign_id": "cmp-1788182517-bc733f5e",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-bc733f5e/pin-01-eba6ba/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-8a51039e7049c63b1acce501",
+      "campaign_id": "cmp-1788182517-b30ff071",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-01-2b1fd2/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-c9b5419e9e76efca38e1553c",
+      "campaign_id": "cmp-1788182517-56bd1a38",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-56bd1a38/pin-01-8b14d6/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-682ad974ba2331e29cb95203",
+      "campaign_id": "cmp-1788182517-c8eff965",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-c8eff965/pin-01-d1f3a9/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-d7beb88057ac48dff16a8810",
+      "campaign_id": "cmp-1788182517-4780b479",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-4780b479/pin-01-6c6fdd/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-4a0f20d4f95a1b4df60a954a",
+      "campaign_id": "cmp-1788182517-19834cea",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-01-328c20/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-5a11b72312bc02cf1c61ef54",
+      "campaign_id": "cmp-1788182517-cf32db6f",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-cf32db6f/pin-01-6b3736/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-3cbe75efa19b73968f31680c",
+      "campaign_id": "cmp-1788182517-3ffff063",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-3ffff063/pin-01-09f944/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-a251e40e42952385177976b9",
+      "campaign_id": "cmp-1788182517-66423c27",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-66423c27/pin-01-d812a3/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-0752a81de966e2707a536779",
+      "campaign_id": "cmp-1788182517-51a4a17f",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-51a4a17f/pin-01-70f808/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-332778598d3d56da57f9f096",
+      "campaign_id": "cmp-1788182517-b6f59108",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-01-4369d4/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-42c2a66b799c667900956166",
+      "campaign_id": "cmp-1788182517-31bcd309",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-31bcd309/pin-01-656d7d/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-f73aff2fc0e0145a1f4fdc52",
+      "campaign_id": "cmp-1788182517-eb8951de",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-eb8951de/pin-01-688dd9/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-b858061a41671185bd32c957",
+      "campaign_id": "cmp-1788182517-129c6b87",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-129c6b87/pin-01-860f88/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-9b6179be439775623c4fee47",
+      "campaign_id": "cmp-1788182517-9ceedd16",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-9ceedd16/pin-01-fa6eea/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-69bf4064e4d45ebbe379d914",
+      "campaign_id": "cmp-1788182517-be4479a1",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-01-882534/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
+    {
+      "publication_job_id": "job-1905cfd4b877834b373e9853",
+      "campaign_id": "cmp-1788182517-75f5a38c",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-75f5a38c/pin-01-42eac6/",
+      "updated_at": "2026-08-31T13:37:40.092367+00:00"
+    },
     {
       "publication_job_id": "job-27843ea07cb1106439bd4e10",
       "campaign_id": "cmp-1788141014-0ad483e9",
