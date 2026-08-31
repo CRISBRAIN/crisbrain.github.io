@@ -2,6 +2,46 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-2d3a3df0737b991ea841998a",
+      "campaign_id": "cmp-1788182517-7c36cc58",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-7c36cc58/pin-01-0cc5ee/",
+      "updated_at": "2026-08-31T14:56:29.553088+00:00"
+    },
+    {
+      "publication_job_id": "job-9668e8ef7e54599a2bbdcae6",
+      "campaign_id": "cmp-1788182517-d811969c",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-d811969c/pin-01-baee59/",
+      "updated_at": "2026-08-31T14:56:29.553088+00:00"
+    },
+    {
+      "publication_job_id": "job-b32dc614b0dfc045a8f971f5",
+      "campaign_id": "cmp-1788182517-2d75a226",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-2d75a226/pin-01-dd0a0b/",
+      "updated_at": "2026-08-31T14:56:29.553088+00:00"
+    },
+    {
+      "publication_job_id": "job-ca2ec6a4b1b40f2c3fb895ce",
+      "campaign_id": "cmp-1788182517-86ebfdb2",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-86ebfdb2/pin-01-9013fe/",
+      "updated_at": "2026-08-31T14:56:29.553088+00:00"
+    },
+    {
       "publication_job_id": "job-39c13137382909c129148581",
       "campaign_id": "cmp-1788182517-7675cedc",
       "campaign_family_id": null,
