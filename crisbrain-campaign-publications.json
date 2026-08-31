@@ -2,6 +2,46 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-9531f4ecb9f129617f6d7e0c",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar VAIO FE16 Ryzen 7 • 16 GB • 512 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:36:46.447250+00:00"
+    },
+    {
+      "publication_job_id": "job-9524a2ae1139db6c15e8ae85",
+      "campaign_id": "cmp-1788123918-f98cd5c9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Dell 15 DC15-C3100-A20 • Core 3 • 512 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:36:46.447250+00:00"
+    },
+    {
+      "publication_job_id": "job-5cee5b3ad16a0720f0c60988",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar ASUS Vivobook 15 X1504VA • 16 GB • 512 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:36:46.447250+00:00"
+    },
+    {
+      "publication_job_id": "job-d474140fc1f06c58e89d11d5",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Acer Nitro V15 ANV15-51-7837, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:36:46.447250+00:00"
+    },
+    {
       "publication_job_id": "job-2cb4cbf5bba5770f5089c436",
       "campaign_id": "cmp-1788123840-724bb8b4",
       "campaign_family_id": "fam-f4a03c743ffc433a949d",
