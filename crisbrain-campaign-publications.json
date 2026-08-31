@@ -2,6 +2,36 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-008746d4e1d999147926a29f",
+      "campaign_id": "cmp-1788123758-9560a980",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Galaxy Book4 i5 • 8 GB • 256 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:03:09.751608+00:00"
+    },
+    {
+      "publication_job_id": "job-5f373d4994c5eb6a45f98b88",
+      "campaign_id": "cmp-1788123730-cbe90201",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Galaxy Book4 360 • 16 GB • 512 GB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123730-cbe90201/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:03:09.751608+00:00"
+    },
+    {
+      "publication_job_id": "job-c4d6fd493250150e85222a42",
+      "campaign_id": "cmp-1788123702-df8f769e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes de comprar Dell 15 i7 • 16 GB • 1 TB, veja onde ele está na linha oficial",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-02-linha-oficial/",
+      "updated_at": "2026-08-31T21:03:09.751608+00:00"
+    },
+    {
       "publication_job_id": "job-d9156d794f8efd91a56cf185",
       "campaign_id": "cmp-1788016823-2cc49075",
       "campaign_family_id": null,
