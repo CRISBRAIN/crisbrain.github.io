@@ -2,24 +2,284 @@
   "version": 2,
   "items": [
     {
-      "publication_job_id": "job-423b25e167205bff045f7156",
+      "publication_job_id": "job-c79dbf22a4c7b07a39838790",
+      "campaign_id": "cmp-1788141015-2e1b8b07",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-2e1b8b07/pin-04-3b9c88/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-5bc2d409c8a8cb4df980ce23",
+      "campaign_id": "cmp-1788141015-9561ba2e",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-9561ba2e/pin-03-300150/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-81d5968bd4fbcd00bed81c24",
+      "campaign_id": "cmp-1788141015-2e1b8b07",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-2e1b8b07/pin-03-5aee54/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-8ffcefaf11fcde9e8766cecf",
+      "campaign_id": "cmp-1788141015-91d5fc63",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-91d5fc63/pin-03-d4fe21/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-847005eeded28cc5b0000909",
+      "campaign_id": "cmp-1788141015-c9bd7036",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-c9bd7036/pin-03-6706b2/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-c0702927e88abd78e482554e",
+      "campaign_id": "cmp-1788141015-24d9a9f7",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-24d9a9f7/pin-03-78a693/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-dbf59377d1f3c317e9b9d0c2",
+      "campaign_id": "cmp-1788141015-18be311a",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-18be311a/pin-03-c66b71/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-9287c4aaaaeb01df6762fd65",
+      "campaign_id": "cmp-1788141015-710ac8dd",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-710ac8dd/pin-04-3d6e0e/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-1103b4ab58d47bfeb3818227",
+      "campaign_id": "cmp-1788141015-d447076e",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-d447076e/pin-04-7ef8e1/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-265d9d37f02ffa18674e2bcd",
+      "campaign_id": "cmp-1788141015-d447076e",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-d447076e/pin-03-d83e12/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-18b57bd0cc8a294a97ad9eee",
+      "campaign_id": "cmp-1788123730-cbe90201",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Galaxy Book4 360 • 16 GB • 512 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123730-cbe90201/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-5fb925756ba8a5b6fc188a1d",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Dell 15 i5 • 8 GB • 512 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-82b0aefa7a9eb852ff0327eb",
       "campaign_id": "cmp-1788123918-f98cd5c9",
       "campaign_family_id": "fam-57f687b154835cc78de9",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB: para quais usos esta configuração ainda é suficiente?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-009df304e2ce0de9bc8579c5",
+      "publication_job_id": "job-cc674c4efa773cfef4331989",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Acer Nitro V15 ANV15-51-7837: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-2b51b85747bde36eb43f65fa",
+      "campaign_id": "cmp-1788123786-b9dea679",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Acer Nitro V15 ANV15-51-58AZ • RTX 3050: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-26e43b80146b9ac7977a4534",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de ASUS Vivobook 15 X1504VA • 16 GB • 512 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-619a87a1d8583dd7c0015d21",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de VAIO FE16 Ryzen 7 • 16 GB • 512 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-f1d91c6a1a3bc16a4b33e27d",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-59998abad59e0d4207c44b11",
+      "campaign_id": "cmp-1788123840-724bb8b4",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Dell Inspiron i7 • 16 GB • 1 TB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-d5ddc22d03fcfd60e1c42d42",
+      "campaign_id": "cmp-1788141015-ac6de3c6",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-ac6de3c6/pin-03-916e35/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-8d304d043d6a30e537ffa286",
       "campaign_id": "cmp-1788123758-9560a980",
       "campaign_family_id": "fam-c30384e630df806d7d0e",
       "market_id": "br",
       "language": "pt-BR",
+      "title": "Última checagem de Galaxy Book4 i5 • 8 GB • 256 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-5de7d63e010bddbacc39f5d8",
+      "campaign_id": "cmp-1788123702-df8f769e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Dell 15 i7 • 16 GB • 1 TB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-32184fd4f629fdf6c38330e6",
+      "campaign_id": "cmp-1788123918-f98cd5c9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Última checagem de Dell 15 DC15-C3100-A20 • Core 3 • 512 GB: modelo, geração e uso",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-07-checagem-final/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-0309ea41258728443467bff6",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
       "title": "Compare a linha do fabricante antes de decidir",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-06-compare-fabricante/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-1b33c1791d588b3ea8c9805e",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-e004601729314200fc0b6b36",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "ASUS Vivobook 15 X1504VA • 16 GB • 512 GB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-286c3c9939d9be46a9dc716f",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-23ddbbfc78665a87ab83f9f4",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Acer Nitro V15 ANV15-51-7837: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
       "publication_job_id": "job-b10e1a27b093e9f9d110a43f",
@@ -29,117 +289,87 @@
       "language": "pt-BR",
       "title": "Dell Inspiron i7 • 16 GB • 1 TB: para quais usos esta configuração ainda é suficiente?",
       "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-27b443a1f27e7119c0353dd5",
-      "campaign_id": "cmp-1788123813-15477d70",
-      "campaign_family_id": "fam-1f36ea07c73c14223289",
-      "market_id": "br",
-      "language": "pt-BR",
-      "title": "Dell 15 i5 • 8 GB • 512 GB: para quais usos esta configuração ainda é suficiente?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
-    },
-    {
-      "publication_job_id": "job-8b43e75e90a54e8a2eb6839b",
-      "campaign_id": "cmp-1788123892-ff79d03a",
-      "campaign_family_id": "fam-113457d18d749ad16b25",
-      "market_id": "br",
-      "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
-    },
-    {
-      "publication_job_id": "job-9423c7b01394944689cc47ff",
+      "publication_job_id": "job-b43c2aa5eef50920623d707c",
       "campaign_id": "cmp-1788123840-724bb8b4",
       "campaign_family_id": "fam-f4a03c743ffc433a949d",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-754885c27c199f2a518a77e5",
-      "campaign_id": "cmp-1788123945-5648959d",
-      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
-      "market_id": "br",
-      "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
-    },
-    {
-      "publication_job_id": "job-144dec1f0a44509c0b084d1e",
-      "campaign_id": "cmp-1788123758-9560a980",
-      "campaign_family_id": "fam-c30384e630df806d7d0e",
-      "market_id": "br",
-      "language": "pt-BR",
-      "title": "Galaxy Book4 i5 • 8 GB • 256 GB: para quais usos esta configuração ainda é suficiente?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
-    },
-    {
-      "publication_job_id": "job-d62bd1b83618f81084e2479d",
-      "campaign_id": "cmp-1788123758-9560a980",
-      "campaign_family_id": "fam-c30384e630df806d7d0e",
-      "market_id": "br",
-      "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
-    },
-    {
-      "publication_job_id": "job-013f01569a9958573d983279",
+      "publication_job_id": "job-5f3935b3db6c7c197247cdeb",
       "campaign_id": "cmp-1788123702-df8f769e",
       "campaign_family_id": "fam-e6a378c6868ea31e925f",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Dell 15 i7 • 16 GB • 1 TB: para quais usos esta configuração ainda é suficiente?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-f65b2cfafe504ddaa1d8ff84",
-      "campaign_id": "cmp-1788016823-2cc49075",
-      "campaign_family_id": null,
+      "publication_job_id": "job-009df304e2ce0de9bc8579c5",
+      "campaign_id": "cmp-1788123758-9560a980",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Notebooks: uma rota direta para comparar opções",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788016823-2cc49075/pin-06-8b4286/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-74ba95912a4f21da03c05bab",
-      "campaign_id": "cmp-1788123866-71ef3a58",
-      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "publication_job_id": "job-ed06af6305a92f388294c6df",
+      "campaign_id": "cmp-1788123730-cbe90201",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123730-cbe90201/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-4d5bbd14e65def22e8f8074f",
+      "publication_job_id": "job-cf7c84140bbe04bc650dfa73",
       "campaign_id": "cmp-1788123786-b9dea679",
       "campaign_family_id": "fam-c2033255bfdfee82b55d",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Acer Nitro V15 ANV15-51-58AZ • RTX 3050: para quais usos esta configuração ainda é suficiente?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-05-uso-suficiente/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Compare a linha do fabricante antes de decidir",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-06-compare-fabricante/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
-      "publication_job_id": "job-095d20f3dc963eb9bbc39d24",
-      "campaign_id": "cmp-1788123813-15477d70",
-      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "publication_job_id": "job-423b25e167205bff045f7156",
+      "campaign_id": "cmp-1788123918-f98cd5c9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
       "market_id": "br",
       "language": "pt-BR",
-      "title": "Você realmente precisa do notebook mais novo?",
-      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-7b185f555871b664606bd1e0",
+      "campaign_id": "cmp-1788016823-2cc49075",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Notebooks? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788016823-2cc49075/pin-07-3b2818/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-139efe31501d063751f73e7e",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "VAIO FE16 Ryzen 7 • 16 GB • 512 GB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
       "publication_job_id": "job-daa2c39734e684ca193146b7",
@@ -149,7 +379,97 @@
       "language": "pt-BR",
       "title": "Você realmente precisa do notebook mais novo?",
       "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-144dec1f0a44509c0b084d1e",
+      "campaign_id": "cmp-1788123758-9560a980",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Galaxy Book4 i5 • 8 GB • 256 GB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-9423c7b01394944689cc47ff",
+      "campaign_id": "cmp-1788123840-724bb8b4",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-f65b2cfafe504ddaa1d8ff84",
+      "campaign_id": "cmp-1788016823-2cc49075",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebooks: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788016823-2cc49075/pin-06-8b4286/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-754885c27c199f2a518a77e5",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-013f01569a9958573d983279",
+      "campaign_id": "cmp-1788123702-df8f769e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell 15 i7 • 16 GB • 1 TB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-74ba95912a4f21da03c05bab",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-4d5bbd14e65def22e8f8074f",
+      "campaign_id": "cmp-1788123786-b9dea679",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Acer Nitro V15 ANV15-51-58AZ • RTX 3050: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-27b443a1f27e7119c0353dd5",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell 15 i5 • 8 GB • 512 GB: para quais usos esta configuração ainda é suficiente?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-05-uso-suficiente/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-8b43e75e90a54e8a2eb6839b",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
       "publication_job_id": "job-bcd866c53a79e9e51add2480",
@@ -159,7 +479,27 @@
       "language": "pt-BR",
       "title": "Você realmente precisa do notebook mais novo?",
       "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-04-precisa-do-mais-no/",
-      "updated_at": "2026-09-01T21:17:58.891483+00:00"
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-095d20f3dc963eb9bbc39d24",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
+    },
+    {
+      "publication_job_id": "job-d62bd1b83618f81084e2479d",
+      "campaign_id": "cmp-1788123758-9560a980",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Você realmente precisa do notebook mais novo?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-04-precisa-do-mais-no/",
+      "updated_at": "2026-09-01T21:18:10.282966+00:00"
     },
     {
       "publication_job_id": "job-a68002710894d845d7278554",
