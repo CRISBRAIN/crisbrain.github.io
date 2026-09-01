@@ -2,6 +2,106 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-99fd588e74e82e60097480fa",
+      "campaign_id": "cmp-1788123786-b9dea679",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Acer Nitro V15 ANV15-51-58AZ • RTX 3050: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123786-b9dea679/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-4b66decc65a09cdfc2905e93",
+      "campaign_id": "cmp-1788123813-15477d70",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell 15 i5 • 8 GB • 512 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123813-15477d70/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-408e2031939eefca95f7c814",
+      "campaign_id": "cmp-1788123702-df8f769e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell 15 i7 • 16 GB • 1 TB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123702-df8f769e/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-0b68e92ec12b1c7871c38cd3",
+      "campaign_id": "cmp-1788123758-9560a980",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Galaxy Book4 i5 • 8 GB • 256 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123758-9560a980/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-a8d48ff8efa786ee14456185",
+      "campaign_id": "cmp-1788123866-71ef3a58",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Acer Nitro V15 ANV15-51-7837: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123866-71ef3a58/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-8f700306665be6ca9f859f86",
+      "campaign_id": "cmp-1788123945-5648959d",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "VAIO FE16 Ryzen 7 • 16 GB • 512 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123945-5648959d/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-fb5d9e1e0427afc3d345f423",
+      "campaign_id": "cmp-1788123892-ff79d03a",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "ASUS Vivobook 15 X1504VA • 16 GB • 512 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123892-ff79d03a/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-ae02078abbd229d6d236738a",
+      "campaign_id": "cmp-1788123840-724bb8b4",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123840-724bb8b4/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-054586c5f51b74b4628f3735",
+      "campaign_id": "cmp-1788123730-cbe90201",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123730-cbe90201/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
+      "publication_job_id": "job-aa004350c19a454c7bca905e",
+      "campaign_id": "cmp-1788123918-f98cd5c9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB: modelo atual ou geração anterior?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788123918-f98cd5c9/pin-03-atual-ou-anterior/",
+      "updated_at": "2026-09-01T21:07:29.888149+00:00"
+    },
+    {
       "publication_job_id": "job-6b0c7a77030720a7452df530",
       "campaign_id": "cmp-1788016823-2cc49075",
       "campaign_family_id": null,
