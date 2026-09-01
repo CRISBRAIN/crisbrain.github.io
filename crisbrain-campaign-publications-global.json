@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T13:33:28.627113+00:00",
+  "generated_at": "2026-09-01T13:36:11.982613+00:00",
   "items": [
     {
       "campaign_family_id": null,
@@ -1761,6 +1761,66 @@
       "creative_slot": "02",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-02-8bb89a/",
       "legacy_public_url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-02-8bb89a/"
+    },
+    {
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "campaign_id": "cmp-1788182517-71c03399",
+      "market_id": "es",
+      "language": "es-ES",
+      "currency": "EUR",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-02-91ac2b/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-02-91ac2b/"
+    },
+    {
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "campaign_id": "cmp-1788182517-6d356f45",
+      "market_id": "se",
+      "language": "sv-SE",
+      "currency": "SEK",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-6d356f45/pin-02-510598/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-6d356f45/pin-02-510598/"
+    },
+    {
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "campaign_id": "cmp-1788182517-732c28d0",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "currency": "EUR",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-732c28d0/pin-02-dba86d/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-732c28d0/pin-02-dba86d/"
+    },
+    {
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "campaign_id": "cmp-1788182517-a92e0899",
+      "market_id": "it",
+      "language": "it-IT",
+      "currency": "EUR",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-a92e0899/pin-02-801799/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-a92e0899/pin-02-801799/"
+    },
+    {
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "campaign_id": "cmp-1788182517-9bcbcff1",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "currency": "PLN",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-9bcbcff1/pin-02-eec429/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-9bcbcff1/pin-02-eec429/"
+    },
+    {
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "campaign_id": "cmp-1788182517-22d72714",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "currency": "PLN",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-22d72714/pin-02-0f768f/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-22d72714/pin-02-0f768f/"
     }
   ]
 }
