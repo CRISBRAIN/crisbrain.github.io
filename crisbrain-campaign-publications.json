@@ -2,6 +2,286 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-338bc438972d1358594e4108",
+      "campaign_id": "cmp-1788141014-ea4f10cd",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-ea4f10cd/pin-04-795f23/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-291ff46ccf6af088debb6c4d",
+      "campaign_id": "cmp-1788141014-e573a0cc",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-e573a0cc/pin-04-7568f5/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-345622b813365f2c4bb691c9",
+      "campaign_id": "cmp-1788141014-e573a0cc",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-e573a0cc/pin-03-d3bb0f/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-7bd9c36b32e4aa598d718864",
+      "campaign_id": "cmp-1788141014-a6b2eb3a",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-a6b2eb3a/pin-04-0ea168/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-91e20d70eeef708431069f36",
+      "campaign_id": "cmp-1788141014-a6b2eb3a",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-a6b2eb3a/pin-03-ff7658/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-ce30568a860d0af6915fb18c",
+      "campaign_id": "cmp-1788141014-0ed46bdd",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-0ed46bdd/pin-04-f11a60/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-d60397ea682445bc97128879",
+      "campaign_id": "cmp-1788141014-385aa88d",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-385aa88d/pin-04-ea3bb5/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-6604f5c79796b10a7c2a1487",
+      "campaign_id": "cmp-1788141014-385aa88d",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-385aa88d/pin-03-3aadf0/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-c9e574dc0ce39039bed438a1",
+      "campaign_id": "cmp-1788141014-d1997b21",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-d1997b21/pin-04-9688a2/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-8eb90710e08515f9dea9d356",
+      "campaign_id": "cmp-1788141014-ba22afe5",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-ba22afe5/pin-04-47963a/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-4ff059dbea4825f06c7e7055",
+      "campaign_id": "cmp-1788141014-b8b5e6c7",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-b8b5e6c7/pin-03-2cd440/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-588cd1b7d684aaa123a59bff",
+      "campaign_id": "cmp-1788141014-ba22afe5",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-ba22afe5/pin-03-e541d6/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-63ad5bae4b133a160b071916",
+      "campaign_id": "cmp-1788141014-2aab74bf",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-2aab74bf/pin-07-23b2b1/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-1993508df590756f36389283",
+      "campaign_id": "cmp-1788141014-faf17433",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-07-5349b1/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-7de54c2f5b8b7dfb357a8da9",
+      "campaign_id": "cmp-1788141014-acbc73d6",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-acbc73d6/pin-03-cadcdb/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-d3917c9f2051d6cf7c97333a",
+      "campaign_id": "cmp-1788141014-ea4f10cd",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-ea4f10cd/pin-03-99772f/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-04b4333ae84d335572ab92b7",
+      "campaign_id": "cmp-1788141014-9ed50f7a",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-9ed50f7a/pin-07-b790de/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-53656936baae85d400b6e030",
+      "campaign_id": "cmp-1788141014-3efd9ac1",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-3efd9ac1/pin-07-d9ad86/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-3c403d26ae87e108de5edeba",
+      "campaign_id": "cmp-1788141014-95550587",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-07-a1e2b9/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-5c998a314497e93a3daee704",
+      "campaign_id": "cmp-1788141014-102051e0",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-102051e0/pin-07-ade46b/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-cf3ed35fed468ebe1e31c4a0",
+      "campaign_id": "cmp-1788141014-d1997b21",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-d1997b21/pin-03-1887ff/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-d94db70fc1dbc7849f143e2b",
+      "campaign_id": "cmp-1788141014-588a531d",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-588a531d/pin-07-6cc472/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-48e3d7cae905a3815dbb90a3",
+      "campaign_id": "cmp-1788141014-0ed46bdd",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Laptop festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-0ed46bdd/pin-03-b8426c/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-8d07c0024dd53fb3e53404c1",
+      "campaign_id": "cmp-1788141014-a6fcded9",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-07-2db239/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-cc9a2a7818afc313fd591548",
+      "campaign_id": "cmp-1788141014-3efd9ac1",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-3efd9ac1/pin-06-abc7a0/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-87449500c9b5f4487d1447fb",
+      "campaign_id": "cmp-1788141014-a4a3dac1",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a4a3dac1/pin-07-43ae77/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-11561b5c98e032c52126407a",
+      "campaign_id": "cmp-1788141014-102051e0",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-102051e0/pin-06-2090d4/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-efb2c86e5fe12abe658279c7",
+      "campaign_id": "cmp-1788141014-a6fcded9",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-06-1e66f1/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
       "publication_job_id": "job-03f4e74c75748fdd58cdadc1",
       "campaign_id": "cmp-1788141014-a6fcded9",
       "campaign_family_id": "fam-36975a465f89f0b9456c",
@@ -9,47 +289,7 @@
       "language": "en-GB",
       "title": "What to consider before choosing Laptop",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-05-809311/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-46567848aca9f1f553cde53a",
-      "campaign_id": "cmp-1788141014-fb9b6988",
-      "campaign_family_id": "fam-c2033255bfdfee82b55d",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "Choosing Laptop? Make one final comparison",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-fb9b6988/pin-07-59281d/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-99b08c28820df613a30cc2a3",
-      "campaign_id": "cmp-1788141014-fb9b6988",
-      "campaign_family_id": "fam-c2033255bfdfee82b55d",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "Laptop: a direct route to compare options",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-fb9b6988/pin-06-f85e71/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-2492dd90947b30e0970f8916",
-      "campaign_id": "cmp-1788141014-95550587",
-      "campaign_family_id": "fam-f4a03c743ffc433a949d",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "What to consider before choosing Laptop",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-05-24934a/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-ae57751733cac86e0ad575f5",
-      "campaign_id": "cmp-1788141014-95550587",
-      "campaign_family_id": "fam-f4a03c743ffc433a949d",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "Laptop: a direct route to compare options",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-06-c943f0/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-36fd3775c744e10e3ced471c",
@@ -59,7 +299,7 @@
       "language": "en-GB",
       "title": "Laptop: a direct route to compare options",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-06-518d95/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-5f4650179b8389a043aa183b",
@@ -69,37 +309,77 @@
       "language": "en-GB",
       "title": "Laptop: a direct route to compare options",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a4a3dac1/pin-06-a46239/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
-      "publication_job_id": "job-5ad0ea6d81c3eeb24e905d27",
-      "campaign_id": "cmp-1788141014-3efd9ac1",
-      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "publication_job_id": "job-dc81a49ab2b26702a4b52cd2",
+      "campaign_id": "cmp-1788141014-588a531d",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-588a531d/pin-06-22bf9f/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-3b5b1dc1e4cbf05e3be95a29",
+      "campaign_id": "cmp-1788141014-2aab74bf",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-2aab74bf/pin-06-647c49/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-ae57751733cac86e0ad575f5",
+      "campaign_id": "cmp-1788141014-95550587",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-06-c943f0/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-2492dd90947b30e0970f8916",
+      "campaign_id": "cmp-1788141014-95550587",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
       "market_id": "gb",
       "language": "en-GB",
       "title": "What to consider before choosing Laptop",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-3efd9ac1/pin-05-6e57f1/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-05-24934a/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
-      "publication_job_id": "job-c1879488c5cd61c9b2e3b419",
-      "campaign_id": "cmp-1788141014-a6fcded9",
-      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "publication_job_id": "job-99b08c28820df613a30cc2a3",
+      "campaign_id": "cmp-1788141014-fb9b6988",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
       "market_id": "gb",
       "language": "en-GB",
-      "title": "Laptop: choose with more clarity",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-04-92432e/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-fb9b6988/pin-06-f85e71/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
-      "publication_job_id": "job-2a69dc4100cb60be883955a4",
-      "campaign_id": "cmp-1788141014-faf17433",
-      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "publication_job_id": "job-46567848aca9f1f553cde53a",
+      "campaign_id": "cmp-1788141014-fb9b6988",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
       "market_id": "gb",
       "language": "en-GB",
-      "title": "What to consider before choosing Laptop",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-05-d9c84b/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-fb9b6988/pin-07-59281d/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-1fdb6acd5a983e8f887f70f0",
+      "campaign_id": "cmp-1788141014-9ed50f7a",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-9ed50f7a/pin-06-b0b678/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-4cbd6ea75908e71275a6c1fa",
@@ -109,7 +389,7 @@
       "language": "en-GB",
       "title": "What to consider before choosing Laptop",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-588a531d/pin-05-20c3a1/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-1a56ddeddb7ec546b6621c28",
@@ -119,7 +399,7 @@
       "language": "en-GB",
       "title": "What to consider before choosing Laptop",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a4a3dac1/pin-05-45ec42/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-f1638f1224d9594209843ff9",
@@ -129,47 +409,17 @@
       "language": "en-GB",
       "title": "Laptop: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-102051e0/pin-04-0cea6e/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
-      "publication_job_id": "job-8f5f2c9e3c41106e6af86491",
-      "campaign_id": "cmp-1788141014-2aab74bf",
-      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "publication_job_id": "job-c1879488c5cd61c9b2e3b419",
+      "campaign_id": "cmp-1788141014-a6fcded9",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
       "market_id": "gb",
       "language": "en-GB",
       "title": "Laptop: choose with more clarity",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-2aab74bf/pin-04-e3e1ea/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-d97647dec1c3a8a9ca53ec1d",
-      "campaign_id": "cmp-1788141014-faf17433",
-      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "Laptop: choose with more clarity",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-04-253eb6/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-521115e39d78ed7d77c36260",
-      "campaign_id": "cmp-1788141014-102051e0",
-      "campaign_family_id": "fam-113457d18d749ad16b25",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "What to consider before choosing Laptop",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-102051e0/pin-05-02e59a/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
-    },
-    {
-      "publication_job_id": "job-a1a70002128f3d8fbd9be3e9",
-      "campaign_id": "cmp-1788141014-95550587",
-      "campaign_family_id": "fam-f4a03c743ffc433a949d",
-      "market_id": "gb",
-      "language": "en-GB",
-      "title": "Laptop: choose with more clarity",
-      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-04-b50657/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-04-92432e/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-837e105e87b762288d12712a",
@@ -179,7 +429,47 @@
       "language": "en-GB",
       "title": "What to consider before choosing Laptop",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-2aab74bf/pin-05-559644/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-8f5f2c9e3c41106e6af86491",
+      "campaign_id": "cmp-1788141014-2aab74bf",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-2aab74bf/pin-04-e3e1ea/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-d97647dec1c3a8a9ca53ec1d",
+      "campaign_id": "cmp-1788141014-faf17433",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-04-253eb6/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-5ad0ea6d81c3eeb24e905d27",
+      "campaign_id": "cmp-1788141014-3efd9ac1",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-3efd9ac1/pin-05-6e57f1/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-521115e39d78ed7d77c36260",
+      "campaign_id": "cmp-1788141014-102051e0",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-102051e0/pin-05-02e59a/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-e4bc6fc1429821c4b14c89b5",
@@ -189,7 +479,27 @@
       "language": "en-GB",
       "title": "Laptop: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-9ed50f7a/pin-04-b6f74e/",
-      "updated_at": "2026-09-01T21:45:09.015233+00:00"
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-2a69dc4100cb60be883955a4",
+      "campaign_id": "cmp-1788141014-faf17433",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-05-d9c84b/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
+    },
+    {
+      "publication_job_id": "job-a1a70002128f3d8fbd9be3e9",
+      "campaign_id": "cmp-1788141014-95550587",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-04-b50657/",
+      "updated_at": "2026-09-01T21:45:20.455973+00:00"
     },
     {
       "publication_job_id": "job-18e4892b1955ba1e9b9b80c1",
