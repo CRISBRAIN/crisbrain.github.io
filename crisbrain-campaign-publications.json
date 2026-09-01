@@ -2,6 +2,196 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-d8ed5a0d7c16ac9a1bdde95d",
+      "campaign_id": "cmp-1788141014-0ad483e9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-0ad483e9/pin-02-7d799a/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-0afc28f2b822fa1f41e30337",
+      "campaign_id": "cmp-1788141014-77328f2d",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788141014-77328f2d/pin-02-0f4c66/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-50c1928cae30b9c43d3fab09",
+      "campaign_id": "cmp-1788141014-ca253637",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-ca253637/pin-02-73dd0f/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-0a96e25cedf2be3c08f30ca0",
+      "campaign_id": "cmp-1788141014-a6fcded9",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-a6fcded9/pin-02-c5b732/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-5cbb7b5b628bf4d5301f1b08",
+      "campaign_id": "cmp-1788141014-e573a0cc",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-e573a0cc/pin-02-20bbee/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-198b3b6392fa4c74baf0296b",
+      "campaign_id": "cmp-1788141015-9561ba2e",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-9561ba2e/pin-02-fe0dd2/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-f0445827b6c4e299d928aa57",
+      "campaign_id": "cmp-1788141014-c03b079b",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788141014-c03b079b/pin-02-8fb3f7/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-a4c17aeb52bb3d5ae0674a40",
+      "campaign_id": "cmp-1788141014-8e3f4d03",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8e3f4d03/pin-02-d4c6d4/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-27528a551a304e0bfbc5bd1f",
+      "campaign_id": "cmp-1788141014-95550587",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-95550587/pin-02-e6910e/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-9e54cff51021c7dace072e8d",
+      "campaign_id": "cmp-1788141014-a6b2eb3a",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-a6b2eb3a/pin-02-bebbb0/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-91906855b020981399567fec",
+      "campaign_id": "cmp-1788141015-f70db590",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-f70db590/pin-02-6a2133/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-0af710a59289c99e17c50ed9",
+      "campaign_id": "cmp-1788141014-34f9eb88",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788141014-34f9eb88/pin-02-a08468/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-c768c5dec9ca8ab5c3adbf23",
+      "campaign_id": "cmp-1788141014-a96a1280",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-a96a1280/pin-02-ef85e1/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-ecda0b7ff3b85b958cc84102",
+      "campaign_id": "cmp-1788141014-faf17433",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-faf17433/pin-02-c5e47b/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-8dda3bc1daa8700c4d7d008f",
+      "campaign_id": "cmp-1788141014-385aa88d",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Laptop: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788141014-385aa88d/pin-02-633002/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-0949d43436e01e05ab9abc4b",
+      "campaign_id": "cmp-1788141015-91d5fc63",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788141015-91d5fc63/pin-02-b183c0/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-afb1756b7d3448ebed03eafb",
+      "campaign_id": "cmp-1788141014-56d3210f",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788141014-56d3210f/pin-02-9d8005/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-0f46cdc7c2023286afda7e7e",
+      "campaign_id": "cmp-1788141014-720880e0",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-720880e0/pin-02-4bdc25/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
+      "publication_job_id": "job-1b7514aa67981d9a9954ef56",
+      "campaign_id": "cmp-1788141014-9ed50f7a",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Laptop: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788141014-9ed50f7a/pin-02-699a55/",
+      "updated_at": "2026-09-01T02:23:09.521278+00:00"
+    },
+    {
       "publication_job_id": "job-2cb701a7e45015a9253c3e7a",
       "campaign_id": "cmp-1788141015-24d9a9f7",
       "campaign_family_id": "fam-57f687b154835cc78de9",
