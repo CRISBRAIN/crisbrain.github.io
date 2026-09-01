@@ -2,74 +2,34 @@
   "version": 2,
   "items": [
     {
-      "publication_job_id": "job-3138ee686fc6e0efbc578fd3",
+      "publication_job_id": "job-8077ed39709efadc54d351a6",
       "campaign_id": "cmp-1788141014-f2d01779",
       "campaign_family_id": "fam-c2033255bfdfee82b55d",
       "market_id": "fr",
       "language": "fr-FR",
-      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-f2d01779/pin-05-268963/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "title": "Ordinateur portable : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-f2d01779/pin-06-e1da58/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
-      "publication_job_id": "job-cb38a8b0da835f8e7eff0bb7",
-      "campaign_id": "cmp-1788141014-720880e0",
-      "campaign_family_id": "fam-57f687b154835cc78de9",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-720880e0/pin-04-2fc22e/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-1f1b73739b1286939508df0b",
-      "campaign_id": "cmp-1788141014-ca253637",
-      "campaign_family_id": "fam-36975a465f89f0b9456c",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-ca253637/pin-04-ea41c7/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-9d7aaec94b7ffc12efdd818d",
-      "campaign_id": "cmp-1788141014-a96a1280",
-      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-a96a1280/pin-04-ef1c81/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-3c575753a7004c8c59051718",
-      "campaign_id": "cmp-1788141014-c7eb9ae5",
-      "campaign_family_id": "fam-e6a378c6868ea31e925f",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-c7eb9ae5/pin-04-07c9e7/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-bf621560ab664a214c2ce452",
+      "publication_job_id": "job-f55c24dc8886b33726572c0a",
       "campaign_id": "cmp-1788141014-8dab2167",
       "campaign_family_id": "fam-c30384e630df806d7d0e",
       "market_id": "fr",
       "language": "fr-FR",
-      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-05-0b2488/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "title": "Ordinateur portable : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-06-5b0280/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
-      "publication_job_id": "job-eadadda6d1948e03a9227865",
-      "campaign_id": "cmp-1788141014-8e3f4d03",
-      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "publication_job_id": "job-757690f46c13ea35e65e0dd8",
+      "campaign_id": "cmp-1788141014-0f14a2c3",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
       "market_id": "fr",
       "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8e3f4d03/pin-04-4e28e4/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-0f14a2c3/pin-05-aeb71d/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
       "publication_job_id": "job-377012493782a481c30221e7",
@@ -79,7 +39,127 @@
       "language": "fr-FR",
       "title": "Ordinateur portable : choisissez avec plus de clarté",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-0f14a2c3/pin-04-de1076/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-bf621560ab664a214c2ce452",
+      "campaign_id": "cmp-1788141014-8dab2167",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-05-0b2488/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-cb38a8b0da835f8e7eff0bb7",
+      "campaign_id": "cmp-1788141014-720880e0",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-720880e0/pin-04-2fc22e/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-3c575753a7004c8c59051718",
+      "campaign_id": "cmp-1788141014-c7eb9ae5",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-c7eb9ae5/pin-04-07c9e7/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-b7584ed847af6d935ec45301",
+      "campaign_id": "cmp-1788141014-c7eb9ae5",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-c7eb9ae5/pin-05-56460c/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-28b74f00d1625f2cdfb3799a",
+      "campaign_id": "cmp-1788141014-d39f9ba2",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-d39f9ba2/pin-04-164acc/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-1f1b73739b1286939508df0b",
+      "campaign_id": "cmp-1788141014-ca253637",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-ca253637/pin-04-ea41c7/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-6cb5d5cb084d7f1c45906299",
+      "campaign_id": "cmp-1788141014-d39f9ba2",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-d39f9ba2/pin-05-1fc751/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-eadadda6d1948e03a9227865",
+      "campaign_id": "cmp-1788141014-8e3f4d03",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8e3f4d03/pin-04-4e28e4/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-9d7aaec94b7ffc12efdd818d",
+      "campaign_id": "cmp-1788141014-a96a1280",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-a96a1280/pin-04-ef1c81/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-d6654b5e5423cf6721bdb45b",
+      "campaign_id": "cmp-1788141014-416de532",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-416de532/pin-04-c10882/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-5df352ca77c1ce5480bafb71",
+      "campaign_id": "cmp-1788141014-416de532",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-416de532/pin-05-3d03cc/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-3138ee686fc6e0efbc578fd3",
+      "campaign_id": "cmp-1788141014-f2d01779",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-f2d01779/pin-05-268963/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
       "publication_job_id": "job-05b17d4e2809894e2ea4a68b",
@@ -89,27 +169,7 @@
       "language": "fr-FR",
       "title": "Avant l'achat : définissez vos priorités pour Ordinateur portable",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-416de532/pin-03-5ba5c5/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-9f802c7b5cb977aa4e9fdd20",
-      "campaign_id": "cmp-1788141014-c7eb9ae5",
-      "campaign_family_id": "fam-e6a378c6868ea31e925f",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Avant l'achat : définissez vos priorités pour Ordinateur portable",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-c7eb9ae5/pin-03-18a65e/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
-    },
-    {
-      "publication_job_id": "job-cb10bbdcb52ae40161281d72",
-      "campaign_id": "cmp-1788141014-8dab2167",
-      "campaign_family_id": "fam-c30384e630df806d7d0e",
-      "market_id": "fr",
-      "language": "fr-FR",
-      "title": "Ordinateur portable : choisissez avec plus de clarté",
-      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-04-469458/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
       "publication_job_id": "job-946aa79dd371cc23182ab4e0",
@@ -119,7 +179,27 @@
       "language": "fr-FR",
       "title": "Avant l'achat : définissez vos priorités pour Ordinateur portable",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-03-183956/",
-      "updated_at": "2026-09-01T21:58:25.006839+00:00"
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-cb10bbdcb52ae40161281d72",
+      "campaign_id": "cmp-1788141014-8dab2167",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ordinateur portable : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-8dab2167/pin-04-469458/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
+    },
+    {
+      "publication_job_id": "job-9f802c7b5cb977aa4e9fdd20",
+      "campaign_id": "cmp-1788141014-c7eb9ae5",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Ordinateur portable",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788141014-c7eb9ae5/pin-03-18a65e/",
+      "updated_at": "2026-09-01T21:59:25.079439+00:00"
     },
     {
       "publication_job_id": "job-c20ad41b38771c260fe355d1",
