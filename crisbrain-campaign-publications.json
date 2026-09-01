@@ -2,6 +2,356 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-da5a4f495f93a73e87991527",
+      "campaign_id": "cmp-1788182517-9ceedd16",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing Laptop? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-9ceedd16/pin-07-c9a753/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-c36aa9f597cc756ef115004a",
+      "campaign_id": "cmp-1788182517-4780b479",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-4780b479/pin-04-b83173/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-9e98dd3adf2a5d73d64ed2de",
+      "campaign_id": "cmp-1788182517-4780b479",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-4780b479/pin-05-c758d6/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-bae3a550e4191f2dcdfde262",
+      "campaign_id": "cmp-1788182517-4780b479",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-4780b479/pin-06-d2ae90/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-4021703653bc9a40a364a8a8",
+      "campaign_id": "cmp-1788182517-732c28d0",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-732c28d0/pin-05-f460b8/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-d989a2b03221ab2487de0ed5",
+      "campaign_id": "cmp-1788182517-bc733f5e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-bc733f5e/pin-04-b96ab5/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-b4dbaf4defb05ef17a703132",
+      "campaign_id": "cmp-1788182517-9ceedd16",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-9ceedd16/pin-05-bc9e55/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-8771e788fcac7be585b820f5",
+      "campaign_id": "cmp-1788182517-51a4a17f",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-51a4a17f/pin-06-7b582f/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-d75245dbbb492417c1196d82",
+      "campaign_id": "cmp-1788182517-b6f59108",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-07-e60cea/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-cbeb901d985769d823d082cb",
+      "campaign_id": "cmp-1788182517-51a4a17f",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-51a4a17f/pin-03-a1bb22/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-045d3d33b3c4f53eeb1a2064",
+      "campaign_id": "cmp-1788182517-51a4a17f",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-51a4a17f/pin-04-42196e/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-29b1ff36907bdeeb85b20b01",
+      "campaign_id": "cmp-1788182517-19834cea",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-07-ec3f2e/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-14812aeed6d06dfa1d1add0e",
+      "campaign_id": "cmp-1788182517-4780b479",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-4780b479/pin-03-5bad82/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-0d672a51132d2969a1cecb95",
+      "campaign_id": "cmp-1788182517-9ceedd16",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-9ceedd16/pin-03-99d89a/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-f1f607a854452a859ba68475",
+      "campaign_id": "cmp-1788182517-b30ff071",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-07-c64f88/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-4efe42f521bcfec98cb87134",
+      "campaign_id": "cmp-1788182517-bc733f5e",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-bc733f5e/pin-03-be8959/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-b07d39f538f73d5408531c5d",
+      "campaign_id": "cmp-1788182517-732c28d0",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-732c28d0/pin-03-1f52fb/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-a42e8f8e933203622ef81095",
+      "campaign_id": "cmp-1788182517-71c03399",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-07-8e93b9/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-8380c76657eec85a81fe62ca",
+      "campaign_id": "cmp-1788182517-71c03399",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-06-c79e16/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-fccbba790fcd0e7b9287046d",
+      "campaign_id": "cmp-1788182517-9ceedd16",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-9ceedd16/pin-04-d73b86/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-6a67d5e9a7799a47192c463e",
+      "campaign_id": "cmp-1788182517-be4479a1",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-07-1fe197/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-b54f0d4806a43a02e67af5ef",
+      "campaign_id": "cmp-1788182517-b4749b91",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Portátil? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b4749b91/pin-07-8343a9/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-e9ce8b38766a447f98d18dc1",
+      "campaign_id": "cmp-1788182517-19834cea",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-06-3c8a23/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-f86cf21f69775b08cab9ea7b",
+      "campaign_id": "cmp-1788182517-19834cea",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-05-ebcadd/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-85366a58b597733b2dcc6e3a",
+      "campaign_id": "cmp-1788182517-b4749b91",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b4749b91/pin-05-6e17a8/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-5201804e5d251b08b1ea6d09",
+      "campaign_id": "cmp-1788182517-b6f59108",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-06-791a5d/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-e42f0d563c27af1550d735d6",
+      "campaign_id": "cmp-1788182517-b30ff071",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-06-146e96/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-81e977280449940933d2af30",
+      "campaign_id": "cmp-1788182517-b30ff071",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-05-6b9d2d/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-539ad1e4bc4ecd440a84a9f1",
+      "campaign_id": "cmp-1788182517-b30ff071",
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-04-ec6422/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-bdd20ca625146155582e72bf",
+      "campaign_id": "cmp-1788182517-b4749b91",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b4749b91/pin-06-714823/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-58b4870a8979d7a459b123b1",
+      "campaign_id": "cmp-1788182517-b6f59108",
+      "campaign_family_id": "fam-c30384e630df806d7d0e",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-05-61a06c/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-79b83554f066305457adcad1",
+      "campaign_id": "cmp-1788182517-71c03399",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-05-fee0c6/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-ddff768dbdad915c2b9c5a77",
+      "campaign_id": "cmp-1788182517-b4749b91",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b4749b91/pin-04-70e707/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-0ccfe5f4c98b75a703809ac6",
+      "campaign_id": "cmp-1788182517-71c03399",
+      "campaign_family_id": "fam-1f36ea07c73c14223289",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Portátil: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-04-6d3cae/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
+      "publication_job_id": "job-9c6af22a1268ed07e6f41220",
+      "campaign_id": "cmp-1788182517-be4479a1",
+      "campaign_family_id": "fam-c2033255bfdfee82b55d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Portátil",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-05-85fc6f/",
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
+    },
+    {
       "publication_job_id": "job-f1809c890aeb3c6b24c234eb",
       "campaign_id": "cmp-1788182517-be4479a1",
       "campaign_family_id": "fam-c2033255bfdfee82b55d",
@@ -9,7 +359,7 @@
       "language": "es-ES",
       "title": "Portátil: a direct route to compare options",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-06-7f8e1f/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-49fec6b21b90eba01e9b7a1d",
@@ -19,7 +369,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-71c03399/pin-03-77e39d/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-7399253691d86772206b240d",
@@ -29,7 +379,7 @@
       "language": "it-IT",
       "title": "Choosing Computer portatile? Make one final comparison",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-a92e0899/pin-07-b1f0c3/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-59b13d0f492da231b6f9d661",
@@ -39,7 +389,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b4749b91/pin-03-0d8787/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-9e25121a65c613aa4e6a44b4",
@@ -49,7 +399,7 @@
       "language": "it-IT",
       "title": "Choosing Computer portatile? Make one final comparison",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-59dd4589/pin-07-8105e9/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-fe81ccab6ec8e2ae2497e799",
@@ -59,7 +409,7 @@
       "language": "it-IT",
       "title": "Choosing Computer portatile? Make one final comparison",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-56bd1a38/pin-07-7f781b/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-0409e623093da035e21cdf5c",
@@ -69,7 +419,7 @@
       "language": "es-ES",
       "title": "Portátil: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-04-4efe29/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-723c8dd11560e107234ff1b5",
@@ -79,7 +429,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-19834cea/pin-03-137059/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-253dc93849a4df7a65ab95b4",
@@ -89,7 +439,7 @@
       "language": "it-IT",
       "title": "Choosing Computer portatile? Make one final comparison",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-cf32db6f/pin-07-750534/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-c72a2b41fa6ccb57020a3a34",
@@ -99,7 +449,7 @@
       "language": "es-ES",
       "title": "Portátil: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-04-8113a6/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-4a691d1a303c5cb0bcaced25",
@@ -109,7 +459,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b6f59108/pin-03-e79081/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-1b138b81b9858b70bf0164b8",
@@ -119,7 +469,7 @@
       "language": "it-IT",
       "title": "Choosing Computer portatile? Make one final comparison",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-31bcd309/pin-07-f7e4d9/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-452ebce875ebde281005376c",
@@ -129,7 +479,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-03-b4494e/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-56f3722c08c9cd58a19b99eb",
@@ -139,7 +489,7 @@
       "language": "es-ES",
       "title": "Portátil: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-be4479a1/pin-04-3810b2/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-673e0f26973a594e2bea858a",
@@ -149,7 +499,7 @@
       "language": "es-ES",
       "title": "Before buying: define your priorities for Portátil",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-b30ff071/pin-03-a55de2/",
-      "updated_at": "2026-09-01T22:17:09.941778+00:00"
+      "updated_at": "2026-09-01T22:17:21.725925+00:00"
     },
     {
       "publication_job_id": "job-00c5e39ad7a863a1be97e9bb",
