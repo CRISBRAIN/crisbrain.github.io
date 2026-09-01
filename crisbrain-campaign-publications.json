@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-9be8b44adfb39bed1e58a2c6",
+      "campaign_id": "cmp-1788182517-d811969c",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-d811969c/pin-02-f81c10/",
+      "updated_at": "2026-09-01T14:58:05.545719+00:00"
+    },
+    {
+      "publication_job_id": "job-45f220296136050e35307b37",
+      "campaign_id": "cmp-1788182517-7c36cc58",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-7c36cc58/pin-02-604aeb/",
+      "updated_at": "2026-09-01T14:58:05.545719+00:00"
+    },
+    {
       "publication_job_id": "job-740b23244d9432444cb8b6ac",
       "campaign_id": "cmp-1788182517-2d75a226",
       "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
