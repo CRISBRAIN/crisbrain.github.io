@@ -2,6 +2,16 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-1cd5a3f8c7d593db03055184",
+      "campaign_id": "cmp-1788182517-409bef2e",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Laptop",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-409bef2e/pin-05-617063/",
+      "updated_at": "2026-09-05T23:48:56.301917+00:00"
+    },
+    {
       "publication_job_id": "job-8a1c47d3df70d43f79216db9",
       "campaign_id": "cmp-1788182517-409bef2e",
       "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
