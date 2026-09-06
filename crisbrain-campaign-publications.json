@@ -2,6 +2,116 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-b334fa4a8368605cb146d489",
+      "campaign_id": "cmp-1788737418-03a9c620",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788737418-03a9c620/pin-01-d8722f/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-72b2c389dafe62262c882186",
+      "campaign_id": "cmp-1788737418-0cce7fac",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788737418-0cce7fac/pin-01-89a9b5/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-db8d718631d46c1529736299",
+      "campaign_id": "cmp-1788737418-557bbc0f",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-01-efa480/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-aed7dad79e319769c3f22387",
+      "campaign_id": "cmp-1788737418-c7a3a120",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788737418-c7a3a120/pin-01-2edc55/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-41517a0d418fa8d793681cea",
+      "campaign_id": "cmp-1788737418-1616fb14",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788737418-1616fb14/pin-01-07c521/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-7179826c7c76d7c7bcf88c10",
+      "campaign_id": "cmp-1788737418-d77873cc",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788737418-d77873cc/pin-01-a75943/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-625a0023952c791253702c74",
+      "campaign_id": "cmp-1788737418-a6669a18",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788737418-a6669a18/pin-01-639c97/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-d2fd2ef8aab26904d48d3f21",
+      "campaign_id": "cmp-1788737418-cc49d794",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788737418-cc49d794/pin-01-64f5d3/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-1ed520b81dfb1e920ea925e4",
+      "campaign_id": "cmp-1788737418-7c1559ed",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788737418-7c1559ed/pin-01-d01bac/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-75f560de58f7f19a895de9c8",
+      "campaign_id": "cmp-1788737386-8e6ae854",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook ASUS Vivobook 15 X1504VA, Intel Core i5-1334U, 8 GB RAM, 256 GB SSD, Linux KeepOS: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788737386-8e6ae854/pin-01-6f6ee5/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
+      "publication_job_id": "job-cdb4a0799cd10b68d812e824",
+      "campaign_id": "cmp-1788182517-409bef2e",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Laptop: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-409bef2e/pin-06-6e19d8/",
+      "updated_at": "2026-09-06T23:34:23.323753+00:00"
+    },
+    {
       "publication_job_id": "job-5e86ba6d42e61636bd9242f9",
       "campaign_id": "cmp-1788182517-1f9c651a",
       "campaign_family_id": "fam-36975a465f89f0b9456c",
