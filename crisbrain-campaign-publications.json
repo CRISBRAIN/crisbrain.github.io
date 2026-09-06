@@ -2,6 +2,166 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-278617858dd2b71042a255df",
+      "campaign_id": "cmp-1788182517-8ff42b76",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-8ff42b76/pin-01-bb436b/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-9750b6ee20920452830cc560",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-01-1488cb/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-38b8cb29a7571ce0277362ee",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-01-166470/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-2cb009a840181e16a958f5b4",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-01-bb074d/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-a064d93deb0904bc50326443",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-01-ae6b11/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-f60ffa688c1ace8474e6bdaf",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-01-a38969/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-27d82755a9462ed4abade98a",
+      "campaign_id": "cmp-1788182517-44095753",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-44095753/pin-01-2ef192/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-03b6bf47ee966f4bf8dad00e",
+      "campaign_id": "cmp-1788182517-1741b945",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-1741b945/pin-01-a55e98/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-fe83644245bcd731af7ea701",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-01-8853be/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-938130b2b33ca6464c7ed892",
+      "campaign_id": "cmp-1788182517-bd5162b8",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-bd5162b8/pin-01-9f7425/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-4acd42010561e2634fea3453",
+      "campaign_id": "cmp-1788182517-31012f38",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-31012f38/pin-01-7440d9/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-13b295eb6c0e3cad10028265",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-01-02336c/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-9d663b3f0377486c61de1be1",
+      "campaign_id": "cmp-1788182517-468d5fdf",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-468d5fdf/pin-01-08bdd7/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-f6e2e6f46c82bb3ae82ac280",
+      "campaign_id": "cmp-1788182517-766f3d22",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-766f3d22/pin-01-bd010d/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-327817c1cbfc8de34addcaca",
+      "campaign_id": "cmp-1788182517-a08a5dd9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-a08a5dd9/pin-01-0318d6/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
+      "publication_job_id": "job-c53aa74b993f804774c952b4",
+      "campaign_id": "cmp-1788182517-5348bee1",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-5348bee1/pin-01-487b04/",
+      "updated_at": "2026-09-06T01:47:22.706373+00:00"
+    },
+    {
       "publication_job_id": "job-1cd5a3f8c7d593db03055184",
       "campaign_id": "cmp-1788182517-409bef2e",
       "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
