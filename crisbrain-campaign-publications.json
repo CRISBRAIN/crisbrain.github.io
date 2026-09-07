@@ -2,6 +2,66 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-1ab6969c9bcaf2510aa2e9fd",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-01-fab750/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
+      "publication_job_id": "job-2a26e507475cddeb66cfeedf",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-01-7fbd7c/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
+      "publication_job_id": "job-6aeaf9bbc243efd7338ba590",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-01-e50474/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
+      "publication_job_id": "job-f915cf2059cbbec3198070ee",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-01-546340/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
+      "publication_job_id": "job-f764dc3b63edbe45167dcfc1",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-01-e953cf/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
+      "publication_job_id": "job-1806d6ff6ed6a521281e3ed5",
+      "campaign_id": "cmp-1788747132-89cee32a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Z-EDGE UG27H Monitor Gamer Curvo 27 polegadas FHD 300Hz 1ms: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788747132-89cee32a/pin-01-86f311/",
+      "updated_at": "2026-09-07T02:15:27.053120+00:00"
+    },
+    {
       "publication_job_id": "job-ed6161d86d38f709f2378dc4",
       "campaign_id": "cmp-1788745989-aec9c681",
       "campaign_family_id": null,
