@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-3492332e35c7a5f0cfd64c8d",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-02-6530df/",
+      "updated_at": "2026-09-07T01:47:02.961973+00:00"
+    },
+    {
+      "publication_job_id": "job-ffda8f847971ef955133e9f0",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-02-46c2aa/",
+      "updated_at": "2026-09-07T01:47:02.961973+00:00"
+    },
+    {
       "publication_job_id": "job-adab9f0d504793d88f905878",
       "campaign_id": "cmp-1788745545-68d5c681",
       "campaign_family_id": null,
