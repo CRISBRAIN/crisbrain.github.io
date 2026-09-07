@@ -2,6 +2,46 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-15627c1411f3968eb2a920a2",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-01-6ba6c2/",
+      "updated_at": "2026-09-07T02:26:03.543076+00:00"
+    },
+    {
+      "publication_job_id": "job-15666817558a600990df7c78",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-01-8ce281/",
+      "updated_at": "2026-09-07T02:26:03.543076+00:00"
+    },
+    {
+      "publication_job_id": "job-41139aae32c1879984d97b85",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-01-141e6f/",
+      "updated_at": "2026-09-07T02:26:03.543076+00:00"
+    },
+    {
+      "publication_job_id": "job-74497803c2cd94ed3f6f631b",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-01-c5222f/",
+      "updated_at": "2026-09-07T02:26:03.543076+00:00"
+    },
+    {
       "publication_job_id": "job-00f01b87c22b9d057a5c219a",
       "campaign_id": "cmp-1788747211-ceac0176",
       "campaign_family_id": null,
