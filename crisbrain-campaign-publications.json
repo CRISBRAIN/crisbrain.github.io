@@ -2,6 +2,16 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-400c68841f873bfa1d77c1cc",
+      "campaign_id": "cmp-1788182517-409bef2e",
+      "campaign_family_id": "fam-b80b6f8c0d4dc5ab170d",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Laptop? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788182517-409bef2e/pin-07-cd9895/",
+      "updated_at": "2026-09-07T23:26:18.580646+00:00"
+    },
+    {
       "publication_job_id": "job-9082d70a1b7a69cfeaa40cc4",
       "campaign_id": "cmp-1788790353-fb933683",
       "campaign_family_id": null,
