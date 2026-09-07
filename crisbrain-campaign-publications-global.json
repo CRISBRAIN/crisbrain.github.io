@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T01:05:25.366516+00:00",
+  "generated_at": "2026-09-07T01:13:28.401006+00:00",
   "items": [
     {
       "campaign_family_id": null,
@@ -6951,6 +6951,16 @@
       "creative_slot": "01",
       "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-01-129a8c/",
       "legacy_public_url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-01-129a8c/"
+    },
+    {
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1788743575-2d6c7761",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "currency": "EUR",
+      "creative_slot": "01",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-01-04d395/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-01-04d395/"
     }
   ]
 }
