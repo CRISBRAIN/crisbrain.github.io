@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T02:17:09.564419+00:00",
+  "generated_at": "2026-09-07T02:26:15.018643+00:00",
   "items": [
     {
       "campaign_family_id": null,
@@ -7311,6 +7311,46 @@
       "creative_slot": "01",
       "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-01-3e3467/",
       "legacy_public_url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-01-3e3467/"
+    },
+    {
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "market_id": "es",
+      "language": "es-ES",
+      "currency": "EUR",
+      "creative_slot": "01",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-01-c5222f/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-01-c5222f/"
+    },
+    {
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "market_id": "se",
+      "language": "sv-SE",
+      "currency": "SEK",
+      "creative_slot": "01",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-01-6ba6c2/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-01-6ba6c2/"
+    },
+    {
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1788747912-64783676",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "currency": "EUR",
+      "creative_slot": "01",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-01-8ce281/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-01-8ce281/"
+    },
+    {
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1788747885-9a370510",
+      "market_id": "it",
+      "language": "it-IT",
+      "currency": "EUR",
+      "creative_slot": "01",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-01-141e6f/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-01-141e6f/"
     }
   ]
 }
