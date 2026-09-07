@@ -2,6 +2,226 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-adab9f0d504793d88f905878",
+      "campaign_id": "cmp-1788745545-68d5c681",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-01-01b192/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-660d0baf9c0d4e6b473b725f",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-02-bc4c9b/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-deb967b7d418e8e93f4fc3c6",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-01-8baf3f/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-7b3eb4530e2b8bdc9895147c",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-02-c1c309/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-dbb49708f32e435213586e70",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-01-272353/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-481cbe090df0a0cac51ec92f",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-02-459713/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-d6fbc02fc5094c93cec5a4d7",
+      "campaign_id": "cmp-1788745469-0e983270",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788745469-0e983270/pin-01-addb98/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-2c3e03df77a188a4ce4e0cac",
+      "campaign_id": "cmp-1788182517-44095753",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-44095753/pin-02-014153/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-7781daf2d465a38397423fee",
+      "campaign_id": "cmp-1788182517-1741b945",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-1741b945/pin-02-53797e/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-1ec17e098d8ed1289d9d1c96",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-01-6f84bc/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-65d1ebe402601e418ff69518",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-02-9d3a04/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-7289ca476fa9429e00cf426b",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-01-f3d66e/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-7da0ab3da9c253f4116b8b22",
+      "campaign_id": "cmp-1788182517-bd5162b8",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-bd5162b8/pin-02-e77d62/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-9dafa176b41ea954e563fb85",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-01-404f28/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-bb253f5284c9c82c111ed272",
+      "campaign_id": "cmp-1788182517-31012f38",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-31012f38/pin-02-230e48/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-be1fabdf9b2fba13af0cdab3",
+      "campaign_id": "cmp-1788745367-ccd70634",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788745367-ccd70634/pin-01-97f728/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-0382351d7a1aada9132e9686",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-02-a5b612/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-2618a9141e242024941eb70c",
+      "campaign_id": "cmp-1788182517-468d5fdf",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-468d5fdf/pin-02-85b95b/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-be6358dedc1572fdec2486fe",
+      "campaign_id": "cmp-1788745324-06ed53eb",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788745324-06ed53eb/pin-01-c1d6f0/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-e7ffaefecdbadbc2817be534",
+      "campaign_id": "cmp-1788182517-766f3d22",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-766f3d22/pin-02-ac2a41/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-8c33783dde11fb469c543a6d",
+      "campaign_id": "cmp-1788745300-c05f9aee",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788745300-c05f9aee/pin-01-76534d/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
+      "publication_job_id": "job-c25a053268e01441c106d528",
+      "campaign_id": "cmp-1788182517-a08a5dd9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-a08a5dd9/pin-02-3d2d62/",
+      "updated_at": "2026-09-07T01:46:11.165495+00:00"
+    },
+    {
       "publication_job_id": "job-f0409f3751926331bb19e734",
       "campaign_id": "cmp-1788182517-5348bee1",
       "campaign_family_id": "fam-113457d18d749ad16b25",
