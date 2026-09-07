@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-ed6161d86d38f709f2378dc4",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-01-9926d7/",
+      "updated_at": "2026-09-07T01:53:42.569089+00:00"
+    },
+    {
+      "publication_job_id": "job-aa60b098fa2f5f64d26292e9",
+      "campaign_id": "cmp-1788182517-1f9c651a",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-1f9c651a/pin-02-7315c9/",
+      "updated_at": "2026-09-07T01:53:42.569089+00:00"
+    },
+    {
       "publication_job_id": "job-c3c963b985eaf984e3baf3d7",
       "campaign_id": "cmp-1788182517-8ff42b76",
       "campaign_family_id": "fam-36975a465f89f0b9456c",
