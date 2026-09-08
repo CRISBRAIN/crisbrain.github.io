@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-ee67b43b220876bd7568125d",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-04-47dfb5/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-7e32b42ce5e37b4bc6e11dc1",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-03-098281/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-6caefc50918e12f9d785373d",
+      "campaign_id": "cmp-1788182517-bd5162b8",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-bd5162b8/pin-04-12b70e/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-4dad4cded8398b6a70702fcb",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-03-ad0fdb/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-fcaf8f8ab8bfd01474264806",
+      "campaign_id": "cmp-1788182517-31012f38",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-31012f38/pin-04-6d5552/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-431d8a34c29aca1bed9fa779",
+      "campaign_id": "cmp-1788745367-ccd70634",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788745367-ccd70634/pin-03-0919ee/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-60bdd3b4c5f354d997b1d480",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-04-148bb8/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-61287dca86b6fcdaa03a9cd2",
+      "campaign_id": "cmp-1788745324-06ed53eb",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788745324-06ed53eb/pin-03-17d331/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-7d0501173fa715057e96c7de",
+      "campaign_id": "cmp-1788182517-766f3d22",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-766f3d22/pin-04-6432f9/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-faa1039ae804f811b064b549",
+      "campaign_id": "cmp-1788745300-c05f9aee",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788745300-c05f9aee/pin-03-54de35/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-e08e6c4b337fb94ebfc0791f",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-03-4a2555/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-3439f032204efc2397c1dac4",
+      "campaign_id": "cmp-1788182517-a08a5dd9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-a08a5dd9/pin-04-7f8be3/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-ae43f2a7d421907e691c7dfc",
+      "campaign_id": "cmp-1788182517-5348bee1",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-5348bee1/pin-04-898765/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-b24d0155459b4ab86130ddac",
+      "campaign_id": "cmp-1788743575-2d6c7761",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-03-94bdf8/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-cfaabdef583ac71fcf958ea1",
+      "campaign_id": "cmp-1788743085-fa55ccc8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788743085-fa55ccc8/pin-03-e026fc/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-8886aa008c0f3d80e9d0a3b6",
+      "campaign_id": "cmp-1788743043-e50b6fdf",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788743043-e50b6fdf/pin-03-b9e16f/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-023dbdba68c856ddec01f215",
+      "campaign_id": "cmp-1788743022-ae16273a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788743022-ae16273a/pin-03-66e1fd/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-f941c097edb5fb6bdd9813e7",
+      "campaign_id": "cmp-1788742995-a48aade0",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788742995-a48aade0/pin-03-68f6e9/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-c13f77e47bfd39815ea68c90",
+      "campaign_id": "cmp-1788742969-f7a58b0c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788742969-f7a58b0c/pin-03-b90096/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-155c8e208dc9afd555030b26",
+      "campaign_id": "cmp-1788742945-2c028355",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788742945-2c028355/pin-03-f4bd54/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-4f209cfd3eeb636814a7baa4",
+      "campaign_id": "cmp-1788742919-d3392e18",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-03-646ce0/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-9c46ce43e8882679962b45c5",
+      "campaign_id": "cmp-1788742874-197f0e4c",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788742874-197f0e4c/pin-03-abf59a/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-92e7f93b39650e6e64359337",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-03-66369e/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-cf94fa297b4a9aa2ea0fd883",
+      "campaign_id": "cmp-1788742850-8aec4708",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788742850-8aec4708/pin-03-e4a802/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-76a85a122122b18f15dc54f9",
+      "campaign_id": "cmp-1788737418-a7d77bd6",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788737418-a7d77bd6/pin-03-bfd54e/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-f07e2c2f0f5678f1314e0baa",
+      "campaign_id": "cmp-1788737418-03a9c620",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788737418-03a9c620/pin-03-6b44eb/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-9a43da0b69c61455817e67d1",
+      "campaign_id": "cmp-1788737418-0cce7fac",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788737418-0cce7fac/pin-03-338554/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-f120309390093a08e87bda3b",
+      "campaign_id": "cmp-1788737418-c7a3a120",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788737418-c7a3a120/pin-03-9a813d/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-250bd2e6774ea5f0c41efbf6",
+      "campaign_id": "cmp-1788737418-d77873cc",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788737418-d77873cc/pin-03-4265ae/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-404d3f3697bfdc11d424cfe5",
+      "campaign_id": "cmp-1788737418-a6669a18",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788737418-a6669a18/pin-03-9b184a/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-79ea907f884027d15e0242b6",
+      "campaign_id": "cmp-1788790272-fbd88247",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788790272-fbd88247/pin-07-2913dc/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-b78e07769557336a48b2fbb4",
+      "campaign_id": "cmp-1788790243-630ffdc6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788790243-630ffdc6/pin-07-043fc9/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-ecaa3703b9363e8869f0465d",
+      "campaign_id": "cmp-1788790457-045798bc",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788790457-045798bc/pin-07-66149f/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-4f520ec1f7e0643813945df2",
+      "campaign_id": "cmp-1788790431-11f7b030",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788790431-11f7b030/pin-07-72dfb6/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-ba941262ef333683769ccbc4",
+      "campaign_id": "cmp-1788790406-f9ff6015",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788790406-f9ff6015/pin-07-536e19/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-a494001903df8172f19b4c00",
+      "campaign_id": "cmp-1788742874-197f0e4c",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788742874-197f0e4c/pin-02-ef9b4b/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-46f489c3f8c4f3b20bdbb326",
+      "campaign_id": "cmp-1788790378-84cc0f7c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788790378-84cc0f7c/pin-07-d3743b/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-fa1aa237fe38b01a3d75cc60",
+      "campaign_id": "cmp-1788790325-1c60fe1e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788790325-1c60fe1e/pin-07-b9deac/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-52864cd38cf87cee66cced38",
+      "campaign_id": "cmp-1788790299-af3437db",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-07-4af81d/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-d7ec2c80f42a06d296cf32b9",
+      "campaign_id": "cmp-1788790212-6c41d3e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-07-5ac839/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-3f05f9660ca8cb8fdbf95a66",
+      "campaign_id": "cmp-1788790160-4844989e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-07-0615d1/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-6ace8ebef326951d2d3434ed",
+      "campaign_id": "cmp-1788787396-57b42761",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-07-d665e1/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-a7893e4c53f6fdf215c065d5",
+      "campaign_id": "cmp-1788787370-2be6acf0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-07-dc9d8c/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-2e38c7fad023187d63293c2a",
+      "campaign_id": "cmp-1788787347-f3fd7c47",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-07-d70771/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-b0daa4c7bd63c29d8ee6e25b",
+      "campaign_id": "cmp-1788787321-b1c65096",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-07-4049ed/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-e7ca98f5acbf0b80bedf20c2",
+      "campaign_id": "cmp-1788787296-f92ddd11",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-07-fd84a0/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-5c5eea4917ce2964ad2398a3",
+      "campaign_id": "cmp-1788787269-a661de5c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-07-edf1d5/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-b01860946b8a7de61d86823a",
+      "campaign_id": "cmp-1788787241-f0536877",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-07-92686f/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-71a2c6582d4abb9e1d1311b3",
+      "campaign_id": "cmp-1788787211-9a5bbbac",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-07-9fe9da/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
+      "publication_job_id": "job-8abc1963c9924ffa529d3b2a",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-07-a6e26e/",
+      "updated_at": "2026-09-08T00:58:36.605296+00:00"
+    },
+    {
       "publication_job_id": "job-5a4914c8252e86059500036a",
       "campaign_id": "cmp-1788787153-8cd1d189",
       "campaign_family_id": null,
