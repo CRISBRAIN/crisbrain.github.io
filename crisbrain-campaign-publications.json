@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-3320bafc072f0704ea63878f",
+      "campaign_id": "cmp-1788790299-af3437db",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-04-50c2a1/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-8214a2660b659e9a3d367d5d",
+      "campaign_id": "cmp-1788790212-6c41d3e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-04-af0d3d/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e4681c805894c174a05251d6",
+      "campaign_id": "cmp-1788790160-4844989e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-04-b7f6cb/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-2f55f3c7811a51d3b38a57e0",
+      "campaign_id": "cmp-1788787396-57b42761",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-04-7c1096/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-5e1e95131042abdfa7e32ad2",
+      "campaign_id": "cmp-1788787370-2be6acf0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-04-ff6efa/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-62d1bc1408d19e7c904d7dd2",
+      "campaign_id": "cmp-1788787347-f3fd7c47",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-04-8ba805/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-c6871ec4f4cf04abee3d0d75",
+      "campaign_id": "cmp-1788787321-b1c65096",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-04-c3845d/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-5f82172ca1b9e4cb0c49ec8e",
+      "campaign_id": "cmp-1788787296-f92ddd11",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-04-45be81/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-c432c98c00a9b5092ac97348",
+      "campaign_id": "cmp-1788787269-a661de5c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-04-26493b/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-79a78ff891bc591a17f1eefa",
+      "campaign_id": "cmp-1788787241-f0536877",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-04-6570a3/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-48d99f3087cce2e12367786f",
+      "campaign_id": "cmp-1788787211-9a5bbbac",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-04-848c0f/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e55fa755bcb436f70325eac7",
+      "campaign_id": "cmp-1788737418-557bbc0f",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-03-85d6c0/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-807e1a1dd2770fb84e9bd63a",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-04-19e1bf/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-c12ee49e78aab79973ea0fc0",
+      "campaign_id": "cmp-1788787153-8cd1d189",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-04-78ffa7/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-4b04f9266ee9df3bcc264d1f",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-04-f5617d/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-bdbb3583a371cd902cdb9e58",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-04-862acc/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-99636fb1d5263bde5bbb7e64",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-04-6ef305/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-34c3684abf2f6dfae18de950",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-04-540146/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-a80f86f42c39d4d4d0fd2782",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-04-908841/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-36b346445e0435e3f2f89b78",
+      "campaign_id": "cmp-1788747211-ceac0176",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "MSI MAG 27C6X 27 Zoll FHD 250Hz Curved Gaming Monitor: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-04-fe1685/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-50fd320e8de29122135bfe17",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-04-a0cdab/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-7e04dd1d2cfd6afc3c12e20d",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-04-31dd03/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-cd486a49081ba7bfe1e00373",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-04-4d086b/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e3d3fec6eaba56aed26af920",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-04-10c3bb/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-cf5d10b6ddaf7fecaa8250e2",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-04-13758a/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-3b51af011c2ce5fd8401612c",
+      "campaign_id": "cmp-1788737418-1616fb14",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788737418-1616fb14/pin-03-57e87c/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-8ef81939390f3436b3b88057",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-04-eff0c2/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-42047c1106bc59ff75b9e22a",
+      "campaign_id": "cmp-1788182517-1f9c651a",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-1f9c651a/pin-05-39c93c/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-ba996863ea1ee6f113262593",
+      "campaign_id": "cmp-1788182517-8ff42b76",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-8ff42b76/pin-05-2d33e6/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-728874147f036d8706f02049",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-05-484974/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-d2d6c3bd5eddcbf6dfb3fdec",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-05-1d9a47/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-4d5909ecbf4379c74fe6136f",
+      "campaign_id": "cmp-1788745545-68d5c681",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-04-f0287c/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-3c85f09eca370a7d6391d1dc",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-05-dedf69/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e7e3cbb1d9715e55c980689f",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-04-7e3701/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-b76fc3cba29c4655ea220d55",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-05-36f157/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-3546458968ba12e519030bca",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-04-f91cf7/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e401842698e5da76ab3216d9",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-05-e704d9/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-3d924bf77a01fb7122ac600d",
+      "campaign_id": "cmp-1788737418-cc49d794",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788737418-cc49d794/pin-03-0e9466/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-f2bf3206d5c9314883bbf9fb",
+      "campaign_id": "cmp-1788745469-0e983270",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788745469-0e983270/pin-04-782ed9/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-f90beec7e2d22c03e50d1990",
+      "campaign_id": "cmp-1788182517-44095753",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-44095753/pin-05-83f801/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-b03bd728d30b4ee24b5840e5",
+      "campaign_id": "cmp-1788182517-1741b945",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-1741b945/pin-05-cd54e7/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-559e0eecef803bf950463272",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-04-631928/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-a3890c35e1800af6e463a834",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-05-042c46/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-83947ea5127037675521c128",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-04-f806b9/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-01a4d71f1e792fb06b6c4390",
+      "campaign_id": "cmp-1788182517-bd5162b8",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-bd5162b8/pin-05-a9e04b/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-74b49e21253a1cdb574f17f2",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-04-df0f9d/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-70de964e10aa913191fde23e",
+      "campaign_id": "cmp-1788182517-31012f38",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-31012f38/pin-05-8dc31c/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-de9ae040f2a8c52293382daf",
+      "campaign_id": "cmp-1788745367-ccd70634",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788745367-ccd70634/pin-04-f3003a/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-c9b3e3d828f3f2ed87e8af92",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-05-b4c9ce/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
+      "publication_job_id": "job-e31f58dbcdc18353df35dc85",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-02-51bfbe/",
+      "updated_at": "2026-09-08T00:51:11.589656+00:00"
+    },
+    {
       "publication_job_id": "job-e9dce5a6bfced1d333723b3b",
       "campaign_id": "cmp-1788737418-a7d77bd6",
       "campaign_family_id": "fam-cdfae3f3f81c133505d7",
