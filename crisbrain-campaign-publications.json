@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-48545c5ee3ef2ce240bd85ec",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-03-80ebc4/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-21a6bdd60e23c4450e642165",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-03-2faef5/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-87a4955255f6a4a5b282548f",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-03-3237c8/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-e81510078b80eabe1c5b9a19",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-03-125dc5/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-9ba1db094e6fbf1e3645d5d4",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-03-49cd4e/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-67e99d68b1f2cfd71c6a5fa2",
+      "campaign_id": "cmp-1788182517-1741b945",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-1741b945/pin-04-87e6cd/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-ae11e463bb4322720a95b356",
+      "campaign_id": "cmp-1788182517-44095753",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-44095753/pin-04-102d83/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-ae2491da9530768f9ec8b789",
+      "campaign_id": "cmp-1788182517-a08a5dd9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-a08a5dd9/pin-05-b6a499/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-82f75399d01b30a176f0af0d",
+      "campaign_id": "cmp-1788182517-5348bee1",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Laptop",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-5348bee1/pin-05-e96aa7/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-e4ace5f0d658c989f3114202",
+      "campaign_id": "cmp-1788743575-2d6c7761",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-04-8c8e9c/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-1d7e2157a8b17d902d090217",
+      "campaign_id": "cmp-1788743085-fa55ccc8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788743085-fa55ccc8/pin-04-a3f115/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-018e88897b6f8abd41baedc5",
+      "campaign_id": "cmp-1788743043-e50b6fdf",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788743043-e50b6fdf/pin-04-85b239/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-d3d66dd3e3589e25bfe8621f",
+      "campaign_id": "cmp-1788743022-ae16273a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788743022-ae16273a/pin-04-4464c8/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-8bb3724008c99708035d0117",
+      "campaign_id": "cmp-1788742995-a48aade0",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788742995-a48aade0/pin-04-a36561/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-2628af3e4476f14a22431bc0",
+      "campaign_id": "cmp-1788742969-f7a58b0c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788742969-f7a58b0c/pin-04-1e0034/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-46091ed688e7f58d20c38738",
+      "campaign_id": "cmp-1788742945-2c028355",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788742945-2c028355/pin-04-9c46d7/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-58800e02e02f05ece457e8ba",
+      "campaign_id": "cmp-1788742919-d3392e18",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-04-b40996/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-15322d84691c44be11353618",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-02-fd0685/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-6ba20112bf9d3b506863751f",
+      "campaign_id": "cmp-1788742874-197f0e4c",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788742874-197f0e4c/pin-04-199bde/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-dee9c998ad63bdbc1d601476",
+      "campaign_id": "cmp-1788742850-8aec4708",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788742850-8aec4708/pin-04-3fcd88/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-068e9fdef8abf73fd3eb3e79",
+      "campaign_id": "cmp-1788737418-a7d77bd6",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788737418-a7d77bd6/pin-04-b4cada/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-e9a1f0c0e63666ab64a88ce8",
+      "campaign_id": "cmp-1788737418-03a9c620",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788737418-03a9c620/pin-04-7da1b6/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-352074c8e30f8e00eab90be3",
+      "campaign_id": "cmp-1788737418-0cce7fac",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788737418-0cce7fac/pin-04-60dce8/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-fe1ae2a037ec7ba6109d5698",
+      "campaign_id": "cmp-1788737418-557bbc0f",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-04-f9d93e/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-f8c5cfaa0a53979c9a0bda31",
+      "campaign_id": "cmp-1788737418-c7a3a120",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788737418-c7a3a120/pin-04-5860b2/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-d4bf78468b5a55169920fc84",
+      "campaign_id": "cmp-1788737418-1616fb14",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788737418-1616fb14/pin-04-a0d29c/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-417271acb578be1715d396fe",
+      "campaign_id": "cmp-1788737418-d77873cc",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788737418-d77873cc/pin-04-0fbdf7/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-a8433f7806158091c34722fa",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-02-e5c6de/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-f9762e1e6c69ef3e787eac15",
+      "campaign_id": "cmp-1788745469-0e983270",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788745469-0e983270/pin-03-6fe13d/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-7a1d6f4839249f73cfaa8943",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-02-d82afe/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-e33be01a2a4f68d4f85ddb94",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-04-7832d7/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-a1908ae587b62de4beb6285d",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-03-85d86f/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-8836d78f8d6c53ef463399d4",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-04-9a83bb/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-0ce0aa234076d3cda397769e",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-03-117a8c/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-7c745b07fc35b7323f136efc",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-04-3acb56/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-dcca9f58c168a6b9d4b063e1",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-04-fa644b/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-66a8d12810799aec9c963b4c",
+      "campaign_id": "cmp-1788737418-a6669a18",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788737418-a6669a18/pin-04-9a9213/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-213e8a4ba161fc07c9e253dd",
+      "campaign_id": "cmp-1788737418-cc49d794",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788737418-cc49d794/pin-04-f6d29e/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-d7d7fad373da1083fbbd233a",
+      "campaign_id": "cmp-1788737418-7c1559ed",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788737418-7c1559ed/pin-04-b7fae3/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-302ce05577326168b0544a5f",
+      "campaign_id": "cmp-1788737386-8e6ae854",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook ASUS Vivobook 15 X1504VA, Intel Core i5-1334U, 8 GB RAM, 256 GB SSD, Linux KeepOS: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788737386-8e6ae854/pin-04-00510e/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-5f178df761b10cb096e81db8",
+      "campaign_id": "cmp-1788790353-fb933683",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788790353-fb933683/pin-03-ba3a6f/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-3e784d4726989e17bc975a25",
+      "campaign_id": "cmp-1788790457-045798bc",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788790457-045798bc/pin-03-853143/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-6364d466bd3128368fba1d3b",
+      "campaign_id": "cmp-1788790431-11f7b030",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788790431-11f7b030/pin-03-c4b410/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-7f3b645cbf6f10d815f60f3b",
+      "campaign_id": "cmp-1788790406-f9ff6015",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788790406-f9ff6015/pin-03-a9ff31/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-36bc4d5bd7fc76d3c4457834",
+      "campaign_id": "cmp-1788790378-84cc0f7c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788790378-84cc0f7c/pin-03-c0ad1d/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-c08068b4e19ee0b6cd36b7c0",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-03-87644f/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-3aaeda0264fc771369e0e7f2",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-04-ad1a26/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-f7fc6875ef82c183cc6dc2bb",
+      "campaign_id": "cmp-1788182517-8ff42b76",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-8ff42b76/pin-04-243737/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-6e4e43fc51a00f8c572e0f6b",
+      "campaign_id": "cmp-1788790325-1c60fe1e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788790325-1c60fe1e/pin-03-14a578/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
+      "publication_job_id": "job-00c685c3d7934db6c1c8df10",
+      "campaign_id": "cmp-1788790299-af3437db",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-03-a84eb6/",
+      "updated_at": "2026-09-08T00:59:28.093188+00:00"
+    },
+    {
       "publication_job_id": "job-ee67b43b220876bd7568125d",
       "campaign_id": "cmp-1788182517-b45b3b2c",
       "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
