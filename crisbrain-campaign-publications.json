@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-6abfaa0f97055c7fff2caa1e",
+      "campaign_id": "cmp-1788790378-84cc0f7c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788790378-84cc0f7c/pin-05-65ccd2/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-8ac388819c25962eb6875660",
+      "campaign_id": "cmp-1788790325-1c60fe1e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788790325-1c60fe1e/pin-05-e0500e/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-71e1e62c786ad0c9820deb42",
+      "campaign_id": "cmp-1788790299-af3437db",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-05-ea54c4/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-7ee1324478a9fb31621e7b9b",
+      "campaign_id": "cmp-1788790212-6c41d3e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-05-3107f6/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-5d07983170df8cd261c24222",
+      "campaign_id": "cmp-1788790160-4844989e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-05-8ff972/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-f97b86a23f61a847e5e457ab",
+      "campaign_id": "cmp-1788743085-fa55ccc8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788743085-fa55ccc8/pin-02-9678e5/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-c85a15607a84c0716d7e4270",
+      "campaign_id": "cmp-1788787396-57b42761",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-05-dd036e/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-fcf8e9dfb6f3e9d275069e98",
+      "campaign_id": "cmp-1788787370-2be6acf0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-05-173491/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-e384f882bd92cafd3adb250c",
+      "campaign_id": "cmp-1788787347-f3fd7c47",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-05-1ff35c/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-7b2263015a1b9b562a7fe3eb",
+      "campaign_id": "cmp-1788787321-b1c65096",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-05-0e65b6/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-f3445ae8862ccf46d447b736",
+      "campaign_id": "cmp-1788787296-f92ddd11",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-05-a93e04/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-c45cc3f34a3e0324fcf813f7",
+      "campaign_id": "cmp-1788787269-a661de5c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-05-52b5ea/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-362bac67c76592e13d281500",
+      "campaign_id": "cmp-1788787241-f0536877",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-05-46bc85/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-fa778d7242c1ec6d01abea61",
+      "campaign_id": "cmp-1788787211-9a5bbbac",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-05-2522e5/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-e6441213d3c20b942c4d53a6",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-05-351454/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-a31903f75e3dc8da95c24b05",
+      "campaign_id": "cmp-1788787153-8cd1d189",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-05-2190bc/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-206a5392c5df93043d873031",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-05-8a89c6/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-b83f8ddc2e8978717a06fd8f",
+      "campaign_id": "cmp-1788743022-ae16273a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788743022-ae16273a/pin-02-b00359/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-9ca19899dbfdba0dd9b8bb3f",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-05-665f58/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-17d8d4bdea2487e25495666f",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-05-402b02/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-742e5474afd58ff94634e130",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-05-27006d/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-ba3a449869443d83eceeb54e",
+      "campaign_id": "cmp-1788747211-ceac0176",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von MSI MAG 27C6X 27 Zoll FHD 250Hz Curved Gaming Monitor beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-05-cf4f4a/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-18fc803e114e1df8ab00939a",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-05-1b742c/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-6e1addf7f650a8793fa80a66",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-05-b30426/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-90fdfe3dd4598d08c6e617a6",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-05-001406/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-4eb2fc7da1e9fb35afa7581e",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-05-b9f8b9/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-935a862d935f6cc2be3e0ba8",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-05-9ccd2d/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-05412b349f90061abaa0e56f",
+      "campaign_id": "cmp-1788747132-89cee32a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Z-EDGE UG27H Monitor Gamer Curvo 27 polegadas FHD 300Hz 1ms",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788747132-89cee32a/pin-05-fabf55/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-3a999c092e2a82f8751fb542",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-05-6aa224/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-8b1fcb1b7c0f7960425fb51a",
+      "campaign_id": "cmp-1788182517-1f9c651a",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-1f9c651a/pin-06-d9c003/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-7a68bbf508835ad0d0c8db5d",
+      "campaign_id": "cmp-1788182517-8ff42b76",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-8ff42b76/pin-06-3923aa/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-c723b86725f8146d3fa38c24",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-06-af719c/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-b2762eb43a71e5114e39c74b",
+      "campaign_id": "cmp-1788742995-a48aade0",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788742995-a48aade0/pin-02-1f806c/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-152dce8ceefdcd3d26b172da",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-06-dd4e4e/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-896cd49b71bb9e9a15152cde",
+      "campaign_id": "cmp-1788745545-68d5c681",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-05-70e774/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-b6888692534c88e51508f43b",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-06-434f54/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-037c6029de0c04ccdf34ed20",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-05-c07c02/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-98ea655100382b4f030ead83",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-06-778f9e/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-1ccb967314c878c1fbe2c880",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-05-e8f002/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-625a9b0102f266fbb59b6129",
+      "campaign_id": "cmp-1788182517-c0c54862",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-c0c54862/pin-06-686e91/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-0e7b572e2bf49398dabccad5",
+      "campaign_id": "cmp-1788745469-0e983270",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788745469-0e983270/pin-05-8b84dc/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-ecd92dad35d33133bfc9efc5",
+      "campaign_id": "cmp-1788182517-44095753",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-44095753/pin-06-510b5c/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-d875b58bb5eca1a129151988",
+      "campaign_id": "cmp-1788182517-1741b945",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-1741b945/pin-06-cb161b/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-af238126bec0f3b10a6eb31d",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-05-5fcef9/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-3b7509d3f674ab63debe4fe0",
+      "campaign_id": "cmp-1788182517-b45b3b2c",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-b45b3b2c/pin-06-bbdaa1/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-5de735a83055c54d7cfaa537",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-05-ce187b/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-3b65d6a84e17829e8881e412",
+      "campaign_id": "cmp-1788182517-bd5162b8",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-bd5162b8/pin-06-a32bab/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-c92c8e0695fe3c6672a72987",
+      "campaign_id": "cmp-1788742919-d3392e18",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-02-8a1f1f/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-e55e3665c582da97bb4cc302",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-05-14c83f/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
+      "publication_job_id": "job-675f59e057100de64f18c148",
+      "campaign_id": "cmp-1788182517-31012f38",
+      "campaign_family_id": "fam-45fbd6d92cc98a0b3e84",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Acer Nitro V15 ANV15-51-7837",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-31012f38/pin-06-73e6f5/",
+      "updated_at": "2026-09-08T00:55:09.189000+00:00"
+    },
+    {
       "publication_job_id": "job-f311f841ff22e15ecbea8bde",
       "campaign_id": "cmp-1788745367-ccd70634",
       "campaign_family_id": null,
