@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-b1d4b27100e051c84c10f48b",
+      "campaign_id": "cmp-1788790406-f9ff6015",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788790406-f9ff6015/pin-06-fefb26/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-d9130bd3641ac3fc48cfb24b",
+      "campaign_id": "cmp-1788790378-84cc0f7c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788790378-84cc0f7c/pin-06-a724da/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-5296b2ff7bdeeadbe26323b2",
+      "campaign_id": "cmp-1788790325-1c60fe1e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788790325-1c60fe1e/pin-06-633a44/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-052fd4100f69f1174d281e83",
+      "campaign_id": "cmp-1788790299-af3437db",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-06-7e1fef/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-5cd674dd2834c4610e9c4673",
+      "campaign_id": "cmp-1788790212-6c41d3e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-06-2e4017/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-f6f9f2235315c792799de696",
+      "campaign_id": "cmp-1788790160-4844989e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-06-9f6969/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-fdb2e1dd42eac47582f913e3",
+      "campaign_id": "cmp-1788787396-57b42761",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-06-f4bbf2/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-c58949aa642f38366bd41609",
+      "campaign_id": "cmp-1788787370-2be6acf0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-06-4bb391/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-a3a3a11e454c552522baa5e2",
+      "campaign_id": "cmp-1788787347-f3fd7c47",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-06-29fced/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-3aeb29eda56b6efa491634eb",
+      "campaign_id": "cmp-1788787321-b1c65096",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-06-44b03e/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-dfc3f04f177f3997e9313080",
+      "campaign_id": "cmp-1788787296-f92ddd11",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-06-d69e8d/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-f350edfec054298d986190b9",
+      "campaign_id": "cmp-1788790243-630ffdc6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788790243-630ffdc6/pin-04-5cf6f5/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-ed0338714f300079dfe6fbf4",
+      "campaign_id": "cmp-1788790272-fbd88247",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788790272-fbd88247/pin-03-0791fb/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-53b882fdb613baf87d17154c",
+      "campaign_id": "cmp-1788790243-630ffdc6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788790243-630ffdc6/pin-03-f9fcb0/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-ff4a29529beaca1a3bb2158e",
+      "campaign_id": "cmp-1788790353-fb933683",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788790353-fb933683/pin-02-43108d/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-0077361e17286dde2dacb896",
+      "campaign_id": "cmp-1788790272-fbd88247",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788790272-fbd88247/pin-02-5b00e3/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-47af63a3ff24ae703545abc7",
+      "campaign_id": "cmp-1788790243-630ffdc6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788790243-630ffdc6/pin-02-41e8e1/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-9a13e506377bf7e5d1227b13",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-02-a3ed88/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-bdaa07cf4f5aceab8aae63e9",
+      "campaign_id": "cmp-1788787269-a661de5c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-06-3d3585/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-42592bd179e3bba3e604bea5",
+      "campaign_id": "cmp-1788787241-f0536877",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-06-af0439/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-39601cafc82e72ffbf39d5c7",
+      "campaign_id": "cmp-1788787211-9a5bbbac",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-06-5c51f3/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-c28f7407ca94fe07a9ca497d",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-06-ad2344/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-b32c6c8cae1be03d2fef3f5f",
+      "campaign_id": "cmp-1788787153-8cd1d189",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-06-63eba1/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-b62c2f2cf0536fbdb0ef8dcd",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-06-86fc05/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-90e8daa5821f6b3d52cb7be6",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-06-0eecb0/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-e9e61cc6aeb2f52ecfedf71b",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-06-92c405/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-88638104bf31f7d724b9e063",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-06-cf595d/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-fba835c3375a0c925081fa5e",
+      "campaign_id": "cmp-1788747211-ceac0176",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "MSI MAG 27C6X 27 Zoll FHD 250Hz Curved Gaming Monitor: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-06-75d7f8/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-58c477e3364351bbd8823195",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-06-f30f6b/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-80f1569914226fab07b1e519",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-06-91be59/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-7d7d521d91b6d9fcdad28a1b",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-06-b269d0/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-f0d83d2ce558bf093556eb17",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-06-b74ef2/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-6b473f83308df695574093ab",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R: qual opção combina melhor com sua rotina?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-02-0814af/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-7459846ca91607335a7d6833",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-06-d7ee64/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-f9f56caba406042be65638db",
+      "campaign_id": "cmp-1788747132-89cee32a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Z-EDGE UG27H Monitor Gamer Curvo 27 polegadas FHD 300Hz 1ms: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788747132-89cee32a/pin-06-bfb8e1/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-5bb7c3af499fe4231c163fca",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-06-6218b0/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-9b216db7f39534ab53333357",
+      "campaign_id": "cmp-1788182517-1f9c651a",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-1f9c651a/pin-07-91a4e5/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-34b0bf11e41f8318f3077455",
+      "campaign_id": "cmp-1788182517-8ff42b76",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-8ff42b76/pin-07-b98cd2/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-7c7a2eec6165c85bab2535b5",
+      "campaign_id": "cmp-1788182517-384aaaae",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-384aaaae/pin-07-2d0dd0/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-7e3518f829434ced41366c74",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-07-829151/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-ef9ae5a41374e1632db47727",
+      "campaign_id": "cmp-1788745545-68d5c681",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-06-27b2ed/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-319c5a658d7121ee62311129",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Choosing MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-07-cd40e7/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-efa0d451f918801f8e6f38da",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-06-853b23/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-b06afc017402bdf8132386c5",
+      "campaign_id": "cmp-1788790457-045798bc",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788790457-045798bc/pin-05-bb89b3/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-319f174d24354bb3a08cda61",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-05-7b1ff5/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-7436753e4d6e2e87dcafab5a",
+      "campaign_id": "cmp-1788790457-045798bc",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788790457-045798bc/pin-04-70baed/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-2ff4e9cfd91f9324d756bea7",
+      "campaign_id": "cmp-1788182517-45868141",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-45868141/pin-07-e9d158/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-03bcc75305ebac53274d9271",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-06-791c85/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-1daebb17f8d85fa05627fbf5",
+      "campaign_id": "cmp-1788182517-fa5f3b63",
+      "campaign_family_id": "fam-f4a03c743ffc433a949d",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell Inspiron i7 • 16 GB • 1 TB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-fa5f3b63/pin-07-f4c3ae/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
+      "publication_job_id": "job-dd015bf3ee924bb18826cd79",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-06-04ef6c/",
+      "updated_at": "2026-09-08T00:56:53.603784+00:00"
+    },
+    {
       "publication_job_id": "job-79dd98eab0ae87037962a69e",
       "campaign_id": "cmp-1788182517-c0c54862",
       "campaign_family_id": "fam-f4a03c743ffc433a949d",
