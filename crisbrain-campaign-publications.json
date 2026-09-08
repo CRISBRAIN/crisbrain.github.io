@@ -2,6 +2,116 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-1089ac8103115e02a2272ff7",
+      "campaign_id": "cmp-1788887916-d2e50c56",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788887916-d2e50c56/pin-01-875311/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-972df57e55acb94f2635dd43",
+      "campaign_id": "cmp-1788887888-2b3f308a",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788887888-2b3f308a/pin-01-186f51/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-82db5c517d806bd0a300fc7b",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-01-b3253a/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-095224a5cc50a154f4b75191",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-01-fd9f18/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-a180e2cdc38378a0e250c67b",
+      "campaign_id": "cmp-1788887795-1e72c426",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788887795-1e72c426/pin-01-5eab55/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-a0598f226af0a9feddc5d8e5",
+      "campaign_id": "cmp-1788887765-2aa3e5e8",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788887765-2aa3e5e8/pin-01-765240/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-fa56c1a63c5fd14fbcca6596",
+      "campaign_id": "cmp-1788887738-9e95b20a",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788887738-9e95b20a/pin-01-bba8af/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-0958cd82263aa634438ffe99",
+      "campaign_id": "cmp-1788887707-56152ef8",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788887707-56152ef8/pin-01-10cf00/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-844e8c69d76ce328093132bb",
+      "campaign_id": "cmp-1788887675-e1c6f19c",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788887675-e1c6f19c/pin-01-09ab9d/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-e25f581949956ba3212ab8f9",
+      "campaign_id": "cmp-1788887628-680f3a18",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788887628-680f3a18/pin-01-8307df/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
+      "publication_job_id": "job-8c0669e34840f950b152bd12",
+      "campaign_id": "cmp-1788887537-1ba9e13e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788887537-1ba9e13e/pin-01-3c3a1e/",
+      "updated_at": "2026-09-08T17:19:06.338734+00:00"
+    },
+    {
       "publication_job_id": "job-aaa19f5e77ac8dbec3e68a82",
       "campaign_id": "cmp-1788790212-6c41d3e7",
       "campaign_family_id": null,
