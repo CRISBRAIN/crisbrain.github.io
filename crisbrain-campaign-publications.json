@@ -2,6 +2,246 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-aaa19f5e77ac8dbec3e68a82",
+      "campaign_id": "cmp-1788790212-6c41d3e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-03-d8dacd/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-be40a377af82d8057443e5ff",
+      "campaign_id": "cmp-1788790160-4844989e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-03-3b06e7/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-32f9b8e4fde518f6e838e870",
+      "campaign_id": "cmp-1788787396-57b42761",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-03-41daf1/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-c9114c01fab6312464d19494",
+      "campaign_id": "cmp-1788787370-2be6acf0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-03-26b725/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-774a2c3f2c54ec37b2656ac9",
+      "campaign_id": "cmp-1788787347-f3fd7c47",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-03-bd90b1/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-4b26809aeaf60ab31caf0e1a",
+      "campaign_id": "cmp-1788787321-b1c65096",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-03-a98e4c/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-bd3875b4bd6647e82694dafa",
+      "campaign_id": "cmp-1788787296-f92ddd11",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-03-592d95/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-e0b464cceedd0f1ee5d3809d",
+      "campaign_id": "cmp-1788787269-a661de5c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-03-9a796a/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-02095614dbebd325a0b347cb",
+      "campaign_id": "cmp-1788787241-f0536877",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-03-aae897/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-ce8576133e47b024601db8f4",
+      "campaign_id": "cmp-1788182517-e3a7bee3",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-e3a7bee3/pin-03-4859a4/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-5f265ef498db3d0cf80ccf42",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-02-bd65d3/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-5a793c3b7b3afc42472f6cad",
+      "campaign_id": "cmp-1788787211-9a5bbbac",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-03-6de50a/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-e8d9e646e75b2f8475a46413",
+      "campaign_id": "cmp-1788787185-3d401628",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-03-d6cae7/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-4453dd9aa186917130b2edeb",
+      "campaign_id": "cmp-1788787153-8cd1d189",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-03-ac340e/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-b000310389523d0b9997b7cf",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-03-f70e92/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-2d2f92b45cce4c492a7f7c1c",
+      "campaign_id": "cmp-1788747937-13a3bb52",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-03-65f0a7/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-dba1250ec4c17480a66344bb",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-03-c2f3aa/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-684c4c9fcb85f6acc4e170e8",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-03-f30dd7/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-d9b3be5cdec375336b4a1a1e",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-03-f4cf16/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-bed3d4ad3b7f29c1b4352cf8",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-03-eeb608/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-c84084c1e155c957d04a4af7",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-03-a7a2a5/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-17b9756ea86f04360f49471b",
+      "campaign_id": "cmp-1788747132-89cee32a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Z-EDGE UG27H Monitor Gamer Curvo 27 polegadas FHD 300Hz 1ms",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788747132-89cee32a/pin-03-a1cf58/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-bdd223606d879115e0cc7422",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-03-575c2a/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
+      "publication_job_id": "job-097f6f2f7561df2c9a9b73d1",
+      "campaign_id": "cmp-1788182517-1f9c651a",
+      "campaign_family_id": "fam-36975a465f89f0b9456c",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Galaxy Book4 360 • 16 GB • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-1f9c651a/pin-04-470bf9/",
+      "updated_at": "2026-09-08T01:00:37.580362+00:00"
+    },
+    {
       "publication_job_id": "job-48545c5ee3ef2ce240bd85ec",
       "campaign_id": "cmp-1788747303-7a0e6711",
       "campaign_family_id": null,
