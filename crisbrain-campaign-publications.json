@@ -2,6 +2,186 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-f6abb470aa3a453534b1503f",
+      "campaign_id": "cmp-1788742896-6b0dae79",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788742896-6b0dae79/pin-05-5a7f69/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-e3617d5fa7fcd1dff1e11481",
+      "campaign_id": "cmp-1788742874-197f0e4c",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788742874-197f0e4c/pin-05-e2650e/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-ec7d80f9a70233988cde6acd",
+      "campaign_id": "cmp-1788742850-8aec4708",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788742850-8aec4708/pin-05-951d1f/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-27cc28afc15082fde1f0b62a",
+      "campaign_id": "cmp-1788737418-a7d77bd6",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788737418-a7d77bd6/pin-05-e4be33/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-2cacfdaeffe9becc4933515a",
+      "campaign_id": "cmp-1788737418-03a9c620",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788737418-03a9c620/pin-05-17e21e/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-933147efdb04b3d754bbef4a",
+      "campaign_id": "cmp-1788737418-0cce7fac",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788737418-0cce7fac/pin-05-592904/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-1aa4a7a3d83bdf97090d93cb",
+      "campaign_id": "cmp-1788737418-557bbc0f",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-05-303c7c/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-b2e2776742a253916a16a68f",
+      "campaign_id": "cmp-1788737418-c7a3a120",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788737418-c7a3a120/pin-05-a752c8/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-ae5789728e5bfe6c54cb1bdd",
+      "campaign_id": "cmp-1788737418-1616fb14",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788737418-1616fb14/pin-05-39b3f0/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-fcfdb1e9f0a9e97333c0771d",
+      "campaign_id": "cmp-1788737418-d77873cc",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788737418-d77873cc/pin-05-92cf4a/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-c75d19b2e7794d8acf3ad272",
+      "campaign_id": "cmp-1788737418-a6669a18",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788737418-a6669a18/pin-05-f930b7/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-89d5fc61452bba4d910eeb9e",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-02-9459fe/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-274ba6da3bcb2508610230fc",
+      "campaign_id": "cmp-1788737418-cc49d794",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788737418-cc49d794/pin-05-5dd33e/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-cb85e6060e14db71de1ed0e7",
+      "campaign_id": "cmp-1788737418-7c1559ed",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788737418-7c1559ed/pin-05-1a611b/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-67fa71270991ac92b01ad4aa",
+      "campaign_id": "cmp-1788737386-8e6ae854",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Notebook ASUS Vivobook 15 X1504VA, Intel Core i5-1334U, 8 GB RAM, 256 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788737386-8e6ae854/pin-05-f732f5/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-607c25efbbe9c3444646fd78",
+      "campaign_id": "cmp-1788790353-fb933683",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788790353-fb933683/pin-04-f41954/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-4a4543df2bf260b8798436b2",
+      "campaign_id": "cmp-1788790272-fbd88247",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788790272-fbd88247/pin-04-7844e5/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-87b0527f5851054ec8c2c17a",
+      "campaign_id": "cmp-1788790431-11f7b030",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788790431-11f7b030/pin-04-397c75/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
       "publication_job_id": "job-706791acc5bf7e11f04cb8f5",
       "campaign_id": "cmp-1788790406-f9ff6015",
       "campaign_family_id": null,
@@ -9,7 +189,7 @@
       "language": "it-IT",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788790406-f9ff6015/pin-04-d1f51c/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-8eba2f6515adedb6a4431798",
@@ -19,7 +199,7 @@
       "language": "es-ES",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788790378-84cc0f7c/pin-04-524c14/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-b16dde18ab8d1069c83ee1a8",
@@ -29,7 +209,7 @@
       "language": "fr-FR",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 : choisissez avec plus de clarté",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788790325-1c60fe1e/pin-04-6c693e/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-86ace2dc685f3c72d7a8b151",
@@ -39,7 +219,7 @@
       "language": "sv-SE",
       "title": "Before buying: define your priorities for Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
       "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-03-b57628/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-0a66623b228f8807cd8f6e40",
@@ -49,7 +229,7 @@
       "language": "sv-SE",
       "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
       "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-02-c16ab7/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-3320bafc072f0704ea63878f",
@@ -59,7 +239,7 @@
       "language": "en-GB",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788790299-af3437db/pin-04-50c2a1/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-8214a2660b659e9a3d367d5d",
@@ -69,7 +249,7 @@
       "language": "en-US",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/us/cmp-1788790212-6c41d3e7/pin-04-af0d3d/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-e4681c805894c174a05251d6",
@@ -79,7 +259,7 @@
       "language": "pt-BR",
       "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: escolha com mais clareza",
       "url": "https://crisbrain.github.io/campanhas/br/cmp-1788790160-4844989e/pin-04-b7f6cb/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-2f55f3c7811a51d3b38a57e0",
@@ -89,7 +269,7 @@
       "language": "sv-SE",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/se/cmp-1788787396-57b42761/pin-04-7c1096/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-5e1e95131042abdfa7e32ad2",
@@ -99,7 +279,7 @@
       "language": "nl-NL",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788787370-2be6acf0/pin-04-ff6efa/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-62d1bc1408d19e7c904d7dd2",
@@ -109,7 +289,7 @@
       "language": "it-IT",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788787347-f3fd7c47/pin-04-8ba805/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-c6871ec4f4cf04abee3d0d75",
@@ -119,7 +299,7 @@
       "language": "es-ES",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788787321-b1c65096/pin-04-c3845d/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-5f82172ca1b9e4cb0c49ec8e",
@@ -129,7 +309,7 @@
       "language": "en-CA",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788787296-f92ddd11/pin-04-45be81/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-c432c98c00a9b5092ac97348",
@@ -139,7 +319,7 @@
       "language": "fr-FR",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor : choisissez avec plus de clarté",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788787269-a661de5c/pin-04-26493b/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-79a78ff891bc591a17f1eefa",
@@ -149,7 +329,7 @@
       "language": "en-GB",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788787241-f0536877/pin-04-6570a3/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-48d99f3087cce2e12367786f",
@@ -159,7 +339,7 @@
       "language": "pl-PL",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: wybieraj z większą jasnością",
       "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788787211-9a5bbbac/pin-04-848c0f/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-e55fa755bcb436f70325eac7",
@@ -169,7 +349,7 @@
       "language": "it-IT",
       "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-03-85d6c0/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-807e1a1dd2770fb84e9bd63a",
@@ -179,7 +359,7 @@
       "language": "de-DE",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: mit mehr Klarheit auswählen",
       "url": "https://crisbrain.github.io/campanhas/de/cmp-1788787185-3d401628/pin-04-19e1bf/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-c12ee49e78aab79973ea0fc0",
@@ -189,7 +369,7 @@
       "language": "en-US",
       "title": "Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-04-78ffa7/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-4b04f9266ee9df3bcc264d1f",
@@ -199,7 +379,7 @@
       "language": "pt-BR",
       "title": "Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R: escolha com mais clareza",
       "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-04-f5617d/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-bdbb3583a371cd902cdb9e58",
@@ -209,7 +389,7 @@
       "language": "sv-SE",
       "title": "MSI MAG 27C6X 27 tum FHD 250Hz Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/se/cmp-1788747937-13a3bb52/pin-04-862acc/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-99636fb1d5263bde5bbb7e64",
@@ -219,7 +399,7 @@
       "language": "nl-NL",
       "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-04-6ef305/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-34c3684abf2f6dfae18de950",
@@ -229,7 +409,7 @@
       "language": "it-IT",
       "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-04-540146/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-a80f86f42c39d4d4d0fd2782",
@@ -239,7 +419,7 @@
       "language": "es-ES",
       "title": "MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-04-908841/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-36b346445e0435e3f2f89b78",
@@ -249,7 +429,7 @@
       "language": "de-DE",
       "title": "MSI MAG 27C6X 27 Zoll FHD 250Hz Curved Gaming Monitor: mit mehr Klarheit auswählen",
       "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-04-fe1685/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-50fd320e8de29122135bfe17",
@@ -259,7 +439,7 @@
       "language": "en-CA",
       "title": "MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-04-a0cdab/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-7e04dd1d2cfd6afc3c12e20d",
@@ -269,7 +449,7 @@
       "language": "fr-FR",
       "title": "MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz : choisissez avec plus de clarté",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-04-31dd03/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-cd486a49081ba7bfe1e00373",
@@ -279,7 +459,7 @@
       "language": "en-GB",
       "title": "AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor: choose with more clarity",
       "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-04-4d086b/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-e3d3fec6eaba56aed26af920",
@@ -289,7 +469,37 @@
       "language": "pl-PL",
       "title": "Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD: wybieraj z większą jasnością",
       "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-04-10c3bb/",
-      "updated_at": "2026-09-08T00:51:33.390176+00:00"
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-880c9bb983af65e9946eb5e5",
+      "campaign_id": "cmp-1788745324-06ed53eb",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788745324-06ed53eb/pin-04-b2760c/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-c01e270df02b1f36637112ef",
+      "campaign_id": "cmp-1788182517-766f3d22",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Computer portatile",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-766f3d22/pin-05-34d7d6/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
+    },
+    {
+      "publication_job_id": "job-501dd558a53664bb2f17e785",
+      "campaign_id": "cmp-1788745300-c05f9aee",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788745300-c05f9aee/pin-04-96d24e/",
+      "updated_at": "2026-09-08T00:52:18.083347+00:00"
     },
     {
       "publication_job_id": "job-cf5d10b6ddaf7fecaa8250e2",
