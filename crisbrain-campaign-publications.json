@@ -2,6 +2,106 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-e09c554ddae0ecb12a7a0e29",
+      "campaign_id": "cmp-1788910891-c3fd94c8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788910891-c3fd94c8/pin-01-1d97ba/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-4853d25fbdaf3d62a8fc4ec1",
+      "campaign_id": "cmp-1788910852-d5e78bd7",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788910852-d5e78bd7/pin-01-545171/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-30c8451cbc9ed8821f59baf9",
+      "campaign_id": "cmp-1788910805-9849f6bb",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788910805-9849f6bb/pin-01-c0899b/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-e5d8ce6d0ad6ac16bd4e17b9",
+      "campaign_id": "cmp-1788910773-26779ec2",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788910773-26779ec2/pin-01-3094eb/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-9b85acbf5c16748bc0c3794c",
+      "campaign_id": "cmp-1788910744-9c5faa0a",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788910744-9c5faa0a/pin-01-2c4523/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-d13e1ae62b75251a7476dee6",
+      "campaign_id": "cmp-1788910716-d5927401",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900 : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788910716-d5927401/pin-01-a75659/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-bf9bf2e139a9ec9a5e7223c1",
+      "campaign_id": "cmp-1788910682-938b58d3",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788910682-938b58d3/pin-01-a7c1c1/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-2a2edd89a3ecb96c05cac080",
+      "campaign_id": "cmp-1788910654-c61c3579",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788910654-c61c3579/pin-01-b175a0/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-1d1025d41331caa8ab042ced",
+      "campaign_id": "cmp-1788910628-24bd96f3",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788910628-24bd96f3/pin-01-f6cffc/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
+      "publication_job_id": "job-1054c87985a86750d7e2a8fa",
+      "campaign_id": "cmp-1788910597-4cedf97f",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788910597-4cedf97f/pin-01-c99540/",
+      "updated_at": "2026-09-08T23:42:02.165443+00:00"
+    },
+    {
       "publication_job_id": "job-1089ac8103115e02a2272ff7",
       "campaign_id": "cmp-1788887916-d2e50c56",
       "campaign_family_id": null,
