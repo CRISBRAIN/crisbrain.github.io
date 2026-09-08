@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-5a4914c8252e86059500036a",
+      "campaign_id": "cmp-1788787153-8cd1d189",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing Z-EDGE UG27P 27 inch FHD 280Hz 1500R Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788787153-8cd1d189/pin-07-0240be/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-8c3aa04fab47ff0eb5faac22",
+      "campaign_id": "cmp-1788786982-56e5247c",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Z-EDGE UG27P Monitor Gamer Curvo 27 polegadas FHD 1080p 280Hz 1ms 1500R? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788786982-56e5247c/pin-07-a45501/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-c7b436e33b28efc9ca58c448",
+      "campaign_id": "cmp-1788747912-64783676",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788747912-64783676/pin-07-0dc8dc/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-97ff8fe14676c431771d2e25",
+      "campaign_id": "cmp-1788747885-9a370510",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing MSI MAG 27C6X Monitor Gaming Curvo 27 pollici FHD 250Hz? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788747885-9a370510/pin-07-1b3e28/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-37c4c611b0671af0190bc6a6",
+      "campaign_id": "cmp-1788747845-a38d998c",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing MSI MAG 27C6X Monitor Gaming Curvo 27 pulgadas FHD 250Hz? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788747845-a38d998c/pin-07-cc15e7/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-3bf32a9df5e0b98de01c954b",
+      "campaign_id": "cmp-1788747211-ceac0176",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "MSI MAG 27C6X 27 Zoll FHD 250Hz Curved Gaming Monitor wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788747211-ceac0176/pin-07-15ba14/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-4d3ea561774502107d2b6dd2",
+      "campaign_id": "cmp-1788747303-7a0e6711",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Choosing MSI MAG 27C6X 27 inch FHD 250Hz Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788747303-7a0e6711/pin-07-469129/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-bb3722942baffd188d0b7fa5",
+      "campaign_id": "cmp-1788747279-87a0b089",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez MSI MAG 27C6X écran gaming incurvé 27 pouces FHD 250Hz ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788747279-87a0b089/pin-07-630249/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-52b136b4a55aa2eebe16e10e",
+      "campaign_id": "cmp-1788747255-87bb6f62",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing AOC 27G2ZNE 27 inch FHD 240Hz Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788747255-87bb6f62/pin-07-cf95af/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-8d9506285006e38b4ddd0573",
+      "campaign_id": "cmp-1788747231-07b3b411",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Z-EDGE 27 cali Curved Gaming Monitor 300Hz FHD? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788747231-07b3b411/pin-07-8f7ba8/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f67a06a42b6626c3a75b658b",
+      "campaign_id": "cmp-1788747183-51995c0e",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing Z-EDGE UG27H 27 inch FHD 300Hz Curved Gaming Monitor? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788747183-51995c0e/pin-07-39ec5d/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-83d2fd2cb3c01a3e83d8d3bf",
+      "campaign_id": "cmp-1788747132-89cee32a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Z-EDGE UG27H Monitor Gamer Curvo 27 polegadas FHD 300Hz 1ms? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788747132-89cee32a/pin-07-66d730/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f13cc85973ac03538c9d8679",
+      "campaign_id": "cmp-1788745989-aec9c681",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788745989-aec9c681/pin-07-0d3a06/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-5536e3fc62bf30443988ea3d",
+      "campaign_id": "cmp-1788745545-68d5c681",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788745545-68d5c681/pin-07-323712/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-3e790c40a7971488f3288003",
+      "campaign_id": "cmp-1788745518-fe0b6bb9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788745518-fe0b6bb9/pin-07-831494/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f0d1168f57a193b29331ffb6",
+      "campaign_id": "cmp-1788745492-4c5ab42e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788745492-4c5ab42e/pin-07-44a6ed/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-a68c2a08204b1c4e9336be7e",
+      "campaign_id": "cmp-1788745469-0e983270",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788745469-0e983270/pin-07-26babe/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-79fc3a9a4d602f8d8d833005",
+      "campaign_id": "cmp-1788745446-0e57c65d",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788745446-0e57c65d/pin-07-87c063/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-dcb7510c14fb05a3043dc9c7",
+      "campaign_id": "cmp-1788745419-63192a4f",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788745419-63192a4f/pin-07-06144f/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-94250b261bf27048710c709e",
+      "campaign_id": "cmp-1788745392-78b442be",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788745392-78b442be/pin-07-1b5dc8/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-c40a29b8474f5fd97fb3a1f1",
+      "campaign_id": "cmp-1788745367-ccd70634",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788745367-ccd70634/pin-07-31029b/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-b17e03f1392ff673dfe2d306",
+      "campaign_id": "cmp-1788745324-06ed53eb",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788745324-06ed53eb/pin-07-f254c3/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-45aeda3dc702cc8f7efcad85",
+      "campaign_id": "cmp-1788745300-c05f9aee",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788745300-c05f9aee/pin-07-4a41ff/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-8684e8e302efe43f069647c3",
+      "campaign_id": "cmp-1788743575-2d6c7761",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-07-4595d4/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-7dfc35604a0fb55aeb596150",
+      "campaign_id": "cmp-1788743085-fa55ccc8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788743085-fa55ccc8/pin-07-25cc57/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-8cbdbaf892b44f6b09ecac51",
+      "campaign_id": "cmp-1788743043-e50b6fdf",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788743043-e50b6fdf/pin-07-d74f1b/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-0212136a8e9909e8850a2612",
+      "campaign_id": "cmp-1788743022-ae16273a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788743022-ae16273a/pin-07-f34cb0/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-0cf2218efe480a9f141f675b",
+      "campaign_id": "cmp-1788742995-a48aade0",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788742995-a48aade0/pin-07-b679e5/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-a7542bd73874a9aab69e10c3",
+      "campaign_id": "cmp-1788742969-f7a58b0c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788742969-f7a58b0c/pin-07-703113/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-cb7b4d2c5a627a06fcd3904f",
+      "campaign_id": "cmp-1788742945-2c028355",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788742945-2c028355/pin-07-a2e946/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-41316a9d634f902a29d3b10c",
+      "campaign_id": "cmp-1788742919-d3392e18",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-07-c689ab/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-410f9a11ead28659f4dc75f7",
+      "campaign_id": "cmp-1788742896-6b0dae79",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788742896-6b0dae79/pin-07-59fd8a/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-5d986f4dd7783f67e6a64a7a",
+      "campaign_id": "cmp-1788742874-197f0e4c",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788742874-197f0e4c/pin-07-8ff93b/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f5b4d810177747f44e730ddd",
+      "campaign_id": "cmp-1788742850-8aec4708",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788742850-8aec4708/pin-07-73b021/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-512735061f3ae30ca1a65bd1",
+      "campaign_id": "cmp-1788737418-a7d77bd6",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788737418-a7d77bd6/pin-07-1739ad/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-72f04a78376127a40624b637",
+      "campaign_id": "cmp-1788737418-03a9c620",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788737418-03a9c620/pin-07-73fdfa/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f517adc691a91b02c3d04a7d",
+      "campaign_id": "cmp-1788737418-0cce7fac",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788737418-0cce7fac/pin-07-82753d/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-3f8f206a8c8f1d112f13e062",
+      "campaign_id": "cmp-1788737418-557bbc0f",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788737418-557bbc0f/pin-07-60833f/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-7a90e3de48711eb5b289b44e",
+      "campaign_id": "cmp-1788737418-c7a3a120",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788737418-c7a3a120/pin-07-dde22b/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f4a51e9666c8aa39220196b4",
+      "campaign_id": "cmp-1788737418-1616fb14",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788737418-1616fb14/pin-07-1dab65/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-f34dadc08a68bec3a7852049",
+      "campaign_id": "cmp-1788737418-d77873cc",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788737418-d77873cc/pin-07-a219a8/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-499bf418115a426b1b080793",
+      "campaign_id": "cmp-1788737418-a6669a18",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788737418-a6669a18/pin-07-3db131/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-1ecb927b6975afe03882716d",
+      "campaign_id": "cmp-1788737418-cc49d794",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788737418-cc49d794/pin-07-89a1db/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-fdac41cf498b511b5ab0bfc3",
+      "campaign_id": "cmp-1788737418-7c1559ed",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "us",
+      "language": "en-US",
+      "title": "ASUS Vivobook 15 X1504VA • Core i5 • 8 GB • 256 GB",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788737418-7c1559ed/pin-07-e88fb0/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-d63bfb1a7d264c6645988334",
+      "campaign_id": "cmp-1788737386-8e6ae854",
+      "campaign_family_id": "fam-cdfae3f3f81c133505d7",
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Notebook ASUS Vivobook 15 X1504VA, Intel Core i5-1334U, 8 GB RAM, 256 GB SSD, Linux KeepOS? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788737386-8e6ae854/pin-07-47d298/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-cb5bbad0b61f2d7512efcf1e",
+      "campaign_id": "cmp-1788790353-fb933683",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788790353-fb933683/pin-06-346e06/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-1cdb257cc6beb10f2264efc9",
+      "campaign_id": "cmp-1788790272-fbd88247",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788790272-fbd88247/pin-06-e5ca07/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-334a65993972762e99ed0f85",
+      "campaign_id": "cmp-1788790243-630ffdc6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788790243-630ffdc6/pin-06-94b5a2/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-a3dfce666f2cd711449eab08",
+      "campaign_id": "cmp-1788790457-045798bc",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788790457-045798bc/pin-06-a24096/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
+      "publication_job_id": "job-1b1d276ec7d5ca37cfee4b1b",
+      "campaign_id": "cmp-1788790431-11f7b030",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788790431-11f7b030/pin-06-939c3a/",
+      "updated_at": "2026-09-08T00:57:42.798540+00:00"
+    },
+    {
       "publication_job_id": "job-b1d4b27100e051c84c10f48b",
       "campaign_id": "cmp-1788790406-f9ff6015",
       "campaign_family_id": null,
