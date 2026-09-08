@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-f311f841ff22e15ecbea8bde",
+      "campaign_id": "cmp-1788745367-ccd70634",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788745367-ccd70634/pin-05-b13c2d/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-d0533eebdb06a13d2dbec1c5",
+      "campaign_id": "cmp-1788182517-aa953a46",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788182517-aa953a46/pin-06-fb93c7/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-c83a3bd7b7878017e64fd785",
+      "campaign_id": "cmp-1788182517-468d5fdf",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-468d5fdf/pin-06-8c2478/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-1608c65a2e561a7503815dd5",
+      "campaign_id": "cmp-1788742896-6b0dae79",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788742896-6b0dae79/pin-04-505fcb/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-7f52bda9124734a1545cd15d",
+      "campaign_id": "cmp-1788742896-6b0dae79",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788742896-6b0dae79/pin-03-6d4963/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-a0e3369709b6fb79fb6e342b",
+      "campaign_id": "cmp-1788742896-6b0dae79",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788742896-6b0dae79/pin-02-d8b5f4/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-339d47709ff1c5d9287fddc3",
+      "campaign_id": "cmp-1788745324-06ed53eb",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788745324-06ed53eb/pin-05-e0bf5d/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-18db26dccb9d5b9403946e66",
+      "campaign_id": "cmp-1788182517-766f3d22",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Computer portatile: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788182517-766f3d22/pin-06-60e3b6/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-b34e6f00d2b28acd61223c65",
+      "campaign_id": "cmp-1788745300-c05f9aee",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788745300-c05f9aee/pin-05-909839/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-86b222d409d392e504f85bab",
+      "campaign_id": "cmp-1788182517-a08a5dd9",
+      "campaign_family_id": "fam-57f687b154835cc78de9",
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Dell 15 DC15-C3100-A20 • Core 3 • 512 GB",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788182517-a08a5dd9/pin-06-cf84ac/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-02dd16617a663255793a5590",
+      "campaign_id": "cmp-1788182517-5348bee1",
+      "campaign_family_id": "fam-113457d18d749ad16b25",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Laptop: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788182517-5348bee1/pin-06-747769/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-99652e80c4477a0d72b72fd1",
+      "campaign_id": "cmp-1788743575-2d6c7761",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788743575-2d6c7761/pin-05-430501/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-6e7ff4f828e79a92ae2e52e5",
+      "campaign_id": "cmp-1788743085-fa55ccc8",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788743085-fa55ccc8/pin-05-2f3a6a/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-4be039d8b754421c1b6262d5",
+      "campaign_id": "cmp-1788743043-e50b6fdf",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788743043-e50b6fdf/pin-05-b3a6ab/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-665643be4d098617dc1f0632",
+      "campaign_id": "cmp-1788743022-ae16273a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788743022-ae16273a/pin-05-e62644/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-ecad7114797e7f01f8c47487",
+      "campaign_id": "cmp-1788742995-a48aade0",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788742995-a48aade0/pin-05-9b4f8c/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-683072abe7628edfb3ebe971",
+      "campaign_id": "cmp-1788742969-f7a58b0c",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788742969-f7a58b0c/pin-05-1ef54e/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-92b2bb07582c7549add9820f",
+      "campaign_id": "cmp-1788742850-8aec4708",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte: qual opção combina melhor com sua rotina?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788742850-8aec4708/pin-02-4dd4dc/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-41c0292d974cfd75e2faa8cc",
+      "campaign_id": "cmp-1788742945-2c028355",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788742945-2c028355/pin-05-e1a2af/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
+      "publication_job_id": "job-52df460f01748ea8ad8e5266",
+      "campaign_id": "cmp-1788742919-d3392e18",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem DEWALT Kit Furadeira e Parafusadeira de Impacto 20V DCK276D2, 2 baterias, carregador e bolsa de transporte",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788742919-d3392e18/pin-05-389210/",
+      "updated_at": "2026-09-08T00:54:19.781047+00:00"
+    },
+    {
       "publication_job_id": "job-472f1c883a650397ff810c5a",
       "campaign_id": "cmp-1788737418-7c1559ed",
       "campaign_family_id": "fam-cdfae3f3f81c133505d7",
