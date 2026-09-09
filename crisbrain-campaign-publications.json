@@ -2,6 +2,106 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-7bb8afaee2381d14c71756f2",
+      "campaign_id": "cmp-1788995998-a0df148a",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788995998-a0df148a/pin-01-7f1384/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-24ce66a1bfeb4c16e466e953",
+      "campaign_id": "cmp-1788995971-64b5d3fe",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788995971-64b5d3fe/pin-01-36aafa/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-98999a04868ed74cdbf671dc",
+      "campaign_id": "cmp-1788995940-81645445",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788995940-81645445/pin-01-11f431/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-ebaf63c7d0ceccd22ac0bf51",
+      "campaign_id": "cmp-1788995907-99fd8ce8",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788995907-99fd8ce8/pin-01-d25986/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-70247702ad65dcb3c04cc057",
+      "campaign_id": "cmp-1788995874-b37e0f22",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788995874-b37e0f22/pin-01-2367c1/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-c523f39363d9bc2d9a2f2198",
+      "campaign_id": "cmp-1788995843-d3b75b93",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-01-6c8a9f/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-9801afca15f54c3f2b1d2086",
+      "campaign_id": "cmp-1788995808-2052b733",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788995808-2052b733/pin-01-41f0be/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-1b6c22c062a558901297e151",
+      "campaign_id": "cmp-1788995771-4a646733",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788995771-4a646733/pin-01-c4416a/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-395be18e9763a99fdb289132",
+      "campaign_id": "cmp-1788995735-ae1edddb",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788995735-ae1edddb/pin-01-ceb8ae/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
+      "publication_job_id": "job-90990f68f5e4d03c4f14cbaf",
+      "campaign_id": "cmp-1788995675-782153ad",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788995675-782153ad/pin-01-2a41a3/",
+      "updated_at": "2026-09-09T23:20:23.780537+00:00"
+    },
+    {
       "publication_job_id": "job-e6cbb17140a33c7aec01aaab",
       "campaign_id": "cmp-1788887916-d2e50c56",
       "campaign_family_id": null,
