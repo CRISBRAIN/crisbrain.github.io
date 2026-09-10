@@ -2,6 +2,96 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-793232192b052bc6aea8319a",
+      "campaign_id": "cmp-1789072204-6fc1e95b",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789072204-6fc1e95b/pin-01-285078/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-a8e8347c046c1da00eb4861a",
+      "campaign_id": "cmp-1789072171-d6873a09",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789072171-d6873a09/pin-01-352a38/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-c15db7fd3137915b2ffadf6d",
+      "campaign_id": "cmp-1789072132-830f6478",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789072132-830f6478/pin-01-249506/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-9e89b99550071f4ab7c8bc9f",
+      "campaign_id": "cmp-1789072097-e87cbd72",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789072097-e87cbd72/pin-01-415460/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-aa0654cfdc1ea26b9cde240d",
+      "campaign_id": "cmp-1789072059-9646e466",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789072059-9646e466/pin-01-fb3235/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-fac024e6a7a7b17a35e83e98",
+      "campaign_id": "cmp-1789072019-d804a9f2",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789072019-d804a9f2/pin-01-40a7e8/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-813fbdfc76fe371f959f90af",
+      "campaign_id": "cmp-1789071986-ee5cbfcd",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789071986-ee5cbfcd/pin-01-b80627/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-cbdad86663aa00d2c9d9ad93",
+      "campaign_id": "cmp-1789071948-2732f4e7",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789071948-2732f4e7/pin-01-fcc792/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
+      "publication_job_id": "job-d3be41a35633c722e27d0ace",
+      "campaign_id": "cmp-1789071829-a4fd9a47",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789071829-a4fd9a47/pin-01-c3f021/",
+      "updated_at": "2026-09-10T20:30:34.849664+00:00"
+    },
+    {
       "publication_job_id": "job-7382a124953c730f20b8d568",
       "campaign_id": "cmp-1789071793-74a1b843",
       "campaign_family_id": null,
