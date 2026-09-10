@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T00:39:50.642177+00:00",
+  "generated_at": "2026-09-10T00:40:00.739183+00:00",
   "items": [
     {
       "campaign_family_id": null,
@@ -13728,9 +13728,49 @@
       "market_id": "fr",
       "language": "fr-FR",
       "currency": "EUR",
+      "creative_slot": "02",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-02-b4716e/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-02-b4716e/"
+    },
+    {
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "campaign_id": "cmp-1788995843-d3b75b93",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "currency": "EUR",
       "creative_slot": "06",
       "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-06-5e2683/",
       "legacy_public_url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-06-5e2683/"
+    },
+    {
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "campaign_id": "cmp-1788995735-ae1edddb",
+      "market_id": "de",
+      "language": "de-DE",
+      "currency": "EUR",
+      "creative_slot": "05",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788995735-ae1edddb/pin-05-f8a5c1/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/de/cmp-1788995735-ae1edddb/pin-05-f8a5c1/"
+    },
+    {
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "campaign_id": "cmp-1788995843-d3b75b93",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "currency": "EUR",
+      "creative_slot": "03",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-03-4ba2bd/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-03-4ba2bd/"
+    },
+    {
+      "campaign_family_id": "fam-e6a378c6868ea31e925f",
+      "campaign_id": "cmp-1788995843-d3b75b93",
+      "market_id": "fr",
+      "language": "fr-FR",
+      "currency": "EUR",
+      "creative_slot": "04",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-04-59c66d/",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/fr/cmp-1788995843-d3b75b93/pin-04-59c66d/"
     }
   ]
 }
