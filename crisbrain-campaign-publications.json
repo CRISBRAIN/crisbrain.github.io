@@ -2,6 +2,106 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-d167cbc3a0a1133ba1280649",
+      "campaign_id": "cmp-1789070793-a4094721",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789070793-a4094721/pin-01-706704/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-bc217378d491b025b379c78e",
+      "campaign_id": "cmp-1789070761-cfccddd0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789070761-cfccddd0/pin-01-f5c296/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-6e75ebc654aa2489529dd9cc",
+      "campaign_id": "cmp-1789070729-f1d869c0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789070729-f1d869c0/pin-01-2aa9f5/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-d1e04fc72f367da6d2658ec1",
+      "campaign_id": "cmp-1789070695-44eacbbc",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789070695-44eacbbc/pin-01-b6e9e7/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-e4a4fd55117a89491a83072e",
+      "campaign_id": "cmp-1789070659-b9244389",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789070659-b9244389/pin-01-8a2e12/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-62ae0571432d6147722d68b2",
+      "campaign_id": "cmp-1789070625-a20d771b",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11 : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789070625-a20d771b/pin-01-5ea6ec/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-23e3953b8a3a39bd4d4b93db",
+      "campaign_id": "cmp-1789070587-2a76421c",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789070587-2a76421c/pin-01-96f849/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-b62097a3c0ce8e0781a0bd08",
+      "campaign_id": "cmp-1789070553-5ea947e1",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789070553-5ea947e1/pin-01-48f7d0/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-cf4c44a29d1e6b3d4cc47a88",
+      "campaign_id": "cmp-1789070519-195268c0",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789070519-195268c0/pin-01-b4b782/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
+      "publication_job_id": "job-944570d40b17b0f04e2b9d4b",
+      "campaign_id": "cmp-1789070455-5adaa5e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789070455-5adaa5e7/pin-01-69e6d7/",
+      "updated_at": "2026-09-10T20:07:03.430811+00:00"
+    },
+    {
       "publication_job_id": "job-1ea9d52238fb2709d20f916e",
       "campaign_id": "cmp-1789067597-f6493de7",
       "campaign_family_id": null,
