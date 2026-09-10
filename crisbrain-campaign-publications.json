@@ -2,6 +2,106 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-1ea9d52238fb2709d20f916e",
+      "campaign_id": "cmp-1789067597-f6493de7",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789067597-f6493de7/pin-01-2c5068/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-bc937cfe0cd2ca20ee8dc68a",
+      "campaign_id": "cmp-1789067566-bf6b0879",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789067566-bf6b0879/pin-01-5d453f/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-2a435b8fe945feec4179588c",
+      "campaign_id": "cmp-1789067530-cba686e3",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789067530-cba686e3/pin-01-230319/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-4d83c8aaee998775a490c3d2",
+      "campaign_id": "cmp-1789067495-266b5915",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789067495-266b5915/pin-01-4782f2/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-0d42a8d2315d6894ff8a2394",
+      "campaign_id": "cmp-1789067432-b7c1d91a",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789067432-b7c1d91a/pin-01-93846c/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-e3c086688703eacf692ac69e",
+      "campaign_id": "cmp-1789067366-24fe8a53",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11 : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789067366-24fe8a53/pin-01-ca1823/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-19f71c0b4b1fad167684b0ab",
+      "campaign_id": "cmp-1789067324-a834415e",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789067324-a834415e/pin-01-374e34/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-961e8427d9378a1922f2c5c0",
+      "campaign_id": "cmp-1789067293-f6936b0c",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789067293-f6936b0c/pin-01-4fdd39/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-ac9908897ab10101d4ab5d1a",
+      "campaign_id": "cmp-1789067251-760372ff",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789067251-760372ff/pin-01-1fd551/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
+      "publication_job_id": "job-939a1f71bd045f87f4d7bbde",
+      "campaign_id": "cmp-1789067211-480caa31",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789067211-480caa31/pin-01-1a5c38/",
+      "updated_at": "2026-09-10T19:13:51.362023+00:00"
+    },
+    {
       "publication_job_id": "job-a30104422ec3317125030007",
       "campaign_id": "cmp-1788910744-9c5faa0a",
       "campaign_family_id": null,
