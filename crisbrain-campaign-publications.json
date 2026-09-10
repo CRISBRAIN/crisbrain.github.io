@@ -2,6 +2,66 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-01bf489fb0cb0c0a9ee9f700",
+      "campaign_id": "cmp-1789074839-39e74daa",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789074839-39e74daa/pin-01-005b9d/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
+      "publication_job_id": "job-4772cb8f68f764f1c26aea8b",
+      "campaign_id": "cmp-1789074795-629341f8",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789074795-629341f8/pin-01-27603f/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
+      "publication_job_id": "job-c581eed4678d4ec768cf5e0f",
+      "campaign_id": "cmp-1789074748-499f4e69",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789074748-499f4e69/pin-01-74b9e3/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
+      "publication_job_id": "job-ebf5e18e84612eb494206d38",
+      "campaign_id": "cmp-1789074715-71cdf573",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789074715-71cdf573/pin-01-cccd9f/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
+      "publication_job_id": "job-7199f5662652685b5761781b",
+      "campaign_id": "cmp-1789074671-8632bfc1",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789074671-8632bfc1/pin-01-a331ae/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
+      "publication_job_id": "job-b4b5354962a6d3bbad0f70b2",
+      "campaign_id": "cmp-1789074632-e0ba4563",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789074632-e0ba4563/pin-01-721ffb/",
+      "updated_at": "2026-09-10T21:15:02.283758+00:00"
+    },
+    {
       "publication_job_id": "job-35bcfc049777626d0050c3b1",
       "campaign_id": "cmp-1789073627-68aa80e0",
       "campaign_family_id": null,
