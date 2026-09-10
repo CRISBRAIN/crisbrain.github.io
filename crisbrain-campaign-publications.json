@@ -2,6 +2,76 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-8ee68e8bc6e5e77a42517add",
+      "campaign_id": "cmp-1789073409-293754af",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789073409-293754af/pin-01-e1ca9e/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-a9b37f478199f938f7735ca8",
+      "campaign_id": "cmp-1789073378-1c005b51",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789073378-1c005b51/pin-01-ad0d0a/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-18d204fd8716822926ad05a1",
+      "campaign_id": "cmp-1789073347-f78e4277",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789073347-f78e4277/pin-01-58fe47/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-361ad3294e23e2497a6f7fe7",
+      "campaign_id": "cmp-1789073312-317e429c",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789073312-317e429c/pin-01-0d05db/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-9290d4c4930271d81379291a",
+      "campaign_id": "cmp-1789073278-4d8d66bb",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789073278-4d8d66bb/pin-01-0db704/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-e030aa015844a542e96c5e2d",
+      "campaign_id": "cmp-1789073243-e5979c82",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789073243-e5979c82/pin-01-5d2926/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
+      "publication_job_id": "job-bbfbe1125a5cee99f0e486ba",
+      "campaign_id": "cmp-1789073208-6c97a770",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789073208-6c97a770/pin-01-4780c0/",
+      "updated_at": "2026-09-10T20:51:08.883910+00:00"
+    },
+    {
       "publication_job_id": "job-793232192b052bc6aea8319a",
       "campaign_id": "cmp-1789072204-6fc1e95b",
       "campaign_family_id": null,
