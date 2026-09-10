@@ -2,6 +2,506 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-4ecc0e687873d92bb4423fcc",
+      "campaign_id": "cmp-1788995998-a0df148a",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788995998-a0df148a/pin-04-3d4d04/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-d88b19531b7d2ca95ffd84dc",
+      "campaign_id": "cmp-1788995971-64b5d3fe",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788995971-64b5d3fe/pin-04-471d81/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-d300c9a47e2c6c7e8f1d5ede",
+      "campaign_id": "cmp-1788995940-81645445",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788995940-81645445/pin-04-d353c8/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-59784349cd14d522f23ce29c",
+      "campaign_id": "cmp-1788910682-938b58d3",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788910682-938b58d3/pin-04-ef7a15/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-775ffafd2cb67acdfff733d6",
+      "campaign_id": "cmp-1788910682-938b58d3",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788910682-938b58d3/pin-03-4203a5/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-6fc3ef4af41290b997f10c50",
+      "campaign_id": "cmp-1788910744-9c5faa0a",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788910744-9c5faa0a/pin-03-1d9a29/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-38d49ee03e9bd0a4ef667aa2",
+      "campaign_id": "cmp-1788910716-d5927401",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788910716-d5927401/pin-03-151876/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-12f45cd777d5d078007e0e13",
+      "campaign_id": "cmp-1788910654-c61c3579",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788910654-c61c3579/pin-03-6f6bc4/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-89de312b99a04887501fb959",
+      "campaign_id": "cmp-1788910628-24bd96f3",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900 festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788910628-24bd96f3/pin-03-872811/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-58c9946db891b1e27d401c08",
+      "campaign_id": "cmp-1788910597-4cedf97f",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788910597-4cedf97f/pin-03-d061b6/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-916afafebc146073e69c3c40",
+      "campaign_id": "cmp-1788995907-99fd8ce8",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788995907-99fd8ce8/pin-04-ee2d61/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-cb3e3421f88a2cf201c9d600",
+      "campaign_id": "cmp-1788995874-b37e0f22",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788995874-b37e0f22/pin-04-020ee6/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-5ca9c019029aa116558b11d4",
+      "campaign_id": "cmp-1788995808-2052b733",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788995808-2052b733/pin-04-02fb2f/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-24e48a350082cf6119379b06",
+      "campaign_id": "cmp-1788995771-4a646733",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788995771-4a646733/pin-04-1db2c8/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-3b433b31cc670843f9f550bc",
+      "campaign_id": "cmp-1788995735-ae1edddb",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788995735-ae1edddb/pin-04-44ff6e/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-bacd92a54d7809c1239a9538",
+      "campaign_id": "cmp-1788995675-782153ad",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 15-I1300-A80P, Intel Core i7-1355U, 16 GB RAM, SSD 1 TB, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788995675-782153ad/pin-04-227fb6/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-7b9e316ed91f7db59bb4c232",
+      "campaign_id": "cmp-1788887916-d2e50c56",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788887916-d2e50c56/pin-03-883e6c/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-e418b0aa62b3136357905214",
+      "campaign_id": "cmp-1788887888-2b3f308a",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788887888-2b3f308a/pin-03-2d6dee/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-ce45df2ac152bcff57f0b987",
+      "campaign_id": "cmp-1788887888-2b3f308a",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788887888-2b3f308a/pin-04-8c6962/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-0cb0310ca569e789cc93a9ee",
+      "campaign_id": "cmp-1788887916-d2e50c56",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1788887916-d2e50c56/pin-05-26f3f5/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-5ade3f340503c5efebbe44ce",
+      "campaign_id": "cmp-1788887888-2b3f308a",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788887888-2b3f308a/pin-05-8e103c/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-d93c618e300513be0b16f7bd",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-05-5800e9/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-2f73d7db49cddeed7208bb46",
+      "campaign_id": "cmp-1788887738-9e95b20a",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788887738-9e95b20a/pin-05-b66c89/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-2950660b7a42a99779ce15c5",
+      "campaign_id": "cmp-1788887707-56152ef8",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1788887707-56152ef8/pin-05-c56430/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-ca918f6cc867d076bb460f54",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-04-5f569e/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-9f9587da4172f206364d5185",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-03-279dff/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-95fc5e6d3980b9dd9a330b65",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-07-6a1591/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-2a7360d17cc76f198be9e576",
+      "campaign_id": "cmp-1788887856-41425cb0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788887856-41425cb0/pin-06-628bf8/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-0c9bbb682cb3ec599a37897a",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-07-dee4bb/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-2e0ccd1ed9c5f5180400a3ad",
+      "campaign_id": "cmp-1788887675-e1c6f19c",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1788887675-e1c6f19c/pin-05-bf2b26/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-8184a57d320b608d14953aa4",
+      "campaign_id": "cmp-1788887628-680f3a18",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1788887628-680f3a18/pin-05-04159a/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-e3068eb45fbe3b162e65f721",
+      "campaign_id": "cmp-1788887537-1ba9e13e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788887537-1ba9e13e/pin-05-360513/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-2a0f910f83aa456a20e49f4c",
+      "campaign_id": "cmp-1788910852-d5e78bd7",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1788910852-d5e78bd7/pin-04-f335f9/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-02566961c721360702f16d06",
+      "campaign_id": "cmp-1788910805-9849f6bb",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1788910805-9849f6bb/pin-04-79aeeb/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-a653de7af8d004fc8f0f735c",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-04-f4ba6c/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-90bc3bc146defb81e5046d18",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-03-8605ea/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-4312e7fba453881169e5e180",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-06-34ebc3/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-311d6d80b8a8d47488685da6",
+      "campaign_id": "cmp-1788887825-e5731dde",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788887825-e5731dde/pin-05-961859/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-237e7d43881921dbf00d59ce",
+      "campaign_id": "cmp-1788887765-2aa3e5e8",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788887765-2aa3e5e8/pin-07-fe3654/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-c909df12eaa0570deee0c0e5",
+      "campaign_id": "cmp-1788910773-26779ec2",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1788910773-26779ec2/pin-04-c30223/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-e7c33c66fc6ec1a4677cb9de",
+      "campaign_id": "cmp-1788887795-1e72c426",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788887795-1e72c426/pin-04-7e874f/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-dbde8fe5dfa620b0af313b16",
+      "campaign_id": "cmp-1788887795-1e72c426",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788887795-1e72c426/pin-03-468db0/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-0dc98e8a25f1b80692c6dccc",
+      "campaign_id": "cmp-1788887795-1e72c426",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788887795-1e72c426/pin-06-4a8623/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-c257f3cc429ce57fcbcde82b",
+      "campaign_id": "cmp-1788887795-1e72c426",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788887795-1e72c426/pin-05-bb4ee4/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-a0aeb817be2c66c60e1a9976",
+      "campaign_id": "cmp-1788887765-2aa3e5e8",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788887765-2aa3e5e8/pin-05-c71b98/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-596d62c9f58b13b1caa014a5",
+      "campaign_id": "cmp-1788887765-2aa3e5e8",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788887765-2aa3e5e8/pin-03-0a7969/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-e00ac57cc13be1965fd863ba",
+      "campaign_id": "cmp-1788887738-9e95b20a",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1788887738-9e95b20a/pin-03-bdc057/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-180703be3babdb2ebf26a0ff",
+      "campaign_id": "cmp-1788887537-1ba9e13e",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 7730U, 8 GB RAM, 512 GB SSD, Linux KeepOS? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788887537-1ba9e13e/pin-07-10b9b3/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-b6eac52831adfe5c571c3259",
+      "campaign_id": "cmp-1788910744-9c5faa0a",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1788910744-9c5faa0a/pin-04-4893d4/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
+      "publication_job_id": "job-fd8d1d52ccc82675b55476d2",
+      "campaign_id": "cmp-1788910716-d5927401",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Lenovo IdeaPad 1i Intel Core i5-1235U, 12 GB RAM, 512 GB SSD, Linux 15,6 polegadas, 82VYS00900 : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1788910716-d5927401/pin-04-7a876f/",
+      "updated_at": "2026-09-10T00:27:38.534319+00:00"
+    },
+    {
       "publication_job_id": "job-23ef5f0e7d7f740fde66de7d",
       "campaign_id": "cmp-1788910891-c3fd94c8",
       "campaign_family_id": null,
