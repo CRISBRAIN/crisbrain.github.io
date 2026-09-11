@@ -3,6 +3,28 @@
 
   var MEASUREMENT_ID = 'G-M5NE2TCYLR';
   var CONSENT_KEY = 'crisbrain_analytics_consent_v1';
+  var RENDER_GO_PREFIX = 'https://crisbrain-server.onrender.com/go/';
+  var SUPABASE_GO_PREFIX = 'https://axscqhvayfprggnkyerl.supabase.co/functions/v1/crisbrain-go-fallback/go/';
+
+  function installRenderFallback() {
+    try {
+      document.querySelectorAll('a[href^="' + RENDER_GO_PREFIX + '"]').forEach(function (a) {
+        var original = new URL(a.href);
+        var slug = original.pathname.split('/go/')[1] || '';
+        if (!slug) return;
+        var target = new URL(SUPABASE_GO_PREFIX + slug);
+        original.searchParams.forEach(function (value, key) { target.searchParams.append(key, value); });
+        a.href = target.toString();
+        a.dataset.crisbrainFallback = 'supabase-edge-v1';
+      });
+    } catch (e) {}
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', installRenderFallback, { once: true });
+  } else {
+    installRenderFallback();
+  }
 
   window.dataLayer = window.dataLayer || [];
   function gtag(){ window.dataLayer.push(arguments); }
@@ -52,7 +74,7 @@
       en: ['Privacy and analytics', 'CRISBRAIN uses traffic analytics only to understand discovery and usage. Advertising and personalization remain disabled.', 'Accept analytics', 'Continue without analytics', 'Privacy Policy'],
       de: ['Datenschutz und Analyse', 'CRISBRAIN verwendet Traffic-Analysen nur, um Auffindbarkeit und Nutzung zu verstehen. Werbung und Personalisierung bleiben deaktiviert.', 'Analyse akzeptieren', 'Ohne Analyse fortfahren', 'Datenschutz'],
       fr: ['Confidentialité et analyse', 'CRISBRAIN utilise les statistiques de trafic uniquement pour comprendre la découverte et l’usage. La publicité et la personnalisation restent désactivées.', 'Accepter l’analyse', 'Continuer sans analyse', 'Confidentialité'],
-      pl: ['Prywatność i analityka', 'CRISBRAIN używa analityki ruchu wyłącznie do zrozumienia odkrywania i korzystania. Reklamy i personalizacja pozostają wyłączone.', 'Akceptuj analitykę', 'Kontynuuj bez analityki', 'Polityka prywatności'],
+      pl: ['Prywatność i analityka', 'CRISBRAIN używa analityki ruchu wyłącznie do zrozumienia odkrywania i korzystania. Reklamy i personalizacja pozostają wyłączone.', 'Akceptuj analitykę', 'Kontynuuj bez analizy', 'Polityka prywatności'],
       it: ['Privacy e analisi', 'CRISBRAIN usa l’analisi del traffico solo per comprendere scoperta e utilizzo. Pubblicità e personalizzazione restano disattivate.', 'Accetta analisi', 'Continua senza analisi', 'Privacy'],
       es: ['Privacidad y analítica', 'CRISBRAIN usa analítica de tráfico solo para comprender descubrimiento y uso. La publicidad y la personalización permanecen desactivadas.', 'Aceptar analítica', 'Continuar sin analítica', 'Privacidad'],
       nl: ['Privacy en analyse', 'CRISBRAIN gebruikt verkeersanalyse alleen om vindbaarheid en gebruik te begrijpen. Advertenties en personalisatie blijven uitgeschakeld.', 'Analyse accepteren', 'Doorgaan zonder analyse', 'Privacybeleid'],
