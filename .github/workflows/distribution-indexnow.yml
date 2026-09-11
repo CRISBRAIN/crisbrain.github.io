@@ -1,0 +1,107 @@
+name: CRISBRAIN external discovery
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'rss/**'
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  distribute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync public RSS feeds
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p rss
+          BASE='https://axscqhvayfprggnkyerl.supabase.co/functions/v1/crisbrain-go-fallback/rss'
+          for m in br us de pl gb fr ca es it nl se; do
+            curl --fail --silent --show-error --location "$BASE/$m.xml" -o "rss/$m.xml"
+          done
+
+      - name: Notify IndexNow of CRISBRAIN URLs
+        env:
+          INDEXNOW_KEY: 5e980efffe21e1e6eab8219b4412eb4f
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request, xml.etree.ElementTree as ET
+
+          host = 'crisbrain.github.io'
+          key = os.environ['INDEXNOW_KEY']
+          key_location = f'https://{host}/{key}.txt'
+          root = 'https://crisbrain.github.io/sitemap.xml'
+          seen = set()
+
+          def get(url):
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  return r.read()
+
+          def collect(url):
+              try:
+                  tree = ET.fromstring(get(url))
+              except Exception as e:
+                  print('skip sitemap', url, e)
+                  return
+              tag = tree.tag.rsplit('}',1)[-1]
+              ns = {'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
+              if tag == 'sitemapindex':
+                  for loc in tree.findall('.//s:loc', ns):
+                      collect((loc.text or '').strip())
+              else:
+                  for loc in tree.findall('.//s:loc', ns):
+                      u = (loc.text or '').strip()
+                      if u.startswith('https://crisbrain.github.io/'):
+                          seen.add(u)
+
+          collect(root)
+          seen.update({
+              'https://crisbrain.github.io/partners/',
+              'https://crisbrain.github.io/partners/catalog/',
+          })
+          urls = sorted(seen)
+          print('IndexNow URL count:', len(urls))
+
+          for i in range(0, len(urls), 10000):
+              body = json.dumps({
+                  'host': host,
+                  'key': key,
+                  'keyLocation': key_location,
+                  'urlList': urls[i:i+10000],
+              }).encode('utf-8')
+              req = urllib.request.Request(
+                  'https://api.indexnow.org/indexnow',
+                  data=body,
+                  headers={'Content-Type':'application/json; charset=utf-8'},
+                  method='POST',
+              )
+              try:
+                  with urllib.request.urlopen(req, timeout=60) as r:
+                      print('IndexNow status:', r.status)
+              except urllib.error.HTTPError as e:
+                  print('IndexNow HTTP status:', e.code)
+                  if e.code not in (200, 202):
+                      raise
+          PY
+
+      - name: Commit refreshed RSS feeds
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'CRISBRAIN Distribution Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add rss
+          if git diff --cached --quiet; then
+            echo 'RSS unchanged'
+          else
+            git commit -m 'Refresh 11 market RSS feeds [skip ci]'
+            git push
+          fi
