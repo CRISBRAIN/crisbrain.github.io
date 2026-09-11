@@ -15,7 +15,7 @@
     p{color:var(--muted);font-size:18px}.hero{padding:32px 0 42px}.tagline{font-size:22px;max-width:760px}
     .cta{display:inline-block;margin-top:20px;background:#fff;color:#05080d;text-decoration:none;font-weight:800;padding:14px 20px;border-radius:10px}
     .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:28px 0 46px}.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px}.card strong{display:block;margin-bottom:8px}.card p{font-size:15px;margin:0}
-    .flow{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:24px;margin:24px 0 46px;font-weight:700;overflow:auto}
+    .flow,.code{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:24px;margin:24px 0 30px;font-weight:700;overflow:auto}.code{font:13px/1.5 Consolas,monospace;white-space:pre-wrap;word-break:break-all;color:#d8e6f3}
     .modes{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 38px}.pill{border:1px solid var(--line);border-radius:999px;padding:9px 13px;color:var(--muted)}
     .note{border-left:3px solid var(--accent);padding-left:16px}.footer{margin-top:54px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--muted)}
     @media(max-width:760px){.grid{grid-template-columns:1fr}}
@@ -31,9 +31,16 @@
   </section>
 
   <section>
+    <div class="eyebrow">INTEGRAÇÃO LIVE</div>
+    <h2>Um script. Sem backend do parceiro.</h2>
+    <p>O Universal Embed já está publicado e usa o fallback Supabase ativo enquanto o Render está indisponível. O parceiro informa apenas o Decision Link e o mercado; o roteamento e a tag comercial continuam governados pelo CRISBRAIN.</p>
+    <div class="code">&lt;script src="https://crisbrain.github.io/partners/embed.js" data-slug="SEU-DECISION-SLUG" data-market="br" data-partner="SEU-ID" defer&gt;&lt;/script&gt;</div>
+  </section>
+
+  <section>
     <div class="grid">
       <article class="card"><strong>Para publishers e sites</strong><p>Um botão de decisão pode ser incorporado sem substituir a página existente.</p></article>
-      <article class="card"><strong>Para distribuidores de links</strong><p>O clique pode passar pela decisão CRISBRAIN antes da rota comercial governada.</p></article>
+      <article class="card"><strong>Para distribuidores de links</strong><p>O clique passa pela decisão CRISBRAIN antes da rota comercial governada.</p></article>
       <article class="card"><strong>Para redes e comparadores</strong><p>Uma integração técnica pode atender múltiplos produtos e mercados sem expor o núcleo proprietário.</p></article>
     </div>
   </section>
@@ -43,7 +50,7 @@
     <h2>Uma ponte universal, múltiplos canais.</h2>
     <div class="flow">SITE / PUBLISHER / COMPARADOR / REDE → CRISBRAIN DECISION BRIDGE → decisão governada → rota comercial → atribuição → MONEY</div>
     <div class="modes">
-      <span class="pill">Universal Embed</span>
+      <span class="pill">Universal Embed — LIVE</span>
       <span class="pill">Publisher Widget</span>
       <span class="pill">Link Distributor</span>
       <span class="pill">Comparator</span>
@@ -56,7 +63,7 @@
   <section>
     <div class="eyebrow">POSICIONAMENTO</div>
     <h2>CRISBRAIN Decision — reduza o risco antes de comprar.</h2>
-    <p class="note">O código-fonte, os pesos, as fórmulas e as regras internas do núcleo permanecem protegidos. As integrações públicas usam apenas superfícies controladas, autenticação por instalação e roteamento comercial governado no servidor.</p>
+    <p class="note">O código-fonte, os pesos, as fórmulas e as regras internas do núcleo permanecem protegidos. As integrações públicas usam apenas superfícies controladas e roteamento comercial governado.</p>
   </section>
 
   <section>
@@ -64,7 +71,7 @@
     <div class="grid">
       <article class="card"><strong>Mais confiança</strong><p>Uma etapa de decisão explícita entre intenção e clique comercial.</p></article>
       <article class="card"><strong>Integração leve</strong><p>O parceiro não precisa construir seu próprio motor de governança de decisão.</p></article>
-      <article class="card"><strong>Atribuição governada</strong><p>A rota comercial e a evidência de influência ficam separadas do núcleo de decisão.</p></article>
+      <article class="card"><strong>Atribuição governada</strong><p>O identificador do parceiro é registrado no clique sem permitir alteração do destino comercial.</p></article>
     </div>
   </section>
 
