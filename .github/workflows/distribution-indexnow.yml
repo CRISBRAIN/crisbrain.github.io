@@ -1,131 +1,62 @@
-name: CRISBRAIN external discovery
+name: CRISBRAIN external distribution PAUSED
 
 on:
   push:
     branches: [main]
-    paths-ignore:
-      - 'rss/**'
-  schedule:
-    - cron: '17 */6 * * *'
+    paths:
+      - '.github/workflows/distribution-indexnow.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  distribute:
+  pause:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build 11 static RSS feeds from published CRISBRAIN pages
+      - name: Disable broken commercial CTAs and external discovery
         run: |
           python - <<'PY'
           from pathlib import Path
-          from html import escape
-          import re, xml.etree.ElementTree as ET
-          from urllib.parse import urlparse
+          import re
 
-          markets=['br','us','de','pl','gb','fr','ca','es','it','nl','se']
-          host='https://crisbrain.github.io'
-          Path('rss').mkdir(exist_ok=True)
+          pause='/distribution-paused/'
+          changed=0
+          for f in Path('campanhas').rglob('index.html'):
+              text=f.read_text(encoding='utf-8',errors='ignore')
+              original=text
+              text=re.sub(r'<meta name="robots" content="[^"]*">','<meta name="robots" content="noindex,nofollow">',text,flags=re.I)
+              text=re.sub(r'href="https://crisbrain-server\.onrender\.com/route/[^"]+"',f'href="{pause}"',text,flags=re.I)
+              if text!=original:
+                  f.write_text(text,encoding='utf-8')
+                  changed+=1
+          print('campaign pages paused:',changed)
 
-          def sitemap_urls(path, seen=None):
-              seen=seen or set(); p=Path(path)
-              if not p.exists() or path in seen: return []
-              seen.add(path)
-              root=ET.fromstring(p.read_text(encoding='utf-8'))
-              ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
-              tag=root.tag.rsplit('}',1)[-1]
-              out=[]
-              if tag=='sitemapindex':
-                  for loc in root.findall('.//s:loc',ns):
-                      u=(loc.text or '').strip()
-                      name=urlparse(u).path.lstrip('/')
-                      if name: out.extend(sitemap_urls(name,seen))
-              else:
-                  out=[(x.text or '').strip() for x in root.findall('.//s:loc',ns)]
-              return out
+          # Stop syndicated feeds immediately.
+          rss=Path('rss'); rss.mkdir(exist_ok=True)
+          for m in ['br','us','de','pl','gb','fr','ca','es','it','nl','se']:
+              (rss/f'{m}.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>CRISBRAIN PAUSED</title><link>https://crisbrain.github.io/</link><description>External distribution temporarily paused.</description></channel></rss>\n',encoding='utf-8')
 
-          urls=sitemap_urls('sitemap-campaigns.xml')
+          # Remove campaign discovery from root sitemap while paused.
+          p=Path('sitemap.xml')
+          if p.exists():
+              t=p.read_text(encoding='utf-8')
+              t=t.replace('<sitemap><loc>https://crisbrain.github.io/sitemap-campaigns.xml</loc></sitemap>','')
+              p.write_text(t,encoding='utf-8')
 
-          def attr(html, prop):
-              for pat in [
-                  rf'<meta[^>]+property=["\']{re.escape(prop)}["\'][^>]+content=["\']([^"\']+)',
-                  rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']{re.escape(prop)}["\']',
-                  rf'<meta[^>]+name=["\']{re.escape(prop)}["\'][^>]+content=["\']([^"\']+)',
-              ]:
-                  m=re.search(pat,html,re.I)
-                  if m:return m.group(1)
-              return ''
-
-          def title(html):
-              m=re.search(r'<title>(.*?)</title>',html,re.I|re.S)
-              return re.sub(r'\s+',' ',m.group(1)).strip() if m else 'CRISBRAIN Decision'
-
-          for market in markets:
-              candidates=[u for u in urls if f'/campanhas/{market}/' in u and '/pin-' in u][-200:]
-              items=[]
-              for u in reversed(candidates):
-                  f=Path(urlparse(u).path.strip('/'))/'index.html'
-                  if not f.exists():continue
-                  html=f.read_text(encoding='utf-8',errors='ignore')
-                  t=title(html); d=attr(html,'description') or 'CRISBRAIN Decision — reduza o risco antes de comprar.'; img=attr(html,'og:image')
-                  media=f'<media:content url="{escape(img,quote=True)}" medium="image"/>' if img else ''
-                  items.append(f'<item><title>{escape(t)}</title><link>{escape(u)}</link><guid isPermaLink="true">{escape(u)}</guid><description>{escape(d)}</description>{media}</item>')
-              xml='<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>'
-              xml+=f'<title>CRISBRAIN Decision {market.upper()}</title><link>{host}/campanhas/{market}/</link><description>CRISBRAIN governed product decisions for {market.upper()}.</description>'
-              xml+=''.join(items)+'</channel></rss>\n'
-              Path(f'rss/{market}.xml').write_text(xml,encoding='utf-8')
-              print(market,len(items))
+          Path('robots.txt').write_text('User-agent: *\nDisallow: /campanhas/\nAllow: /\nSitemap: https://crisbrain.github.io/sitemap.xml\n',encoding='utf-8')
           PY
 
-      - name: Notify IndexNow of all CRISBRAIN sitemap URLs
-        env:
-          INDEXNOW_KEY: 5e980efffe21e1e6eab8219b4412eb4f
+      - name: Commit emergency pause
         run: |
-          python - <<'PY'
-          import json, os, urllib.request, urllib.error, xml.etree.ElementTree as ET
-          from pathlib import Path
-          from urllib.parse import urlparse
-
-          host='crisbrain.github.io'; key=os.environ['INDEXNOW_KEY']; urls=set(); visited=set()
-          def collect(path):
-              if path in visited:return
-              visited.add(path); p=Path(path)
-              if not p.exists():return
-              root=ET.fromstring(p.read_text(encoding='utf-8'))
-              ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
-              if root.tag.rsplit('}',1)[-1]=='sitemapindex':
-                  for loc in root.findall('.//s:loc',ns):
-                      name=urlparse((loc.text or '').strip()).path.lstrip('/')
-                      if name:collect(name)
-              else:
-                  for loc in root.findall('.//s:loc',ns):
-                      u=(loc.text or '').strip()
-                      if u.startswith('https://crisbrain.github.io/'):urls.add(u)
-          collect('sitemap.xml')
-          urls.update({'https://crisbrain.github.io/partners/','https://crisbrain.github.io/partners/catalog/'})
-          batch=sorted(urls)[:10000]
-          print('IndexNow URL count:',len(batch))
-          if batch:
-              body=json.dumps({'host':host,'key':key,'keyLocation':f'https://{host}/{key}.txt','urlList':batch}).encode()
-              req=urllib.request.Request('https://api.indexnow.org/indexnow',data=body,headers={'Content-Type':'application/json; charset=utf-8'},method='POST')
-              try:
-                  with urllib.request.urlopen(req,timeout=60) as r:print('IndexNow status:',r.status)
-              except urllib.error.HTTPError as e:
-                  print('IndexNow status:',e.code)
-                  if e.code not in (200,202):raise
-          PY
-
-      - name: Commit refreshed RSS feeds
-        run: |
-          git config user.name 'CRISBRAIN Distribution Bot'
+          git config user.name 'CRISBRAIN Safety Guard'
           git config user.email 'actions@users.noreply.github.com'
-          git add rss
+          git add campanhas rss sitemap.xml robots.txt
           if git diff --cached --quiet; then
-            echo 'RSS unchanged'
+            echo 'No changes needed'
           else
-            git commit -m 'Refresh 11 market RSS feeds [skip ci]'
+            git commit -m 'Pause external commercial distribution until backend is restored [skip ci]'
             git push
           fi
