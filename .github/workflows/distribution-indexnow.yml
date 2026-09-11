@@ -1,62 +1,14 @@
 name: CRISBRAIN external distribution PAUSED
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/distribution-indexnow.yml'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  pause:
+  paused:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Disable broken commercial CTAs and external discovery
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import re
-
-          pause='/distribution-paused/'
-          changed=0
-          for f in Path('campanhas').rglob('index.html'):
-              text=f.read_text(encoding='utf-8',errors='ignore')
-              original=text
-              text=re.sub(r'<meta name="robots" content="[^"]*">','<meta name="robots" content="noindex,nofollow">',text,flags=re.I)
-              text=re.sub(r'href="https://crisbrain-server\.onrender\.com/route/[^"]+"',f'href="{pause}"',text,flags=re.I)
-              if text!=original:
-                  f.write_text(text,encoding='utf-8')
-                  changed+=1
-          print('campaign pages paused:',changed)
-
-          # Stop syndicated feeds immediately.
-          rss=Path('rss'); rss.mkdir(exist_ok=True)
-          for m in ['br','us','de','pl','gb','fr','ca','es','it','nl','se']:
-              (rss/f'{m}.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>CRISBRAIN PAUSED</title><link>https://crisbrain.github.io/</link><description>External distribution temporarily paused.</description></channel></rss>\n',encoding='utf-8')
-
-          # Remove campaign discovery from root sitemap while paused.
-          p=Path('sitemap.xml')
-          if p.exists():
-              t=p.read_text(encoding='utf-8')
-              t=t.replace('<sitemap><loc>https://crisbrain.github.io/sitemap-campaigns.xml</loc></sitemap>','')
-              p.write_text(t,encoding='utf-8')
-
-          Path('robots.txt').write_text('User-agent: *\nDisallow: /campanhas/\nAllow: /\nSitemap: https://crisbrain.github.io/sitemap.xml\n',encoding='utf-8')
-          PY
-
-      - name: Commit emergency pause
-        run: |
-          git config user.name 'CRISBRAIN Safety Guard'
-          git config user.email 'actions@users.noreply.github.com'
-          git add campanhas rss sitemap.xml robots.txt
-          if git diff --cached --quiet; then
-            echo 'No changes needed'
-          else
-            git commit -m 'Pause external commercial distribution until backend is restored [skip ci]'
-            git push
-          fi
+      - name: Distribution paused
+        run: echo "CRISBRAIN external distribution is paused."
