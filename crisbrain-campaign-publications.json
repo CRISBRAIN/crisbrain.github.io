@@ -2,6 +2,76 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-05ebac23aa68fe9b6a72be03",
+      "campaign_id": "cmp-1789227340-0d77dbe6",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789227340-0d77dbe6/pin-01-a8d706/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-bf87c3035566f39cbcfa8115",
+      "campaign_id": "cmp-1789227311-2623f848",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789227311-2623f848/pin-01-5a5f1c/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-f7ec1a97116e34094e8e2e9a",
+      "campaign_id": "cmp-1789227273-5985cd67",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789227273-5985cd67/pin-01-93254c/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-2c6de088eda056c8b5f66108",
+      "campaign_id": "cmp-1789227234-54e0756e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789227234-54e0756e/pin-01-e66d55/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-b4a9513e01b362285ab131f1",
+      "campaign_id": "cmp-1789227205-6e30b2e1",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789227205-6e30b2e1/pin-01-f33299/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-ef4a65e05b8809ddf9c7667e",
+      "campaign_id": "cmp-1789227146-25242ccd",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789227146-25242ccd/pin-01-a82e74/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
+      "publication_job_id": "job-354922235811105fc0df1dab",
+      "campaign_id": "cmp-1789227114-12bb682f",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789227114-12bb682f/pin-01-4075fb/",
+      "updated_at": "2026-09-12T15:36:53.476882+00:00"
+    },
+    {
       "publication_job_id": "job-3f3a5c688c041b4648247183",
       "campaign_id": "cmp-1789075106-10986656",
       "campaign_family_id": null,
