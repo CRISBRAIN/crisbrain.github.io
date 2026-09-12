@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-7eefb1c5392b248196ca7253",
+      "campaign_id": "cmp-1789072204-6fc1e95b",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789072204-6fc1e95b/pin-03-e42f75/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-3005a9235e2093a19dd4bbd5",
+      "campaign_id": "cmp-1789072171-d6873a09",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789072171-d6873a09/pin-03-f7aab8/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-bcc5a36744593fe8b84e2092",
+      "campaign_id": "cmp-1789072132-830f6478",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789072132-830f6478/pin-03-927cb2/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-4e51061206a2c5be1c3a4520",
+      "campaign_id": "cmp-1789072097-e87cbd72",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789072097-e87cbd72/pin-03-3eeb20/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-7ece69b9f9c0d76fc9c49119",
+      "campaign_id": "cmp-1789072059-9646e466",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789072059-9646e466/pin-03-7b760f/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-96fdd229e49ae65219eed71c",
+      "campaign_id": "cmp-1789072019-d804a9f2",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789072019-d804a9f2/pin-03-9f8c12/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-4b5b2ab5e1b2137f2f408e0f",
+      "campaign_id": "cmp-1789071986-ee5cbfcd",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789071986-ee5cbfcd/pin-03-bf88d1/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-6ec75bc4dfa0eb10d36b2d58",
+      "campaign_id": "cmp-1789071948-2732f4e7",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789071948-2732f4e7/pin-03-16ba1a/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-637fd888ba330253ceaff255",
+      "campaign_id": "cmp-1789071829-a4fd9a47",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789071829-a4fd9a47/pin-03-71ac9a/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-61caab48e57fd291ebdc06e1",
+      "campaign_id": "cmp-1789071793-74a1b843",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789071793-74a1b843/pin-03-019e6f/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-c40402241d2dd2e674943ba4",
+      "campaign_id": "cmp-1789070793-a4094721",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789070793-a4094721/pin-03-a25508/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-7c3d18e08e9321fce9c27187",
+      "campaign_id": "cmp-1789070761-cfccddd0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789070761-cfccddd0/pin-03-5da78d/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-2e57d23cfb64a6c5fdc41c1f",
+      "campaign_id": "cmp-1789070729-f1d869c0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789070729-f1d869c0/pin-03-9275bd/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-0268238aa747f653a02eae8f",
+      "campaign_id": "cmp-1789070695-44eacbbc",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789070695-44eacbbc/pin-03-8e2e72/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-04221b70c77c3a8e385c902b",
+      "campaign_id": "cmp-1789070659-b9244389",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789070659-b9244389/pin-03-da187f/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-fc36fb5ea8a28c8678a4fe3c",
+      "campaign_id": "cmp-1789070625-a20d771b",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789070625-a20d771b/pin-03-e35608/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-7e709ac448f329ec5ab02b61",
+      "campaign_id": "cmp-1789070587-2a76421c",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789070587-2a76421c/pin-03-f55878/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-359546435c466235636a1a62",
+      "campaign_id": "cmp-1789070553-5ea947e1",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789070553-5ea947e1/pin-03-a2a263/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-4ac2a72f1b5853cf97a1fa61",
+      "campaign_id": "cmp-1789070519-195268c0",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11 festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789070519-195268c0/pin-03-31b90c/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
+      "publication_job_id": "job-a20b909b7e723b35652d3788",
+      "campaign_id": "cmp-1789070455-5adaa5e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789070455-5adaa5e7/pin-03-ffb448/",
+      "updated_at": "2026-09-12T20:37:32.121542+00:00"
+    },
+    {
       "publication_job_id": "job-bb1b2e25b0ffdfb6d3802a2f",
       "campaign_id": "cmp-1789067597-f6493de7",
       "campaign_family_id": null,
