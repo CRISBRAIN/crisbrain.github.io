@@ -1,0 +1,64 @@
+name: CRISBRAIN CTA Railway Repair One-Shot
+
+on:
+  push:
+    paths:
+      - '.github/workflows/cta-railway-repair-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    if: github.event.head_commit.message == 'Install one-shot CTA Railway repair'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Replace stale Render host only
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          old = 'https://crisbrain-server.onrender.com'
+          new = 'https://crisbrain-server-production.up.railway.app'
+          scanned = changed_files = replacements = 0
+          for path in Path('campanhas').rglob('index.html'):
+              scanned += 1
+              text = path.read_text(encoding='utf-8')
+              count = text.count(old)
+              if not count:
+                  continue
+              path.write_text(text.replace(old, new), encoding='utf-8')
+              changed_files += 1
+              replacements += count
+          print(f'CTA_REPAIR scanned={scanned} changed_files={changed_files} replacements={replacements}')
+          PY
+
+      - name: Verify no stale host remains
+        shell: bash
+        run: |
+          if grep -RIl --include='index.html' 'https://crisbrain-server.onrender.com' campanhas | grep -q .; then
+            echo 'ERROR: stale Render CTA host remains.'
+            exit 1
+          fi
+
+      - name: Commit bounded repair
+        shell: bash
+        run: |
+          git config user.name 'CRISBRAIN Automation'
+          git config user.email 'actions@users.noreply.github.com'
+          git add campanhas
+          if git diff --cached --quiet; then
+            echo 'No stale CTA files to repair.'
+            exit 0
+          fi
+          git commit -m 'Repair stale CRISBRAIN Web CTAs after Railway migration'
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
