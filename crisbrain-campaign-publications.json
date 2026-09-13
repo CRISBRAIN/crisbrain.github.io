@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-45651b28a2138ae1d64200d8",
+      "campaign_id": "cmp-1789229984-80883e3d",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789229984-80883e3d/pin-02-e0b115/",
+      "updated_at": "2026-09-13T17:48:14.609240+00:00"
+    },
+    {
+      "publication_job_id": "job-ad39276b9f3d8ec5fba9859b",
+      "campaign_id": "cmp-1789229952-c75a71de",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789229952-c75a71de/pin-02-d07b8c/",
+      "updated_at": "2026-09-13T17:48:14.609240+00:00"
+    },
+    {
       "publication_job_id": "job-2ccb623401871174dd682ee8",
       "campaign_id": "cmp-1789229925-575fd89b",
       "campaign_family_id": null,
