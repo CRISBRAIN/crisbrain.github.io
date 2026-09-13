@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="index,follow">
+<meta name="description" content="CRISBRAIN Decision public market publications for distribution partners.">
+<title>CRISBRAIN Decision | Market Publications</title>
+<style>
+:root{color-scheme:dark;--bg:#05080d;--panel:#0c121b;--line:#1c2938;--text:#f4f7fb;--muted:#aeb9c7;--accent:#8cc8ff}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,sans-serif}main{max-width:980px;margin:auto;padding:44px 22px}.box{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:28px;margin-bottom:18px}h1,h2{margin-top:0}p{color:var(--muted);line-height:1.6}a{color:var(--accent)}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.card{display:block;border:1px solid var(--line);border-radius:14px;padding:16px;background:#09101a;text-decoration:none;color:var(--text)}.card:hover{border-color:#3d5874}.card h3{margin:0 0 8px;font-size:1rem}.card p{margin:0;font-size:.92rem}.nav{display:flex;gap:12px;flex-wrap:wrap}.btn{display:inline-block;border:1px solid var(--line);border-radius:10px;padding:10px 13px;text-decoration:none;color:var(--text);background:#09101a}.small{font-size:.9rem}
+</style>
+</head>
+<body><main>
+<section class="box">
+<div class="nav"><a class="btn" href="/partners/catalog/">← Distribution catalog</a><a class="btn" href="/partners/">Partner overview</a></div>
+<h1 id="marketTitle" style="margin-top:22px">CRISBRAIN Market Publications</h1>
+<p id="marketIntro">Public CRISBRAIN decision pages available for partner review and external distribution.</p>
+</section>
+<section class="box"><h2>Publications</h2><div id="items" class="grid"><p>Loading publications…</p></div></section>
+<section class="box small"><h2>Technical integration</h2><p>Platforms and aggregators that require a machine-readable feed may use the market RSS/XML endpoint. Human visitors should use the publication cards above.</p><p><a id="rssLink" href="#">Open technical RSS/XML feed</a></p></section>
+</main>
+<script>
+(function(){
+const markets={br:'Brazil',us:'United States',de:'Germany',pl:'Poland',gb:'United Kingdom',fr:'France',ca:'Canada',es:'Spain',it:'Italy',nl:'Netherlands',se:'Sweden'};
+const q=new URLSearchParams(location.search);let m=(q.get('market')||'br').toLowerCase();if(!markets[m])m='br';
+const name=markets[m];document.title='CRISBRAIN Decision | '+name;document.getElementById('marketTitle').textContent=name+' — CRISBRAIN Decision';document.getElementById('marketIntro').textContent='Public CRISBRAIN decision pages for '+name+'. Partners may review and distribute these public landing pages while CRISBRAIN keeps commercial routing and proprietary decision logic private.';
+const rss='/rss/'+m+'.xml';document.getElementById('rssLink').href=rss;
+fetch(rss).then(r=>{if(!r.ok)throw new Error('feed');return r.text()}).then(t=>{
+ const x=new DOMParser().parseFromString(t,'application/xml');const nodes=[...x.querySelectorAll('item')].slice(0,30);const host=document.getElementById('items');host.innerHTML='';
+ if(!nodes.length){host.innerHTML='<p>No public publications are available for this market yet.</p>';return;}
+ nodes.forEach(n=>{const title=(n.querySelector('title')?.textContent||'CRISBRAIN Decision').trim();const link=(n.querySelector('link')?.textContent||'').trim();const desc=(n.querySelector('description')?.textContent||'').trim();if(!link)return;const a=document.createElement('a');a.className='card';a.href=link;a.innerHTML='<h3></h3><p></p>';a.querySelector('h3').textContent=title;a.querySelector('p').textContent=desc;a.setAttribute('rel','noopener');host.appendChild(a);});
+}).catch(()=>{document.getElementById('items').innerHTML='<p>Publications could not be loaded right now. The market feed remains available to technical partners below.</p>';});
+})();
+</script>
+</body></html>
