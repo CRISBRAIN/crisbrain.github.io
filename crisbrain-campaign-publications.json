@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-22fe412bd9cb153b4d77d2f2",
+      "campaign_id": "cmp-1789072204-6fc1e95b",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789072204-6fc1e95b/pin-04-167683/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-189fedab152417028f507148",
+      "campaign_id": "cmp-1789072171-d6873a09",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789072171-d6873a09/pin-04-e23fd7/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-4bf871765d8fe4dd677c7eaa",
+      "campaign_id": "cmp-1789072132-830f6478",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789072132-830f6478/pin-04-d5eca1/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-6ed7a6aa336d918b26620f17",
+      "campaign_id": "cmp-1789072097-e87cbd72",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789072097-e87cbd72/pin-04-3e362d/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-6fab837cb5b53d031c4f2540",
+      "campaign_id": "cmp-1789072059-9646e466",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789072059-9646e466/pin-04-88b780/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-d471993725daab9fda72b2f8",
+      "campaign_id": "cmp-1789072019-d804a9f2",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789072019-d804a9f2/pin-04-37c3e8/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-ddc4dd6835e6b7e2780c6ddb",
+      "campaign_id": "cmp-1789071986-ee5cbfcd",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789071986-ee5cbfcd/pin-04-c33bfd/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-9a8e4e091996da8a53c392a2",
+      "campaign_id": "cmp-1789071948-2732f4e7",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789071948-2732f4e7/pin-04-4be6a8/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-0aa13a61108d036449a625d6",
+      "campaign_id": "cmp-1789071829-a4fd9a47",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789071829-a4fd9a47/pin-04-9c88bb/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-a0558c936eab3acc7c7b610e",
+      "campaign_id": "cmp-1789071793-74a1b843",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789071793-74a1b843/pin-04-d589a7/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-e15e75e8dfda0214c85124ed",
+      "campaign_id": "cmp-1789070793-a4094721",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789070793-a4094721/pin-04-a89953/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-501879f7adf5e9c5ab8a2782",
+      "campaign_id": "cmp-1789070761-cfccddd0",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789070761-cfccddd0/pin-04-397002/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-b3689bb0d5ac6b83ea647375",
+      "campaign_id": "cmp-1789070729-f1d869c0",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789070729-f1d869c0/pin-04-6ee4cf/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-136c77ccc0c1e0ab4f0acdb2",
+      "campaign_id": "cmp-1789070695-44eacbbc",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789070695-44eacbbc/pin-04-df19c8/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-13abb9cd77bf4d016879bcbd",
+      "campaign_id": "cmp-1789070659-b9244389",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789070659-b9244389/pin-04-5f7b17/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-2508c25ee37908c52a51d5ed",
+      "campaign_id": "cmp-1789070625-a20d771b",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11 : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789070625-a20d771b/pin-04-ce7e77/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-866f25a38075ccb98b4565c7",
+      "campaign_id": "cmp-1789070587-2a76421c",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789070587-2a76421c/pin-04-0cb72a/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-03c4945a566a654316421d4c",
+      "campaign_id": "cmp-1789070553-5ea947e1",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789070553-5ea947e1/pin-04-a1bd29/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-bd971de4aa751a89570157bf",
+      "campaign_id": "cmp-1789070519-195268c0",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789070519-195268c0/pin-04-e922ec/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
+      "publication_job_id": "job-b550697ef103b8065a54305d",
+      "campaign_id": "cmp-1789070455-5adaa5e7",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Acer Nitro V15 ANV15-51-58AZ, Intel Core i5-13420H, 8 GB DDR5, 512 GB SSD, GeForce RTX 3050 6 GB, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789070455-5adaa5e7/pin-04-bc443b/",
+      "updated_at": "2026-09-13T20:48:45.478888+00:00"
+    },
+    {
       "publication_job_id": "job-e6693777e99d2715c40b9c88",
       "campaign_id": "cmp-1789067597-f6493de7",
       "campaign_family_id": null,
