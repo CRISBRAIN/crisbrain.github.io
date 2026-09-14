@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "generated_at": "2026-09-14T16:50:25.832772+00:00",
+  "generated_at": "2026-09-14T17:50:41.853675+00:00",
   "resource_guard_version": "CMC_RENDER_RESOURCE_GUARD_V1",
   "items": [
+    {
+      "publication_job_id": "job-fb42af1af62f3e203fc506b2",
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1789229984-80883e3d",
+      "market_id": "se",
+      "language": "sv-SE",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789229984-80883e3d/pin-03-b627a6/",
+      "creative_slot": "03",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/se/cmp-1789229984-80883e3d/pin-03-b627a6/"
+    },
+    {
+      "publication_job_id": "job-c069bd67f0056d7f8b4c8607",
+      "campaign_family_id": null,
+      "campaign_id": "cmp-1789229952-c75a71de",
+      "market_id": "nl",
+      "language": "nl-NL",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789229952-c75a71de/pin-03-6f3ad3/",
+      "creative_slot": "03",
+      "legacy_public_url": "https://crisbrain.github.io/campanhas/nl/cmp-1789229952-c75a71de/pin-03-6f3ad3/"
+    },
     {
       "publication_job_id": "job-da29cd1ba8fb0184c9000304",
       "campaign_family_id": null,
