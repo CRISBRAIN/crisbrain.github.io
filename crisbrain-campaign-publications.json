@@ -2,6 +2,96 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-ba83d4aeebc21128d043f335",
+      "campaign_id": "cmp-1789227425-bf0128bf",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789227425-bf0128bf/pin-03-deb73a/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-3b609f13eaf0098b2e2a8e51",
+      "campaign_id": "cmp-1789227397-72b6993e",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789227397-72b6993e/pin-03-afe1d0/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-80b374b005d3592912eb637f",
+      "campaign_id": "cmp-1789227340-0d77dbe6",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789227340-0d77dbe6/pin-03-2d8e6d/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-18ff0fd4697cd0da98950922",
+      "campaign_id": "cmp-1789227311-2623f848",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789227311-2623f848/pin-03-10058f/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-0b4457f58f9aafe8ba4fdbf7",
+      "campaign_id": "cmp-1789227273-5985cd67",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789227273-5985cd67/pin-03-ae35d8/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-1e4b1d79d322b1c1f49e0a40",
+      "campaign_id": "cmp-1789227234-54e0756e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789227234-54e0756e/pin-03-6d6abb/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-881689ea6f9ab0ec21489c7d",
+      "campaign_id": "cmp-1789227205-6e30b2e1",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789227205-6e30b2e1/pin-03-e1bcc7/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-8b29297542d4018d5bf14443",
+      "campaign_id": "cmp-1789227146-25242ccd",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789227146-25242ccd/pin-03-27f485/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
+      "publication_job_id": "job-7a2a3870167be618380952ec",
+      "campaign_id": "cmp-1789227114-12bb682f",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789227114-12bb682f/pin-03-1ca160/",
+      "updated_at": "2026-09-14T15:49:45.272544+00:00"
+    },
+    {
       "publication_job_id": "job-a29ed6c065b907df886c580e",
       "campaign_id": "cmp-1789075106-10986656",
       "campaign_family_id": null,
