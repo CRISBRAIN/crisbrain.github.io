@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-f2228b8f56ed7cfad6b24901",
+      "campaign_id": "cmp-1789074632-e0ba4563",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Notebook VAIO FE16 AMD Ryzen 7-5825U, Windows 11 Home, 16 GB RAM, 512 GB SSD, tela 16 WUXGA",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789074632-e0ba4563/pin-05-7683b8/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-5afe2b6060dd7ec7fa5dfe93",
+      "campaign_id": "cmp-1789073627-68aa80e0",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789073627-68aa80e0/pin-05-3e698c/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-2c1cc2e672b5f7a64df02d5d",
+      "campaign_id": "cmp-1789073473-417c47d3",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789073473-417c47d3/pin-05-d4a030/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-041f6489950cea9c057b873b",
+      "campaign_id": "cmp-1789073442-799a49e7",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789073442-799a49e7/pin-05-f00e29/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-9760c5a573244fa312041627",
+      "campaign_id": "cmp-1789073409-293754af",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789073409-293754af/pin-05-3b2c90/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-a809506b0a34d34b8d43d402",
+      "campaign_id": "cmp-1789073378-1c005b51",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789073378-1c005b51/pin-05-3e5b74/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-442dc2abf67c5ee751598512",
+      "campaign_id": "cmp-1789073347-f78e4277",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789073347-f78e4277/pin-05-8809d9/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-0cbb6dc7fe3aa1038f10d2b9",
+      "campaign_id": "cmp-1789073312-317e429c",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789073312-317e429c/pin-05-0df0bd/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-6cbfea54bf25e34b34b6e6be",
+      "campaign_id": "cmp-1789073278-4d8d66bb",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789073278-4d8d66bb/pin-05-6da094/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-dd4dd3a9aa20153a34c3669d",
+      "campaign_id": "cmp-1789073243-e5979c82",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789073243-e5979c82/pin-05-f58dab/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-d230ab1c25381797f2dce3f8",
+      "campaign_id": "cmp-1789073208-6c97a770",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789073208-6c97a770/pin-05-38aa13/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-da5e544d483b1dfcb7f425bb",
+      "campaign_id": "cmp-1789072204-6fc1e95b",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789072204-6fc1e95b/pin-05-53dbc5/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-084fe850c3c5193f5142f236",
+      "campaign_id": "cmp-1789072171-d6873a09",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789072171-d6873a09/pin-05-3fc2bf/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-afbc4b0b288500875cb1677a",
+      "campaign_id": "cmp-1789072132-830f6478",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789072132-830f6478/pin-05-fd1f63/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-d85a5ae917bda06bd29c4490",
+      "campaign_id": "cmp-1789072097-e87cbd72",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789072097-e87cbd72/pin-05-7f7694/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-9d7c5d39794a9bca7768d8cd",
+      "campaign_id": "cmp-1789072059-9646e466",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789072059-9646e466/pin-05-7406ae/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-9576bc69188609d9d7f0a226",
+      "campaign_id": "cmp-1789072019-d804a9f2",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789072019-d804a9f2/pin-05-3a832e/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-68290a33460e2171f98da223",
+      "campaign_id": "cmp-1789071986-ee5cbfcd",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789071986-ee5cbfcd/pin-05-23ec3c/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-4c8508337f9020848bab62e3",
+      "campaign_id": "cmp-1789071948-2732f4e7",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789071948-2732f4e7/pin-05-980d52/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
+      "publication_job_id": "job-8c9693cb960e3d9bd5fcf8c4",
+      "campaign_id": "cmp-1789071829-a4fd9a47",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789071829-a4fd9a47/pin-05-fff0c0/",
+      "updated_at": "2026-09-14T21:24:59.470134+00:00"
+    },
+    {
       "publication_job_id": "job-ce4ee2e729bdb10a28c30b20",
       "campaign_id": "cmp-1789071793-74a1b843",
       "campaign_family_id": null,
