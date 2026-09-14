@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-fb42af1af62f3e203fc506b2",
+      "campaign_id": "cmp-1789229984-80883e3d",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789229984-80883e3d/pin-03-b627a6/",
+      "updated_at": "2026-09-14T17:50:32.552771+00:00"
+    },
+    {
+      "publication_job_id": "job-c069bd67f0056d7f8b4c8607",
+      "campaign_id": "cmp-1789229952-c75a71de",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789229952-c75a71de/pin-03-6f3ad3/",
+      "updated_at": "2026-09-14T17:50:32.552771+00:00"
+    },
+    {
       "publication_job_id": "job-da29cd1ba8fb0184c9000304",
       "campaign_id": "cmp-1789229925-575fd89b",
       "campaign_family_id": null,
