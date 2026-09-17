@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-9d3728c30b44797c83f9da0a",
+      "campaign_id": "cmp-1789228702-bc040033",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789228702-bc040033/pin-06-986124/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-7fc1ec057f76205cce0b83f1",
+      "campaign_id": "cmp-1789228673-a8c9bfc9",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789228673-a8c9bfc9/pin-06-d964cc/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-28e79dcb53a447cd0e27f84f",
+      "campaign_id": "cmp-1789228641-635f54df",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789228641-635f54df/pin-06-cc0956/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-0247492635b347c7759696a3",
+      "campaign_id": "cmp-1789228613-75e7c772",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789228613-75e7c772/pin-06-45b58d/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-a57eb4c4d70243aa695befd3",
+      "campaign_id": "cmp-1789228585-67b539b4",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789228585-67b539b4/pin-06-5af198/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-7b4044c477692a0d7f9eb6f6",
+      "campaign_id": "cmp-1789228556-8eeafd2e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11 : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789228556-8eeafd2e/pin-06-488ccb/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-9daa70af3000f458595dd506",
+      "campaign_id": "cmp-1789228526-140401ab",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789228526-140401ab/pin-06-bd4f96/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-b2505159446211834401af9f",
+      "campaign_id": "cmp-1789228495-8c81d62d",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789228495-8c81d62d/pin-06-d75d83/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-2ffb388a83a4d8bb75ca610b",
+      "campaign_id": "cmp-1789228466-454335c6",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789228466-454335c6/pin-06-8f6417/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-9e02d7b1a44dbe8dc24832e0",
+      "campaign_id": "cmp-1789228436-b1242d65",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789228436-b1242d65/pin-06-2f634d/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-a6ac49eae43338a19c6d19f0",
+      "campaign_id": "cmp-1788910383-4961ee97",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1788910383-4961ee97/pin-06-293ea9/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-458ca0d7bfc0d211b8a5783e",
+      "campaign_id": "cmp-1789227425-bf0128bf",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789227425-bf0128bf/pin-06-23201d/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-d045f81ce1acce1efe6f803c",
+      "campaign_id": "cmp-1789227397-72b6993e",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789227397-72b6993e/pin-06-14efad/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-470766188d542579852f6a15",
+      "campaign_id": "cmp-1789227340-0d77dbe6",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789227340-0d77dbe6/pin-06-ba5b96/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-25c4122d1a3e118fb95b7b7f",
+      "campaign_id": "cmp-1789227311-2623f848",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789227311-2623f848/pin-06-544ee1/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-c41aa8fbc8cac609e1725f96",
+      "campaign_id": "cmp-1789227273-5985cd67",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789227273-5985cd67/pin-06-637658/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-51e420cb18fed8101388e469",
+      "campaign_id": "cmp-1789227234-54e0756e",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789227234-54e0756e/pin-06-dafba4/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-1bb160dc8441ea29803ac141",
+      "campaign_id": "cmp-1789227205-6e30b2e1",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789227205-6e30b2e1/pin-06-900a08/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-1480e5c131d38500d62a9d5f",
+      "campaign_id": "cmp-1789227146-25242ccd",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789227146-25242ccd/pin-06-10549c/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
+      "publication_job_id": "job-ced183a3918c3aa4cda02e95",
+      "campaign_id": "cmp-1789227114-12bb682f",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789227114-12bb682f/pin-06-4dbb34/",
+      "updated_at": "2026-09-17T16:30:18.699834+00:00"
+    },
+    {
       "publication_job_id": "job-7e1b74bb21e973895637ee55",
       "campaign_id": "cmp-1789075106-10986656",
       "campaign_family_id": null,
