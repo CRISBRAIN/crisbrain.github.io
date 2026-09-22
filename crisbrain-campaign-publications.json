@@ -2,6 +2,226 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-0392aa1af0528c4ea54e49ef",
+      "campaign_id": "cmp-1790043669-785ec01c",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790043669-785ec01c/pin-01-888922/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-8f42a2ed157517689405b0e3",
+      "campaign_id": "cmp-1790043633-680dbe87",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790043633-680dbe87/pin-01-a5f849/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-fe51e5701c318403e6d8b7b6",
+      "campaign_id": "cmp-1790043584-95afbb06",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790043584-95afbb06/pin-01-cc1312/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-d2c98032879e9e679b17ceec",
+      "campaign_id": "cmp-1789957165-9f4578a3",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789957165-9f4578a3/pin-02-ee56cf/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-037c54bb1975fbdf4a7b03c8",
+      "campaign_id": "cmp-1790043534-12d8b046",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790043534-12d8b046/pin-01-c0a336/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-0352b945fc8242dd5a187dc4",
+      "campaign_id": "cmp-1789957135-52c81882",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789957135-52c81882/pin-02-3765b8/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-6166297d6b796b95b53fc681",
+      "campaign_id": "cmp-1789957096-948af167",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789957096-948af167/pin-02-f3e875/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-2514b5e6b3a4fc0b805fdaf6",
+      "campaign_id": "cmp-1790043496-deb47911",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790043496-deb47911/pin-01-790312/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-cee788e0a90128165dfec301",
+      "campaign_id": "cmp-1790043465-9cc414af",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11 : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790043465-9cc414af/pin-01-ebaace/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-eba08e8906459bcbe70e9ab3",
+      "campaign_id": "cmp-1789957064-019fbfa4",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789957064-019fbfa4/pin-02-084bb0/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-40f605f78edd93c01aa1dff2",
+      "campaign_id": "cmp-1789957036-dbda9dbe",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789957036-dbda9dbe/pin-02-801f44/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-b05d63d81474d6c686083adc",
+      "campaign_id": "cmp-1790043422-96ab6e23",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790043422-96ab6e23/pin-01-270762/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-a75d7d43393c387fda0f6734",
+      "campaign_id": "cmp-1789957007-55aa5242",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11 : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789957007-55aa5242/pin-02-5d60a4/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-0c9fa914bf8d5dcd05fa40e6",
+      "campaign_id": "cmp-1790043389-88cca16b",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790043389-88cca16b/pin-01-4130bc/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-b72b430f9473650f7b3277e5",
+      "campaign_id": "cmp-1789956976-fe6a5404",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789956976-fe6a5404/pin-02-a069df/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-8c36e56c2ae423721057e873",
+      "campaign_id": "cmp-1790043354-3f9b9745",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790043354-3f9b9745/pin-01-22f863/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-cf099152c988952cae361f0b",
+      "campaign_id": "cmp-1789956946-c8f1e82d",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789956946-c8f1e82d/pin-02-734888/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-bebe545e7783c3b145a2d651",
+      "campaign_id": "cmp-1790043316-3c7e2378",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790043316-3c7e2378/pin-01-f0daac/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-4edcaa292eeea7821aa3fb16",
+      "campaign_id": "cmp-1789956915-63a3056a",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789956915-63a3056a/pin-02-f84a74/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-379c20835093efbf0325fc97",
+      "campaign_id": "cmp-1790043253-d30574bd",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790043253-d30574bd/pin-01-477444/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-6fbe13cb7b2da1c43c1b8d8d",
+      "campaign_id": "cmp-1789956883-69c2d98b",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789956883-69c2d98b/pin-02-8b0ef3/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
+      "publication_job_id": "job-2cd245c1168b4d82b9411a8f",
+      "campaign_id": "cmp-1789956847-189c8be2",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11: qual opção combina melhor com sua rotina?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1789956847-189c8be2/pin-02-ec56f9/",
+      "updated_at": "2026-09-22T02:21:58.886729+00:00"
+    },
+    {
       "publication_job_id": "job-cc93b4e98255b475d02b05db",
       "campaign_id": "cmp-1789957165-9f4578a3",
       "campaign_family_id": null,
