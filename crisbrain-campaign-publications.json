@@ -2,6 +2,326 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-11ce47a3966c4f01dd0c8ff7",
+      "campaign_id": "cmp-1790130068-3d73e696",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790130068-3d73e696/pin-01-fda000/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-c739298d623d5a53b2ca550f",
+      "campaign_id": "cmp-1790043633-680dbe87",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790043633-680dbe87/pin-02-a1660a/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-8d55b84e72437e330fae66be",
+      "campaign_id": "cmp-1790130014-706bf079",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790130014-706bf079/pin-01-77c180/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-5f1c9911156f9d4ad171e8ed",
+      "campaign_id": "cmp-1790043584-95afbb06",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790043584-95afbb06/pin-02-c2fbaf/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-efa22bbc9b3b5f175160518d",
+      "campaign_id": "cmp-1790129973-65620c1e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790129973-65620c1e/pin-01-51e772/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-76f6206e6c371ba954e2588f",
+      "campaign_id": "cmp-1789957165-9f4578a3",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789957165-9f4578a3/pin-03-2a6b41/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-6b8286f01c6e75a62b56b0a8",
+      "campaign_id": "cmp-1790043534-12d8b046",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790043534-12d8b046/pin-02-f397a4/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-6143912065f9123dc0184006",
+      "campaign_id": "cmp-1790129927-d7bc62da",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790129927-d7bc62da/pin-01-28fcce/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-8568dfe2bcff51e996032684",
+      "campaign_id": "cmp-1789957135-52c81882",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789957135-52c81882/pin-03-4f00ea/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-a6dab84ee2a418dfb35ea2db",
+      "campaign_id": "cmp-1789957096-948af167",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789957096-948af167/pin-03-a9808f/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-cbb73a93de428a91d4dfcc49",
+      "campaign_id": "cmp-1790043496-deb47911",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790043496-deb47911/pin-02-f69195/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-b01e0af3410a052d346b6931",
+      "campaign_id": "cmp-1790129877-fa317df8",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790129877-fa317df8/pin-01-47eb15/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-26ea7fafe5a4bed850d23665",
+      "campaign_id": "cmp-1790043465-9cc414af",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11 : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790043465-9cc414af/pin-02-beadd5/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-305a2ae58b2f0ff38708a635",
+      "campaign_id": "cmp-1789957064-019fbfa4",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789957064-019fbfa4/pin-03-75d571/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-12ec4880dffb99dd6353298a",
+      "campaign_id": "cmp-1790129842-d067ab32",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790129842-d067ab32/pin-01-b95c24/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-bd26960ca40f40fddfa457d8",
+      "campaign_id": "cmp-1789957036-dbda9dbe",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789957036-dbda9dbe/pin-03-23f29d/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-ed2d6f3e2c6badfa6731363b",
+      "campaign_id": "cmp-1790043422-96ab6e23",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790043422-96ab6e23/pin-02-780947/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-9b9bd6a65c2e53d05170998d",
+      "campaign_id": "cmp-1790129806-cd1cfd82",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790129806-cd1cfd82/pin-01-6f8376/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-fd5910e51dabc0d04bd3cc2b",
+      "campaign_id": "cmp-1789957007-55aa5242",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789957007-55aa5242/pin-03-f2799d/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-0f42d0c51408cef42b4c31fa",
+      "campaign_id": "cmp-1790043389-88cca16b",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790043389-88cca16b/pin-02-ef9d9e/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-905f495b648c49aa1f3add4e",
+      "campaign_id": "cmp-1790129775-dd1bc729",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790129775-dd1bc729/pin-01-70a4f1/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-521438b0f714fe79d4a27adc",
+      "campaign_id": "cmp-1789956976-fe6a5404",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789956976-fe6a5404/pin-03-ba225e/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-2ead2b7594a767e1f9f3cfe4",
+      "campaign_id": "cmp-1790043354-3f9b9745",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790043354-3f9b9745/pin-02-340d68/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-9e1a6dce31325f7a6a31c5b9",
+      "campaign_id": "cmp-1789956946-c8f1e82d",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789956946-c8f1e82d/pin-03-f45419/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-d6e8b3ec505ab357a62bfcca",
+      "campaign_id": "cmp-1790129742-2f6e0354",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790129742-2f6e0354/pin-01-12bdd9/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-257d34f69a7756478b29d439",
+      "campaign_id": "cmp-1790043316-3c7e2378",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790043316-3c7e2378/pin-02-a0c665/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-fac2ab849fc8d536f7ba0f6d",
+      "campaign_id": "cmp-1789956915-63a3056a",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11 festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789956915-63a3056a/pin-03-27446b/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-44197d4da720cf7fe36679ee",
+      "campaign_id": "cmp-1790129700-f43b80af",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790129700-f43b80af/pin-01-99768d/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-7ec8edbe286ed627cc2275ff",
+      "campaign_id": "cmp-1790043253-d30574bd",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: qual opção combina melhor com sua rotina?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790043253-d30574bd/pin-02-6736b2/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-191df623184cc2655ed94d5d",
+      "campaign_id": "cmp-1789956883-69c2d98b",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789956883-69c2d98b/pin-03-c51e9b/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-ab3092da2f80389720d3e554",
+      "campaign_id": "cmp-1790129659-cfd8b89b",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790129659-cfd8b89b/pin-01-fe27ee/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
+      "publication_job_id": "job-c48af40590c749d474bb27ca",
+      "campaign_id": "cmp-1789956847-189c8be2",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1789956847-189c8be2/pin-03-6e734a/",
+      "updated_at": "2026-09-23T02:21:44.884658+00:00"
+    },
+    {
       "publication_job_id": "job-0392aa1af0528c4ea54e49ef",
       "campaign_id": "cmp-1790043669-785ec01c",
       "campaign_family_id": null,
