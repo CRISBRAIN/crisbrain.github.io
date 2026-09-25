@@ -2,6 +2,556 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-27a2f5f7f71a47d37ebd3682",
+      "campaign_id": "cmp-1790043669-785ec01c",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790043669-785ec01c/pin-04-201353/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-8e9549cb9a3234959b179be2",
+      "campaign_id": "cmp-1790302843-8aa28603",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790302843-8aa28603/pin-01-a9d559/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-9df7358c3ffaeaff17c90893",
+      "campaign_id": "cmp-1790130068-3d73e696",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790130068-3d73e696/pin-03-4be354/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-358972e2fda6257e95b3ac98",
+      "campaign_id": "cmp-1790043633-680dbe87",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790043633-680dbe87/pin-04-7e31ae/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-4e9e24f7d91126ee9611c347",
+      "campaign_id": "cmp-1790130014-706bf079",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790130014-706bf079/pin-03-a9356f/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-8461d7c4e407b786499577cc",
+      "campaign_id": "cmp-1790216423-df5496a6",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790216423-df5496a6/pin-02-8d209d/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-641147c837a41ec0bce0ed8e",
+      "campaign_id": "cmp-1790302801-246d09de",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790302801-246d09de/pin-01-9440f3/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-bdf6d20643e6ad6617a59e32",
+      "campaign_id": "cmp-1790043584-95afbb06",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790043584-95afbb06/pin-04-cbabcf/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-8613a09a9578c300bd052f34",
+      "campaign_id": "cmp-1790216390-81f3237e",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790216390-81f3237e/pin-02-b401ab/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-f8ce7f51082fa02b2c7c2172",
+      "campaign_id": "cmp-1790129973-65620c1e",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790129973-65620c1e/pin-03-d1ab17/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-fc6df1d11fadc39268d303ff",
+      "campaign_id": "cmp-1789957165-9f4578a3",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1789957165-9f4578a3/pin-05-1b0d3a/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-70f374db57c19d071650bf41",
+      "campaign_id": "cmp-1790302763-3a8a86be",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790302763-3a8a86be/pin-01-88c784/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-0959fc560bb50a15262798f4",
+      "campaign_id": "cmp-1790216354-03bea065",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790216354-03bea065/pin-02-1c5cbd/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-e605a6b35ad591f42bfecaa4",
+      "campaign_id": "cmp-1790043534-12d8b046",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790043534-12d8b046/pin-04-2db051/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-7bf8da0787e9056aa0b07220",
+      "campaign_id": "cmp-1790129927-d7bc62da",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790129927-d7bc62da/pin-03-833b62/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-ffc787d4803759460ea0797e",
+      "campaign_id": "cmp-1789957135-52c81882",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1789957135-52c81882/pin-05-09eb6e/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-2ae7ea298119ea1233cbbc12",
+      "campaign_id": "cmp-1790302723-e458db28",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790302723-e458db28/pin-01-78a68b/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-a2af8c92c9170ccdbe44163b",
+      "campaign_id": "cmp-1790216318-b30f39a5",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790216318-b30f39a5/pin-02-d86b42/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-d21c8b2ae4e4ffac172c8df9",
+      "campaign_id": "cmp-1789957096-948af167",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1789957096-948af167/pin-05-83da96/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-f038650638978d37e5c121bb",
+      "campaign_id": "cmp-1790043496-deb47911",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790043496-deb47911/pin-04-2c8ea4/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-85ce071663b01aca9cf45d44",
+      "campaign_id": "cmp-1790129877-fa317df8",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790129877-fa317df8/pin-03-551215/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-2c701f30ed437f144db38e35",
+      "campaign_id": "cmp-1790302689-31002017",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790302689-31002017/pin-01-f07968/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-87165812312267e6885c8605",
+      "campaign_id": "cmp-1790216279-098de153",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790216279-098de153/pin-02-4bbcf3/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-06bb6fd1b6c01ac6f48756e2",
+      "campaign_id": "cmp-1790043465-9cc414af",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11 : choisissez avec plus de clarté",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790043465-9cc414af/pin-04-f31bdb/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-ef82a27c449425f37a4d4c88",
+      "campaign_id": "cmp-1789957064-019fbfa4",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1789957064-019fbfa4/pin-05-d435c7/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-93977946a9e90e376702c0a0",
+      "campaign_id": "cmp-1790302649-79368641",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home : comparez les options avant de choisir",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790302649-79368641/pin-01-10375a/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-f024806a1eb3b96b46ac27c2",
+      "campaign_id": "cmp-1790216239-28379069",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home : quelle option convient à votre routine ?",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790216239-28379069/pin-02-b88662/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-7590f359b1b54a1703aa7641",
+      "campaign_id": "cmp-1790129842-d067ab32",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Avant l'achat : définissez vos priorités pour Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790129842-d067ab32/pin-03-23fce5/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-ca4992711b6647dc05b9dca7",
+      "campaign_id": "cmp-1789957036-dbda9dbe",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1789957036-dbda9dbe/pin-05-05f522/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-190353134c18b0b4d6fe9be3",
+      "campaign_id": "cmp-1790043422-96ab6e23",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790043422-96ab6e23/pin-04-544407/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-2600b9c932ce050fd3e40320",
+      "campaign_id": "cmp-1790302617-99795d84",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790302617-99795d84/pin-01-2af2a3/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-a69f47463d5dd367edc94f1b",
+      "campaign_id": "cmp-1790129806-cd1cfd82",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790129806-cd1cfd82/pin-03-e4a8e2/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-63c7681e866cf0fa14a6cef1",
+      "campaign_id": "cmp-1790216205-6a15856f",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790216205-6a15856f/pin-02-388303/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-94c4ea12d2e323e6855cb7e6",
+      "campaign_id": "cmp-1789957007-55aa5242",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Ce qu'il faut considérer avant de choisir Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1789957007-55aa5242/pin-05-a3ac70/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-d496297807fe27a5162d6ab4",
+      "campaign_id": "cmp-1790043389-88cca16b",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: wybieraj z większą jasnością",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790043389-88cca16b/pin-04-826a6d/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-7e12d4eb1e34b6f18c04d5c1",
+      "campaign_id": "cmp-1790302579-209313c9",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: porównaj opcje przed wyborem",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790302579-209313c9/pin-01-83575e/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-75537410ee6c96e12a9485c6",
+      "campaign_id": "cmp-1790129775-dd1bc729",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Przed zakupem: określ priorytety dla Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790129775-dd1bc729/pin-03-af77c9/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-73bc4d5526d10f875038ad97",
+      "campaign_id": "cmp-1789956976-fe6a5404",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1789956976-fe6a5404/pin-05-44f44d/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-694c333f03cea717d2de547e",
+      "campaign_id": "cmp-1790216170-2efda081",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: która opcja pasuje do Twojej rutyny?",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790216170-2efda081/pin-02-a5c6b5/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-59012cbff134962cea9c180a",
+      "campaign_id": "cmp-1790043354-3f9b9745",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: mit mehr Klarheit auswählen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790043354-3f9b9745/pin-04-c9b966/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-b235ddbcb25fe491960a7a6b",
+      "campaign_id": "cmp-1790302532-68758f7d",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: Optionen vor der Auswahl vergleichen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790302532-68758f7d/pin-01-e80718/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-30443c849e948751233fc167",
+      "campaign_id": "cmp-1789956946-c8f1e82d",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Na co zwrócić uwagę przed wyborem Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1789956946-c8f1e82d/pin-05-e58628/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-0eb47c270df196e976dd34ba",
+      "campaign_id": "cmp-1790129742-2f6e0354",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Vor dem Kauf: Prioritäten für Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11 festlegen",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790129742-2f6e0354/pin-03-041906/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-fc0cc7a96dc7c3dce2c01db9",
+      "campaign_id": "cmp-1790216130-1b747e45",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: welche Option passt zu Ihrem Alltag?",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790216130-1b747e45/pin-02-f743d2/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-db1222e19986b2fa59f1e3ff",
+      "campaign_id": "cmp-1790043316-3c7e2378",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: choose with more clarity",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790043316-3c7e2378/pin-04-0ebe65/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-6bb39609bda933451f820f2d",
+      "campaign_id": "cmp-1789956915-63a3056a",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Was Sie vor der Auswahl von Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11 beachten sollten",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1789956915-63a3056a/pin-05-58f127/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-84d3249dbbecc9014fd67881",
+      "campaign_id": "cmp-1790129700-f43b80af",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Before buying: define your priorities for Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790129700-f43b80af/pin-03-c944bf/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-3444760919248a1d77f60850",
+      "campaign_id": "cmp-1790302496-398e6bd2",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare options before choosing",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790302496-398e6bd2/pin-01-9a0152/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-fa909d161f6ce3e3c2a9a644",
+      "campaign_id": "cmp-1790216096-3f6289ec",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: which option fits your routine?",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790216096-3f6289ec/pin-02-ad4646/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-db7af38fa4955c6d88f5bad5",
+      "campaign_id": "cmp-1790043253-d30574bd",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell Inspiron I15-I120K-M45M, Intel Core i7 12ª geração, 16 GB RAM, 512 GB SSD, Windows 11: escolha com mais clareza",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790043253-d30574bd/pin-04-f9a35e/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-7dba9f43015f61bcee723276",
+      "campaign_id": "cmp-1789956883-69c2d98b",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "What to consider before choosing Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1789956883-69c2d98b/pin-05-4386de/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-11a9167d7213096c344a5248",
+      "campaign_id": "cmp-1790129659-cfd8b89b",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Antes da compra: defina suas prioridades em Notebook Lenovo IdeaPad Slim 3i Gen 10, Intel Core i7-13620H, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790129659-cfd8b89b/pin-03-501c56/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-f4da94f1128b6ebd7af7be35",
+      "campaign_id": "cmp-1790302454-c4ad758b",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Samsung Galaxy Book4 Intel Core i5-1335U, 8 GB RAM, 256 GB SSD, Windows 11 Home: compare opções antes de escolher",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790302454-c4ad758b/pin-01-aed44f/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-81b4264a3384a3c5f00a4c46",
+      "campaign_id": "cmp-1790216053-24c15dea",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Samsung Galaxy Book6 16 WUXGA, Intel Core Ultra 5 325, 16GB, 512GB SSD, Intel Graphics, Galaxy AI, Windows 11 Home: qual opção combina melhor com sua rotina?",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790216053-24c15dea/pin-02-88802f/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
+      "publication_job_id": "job-066ad466325712f0b5af4a46",
+      "campaign_id": "cmp-1789956847-189c8be2",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "O que observar antes de escolher Notebook Dell Inspiron I15-I1300-M50P, Intel Core i5 13ª geração, 16 GB RAM, 512 GB SSD, Windows 11",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1789956847-189c8be2/pin-05-dcc605/",
+      "updated_at": "2026-09-25T02:21:49.319663+00:00"
+    },
+    {
       "publication_job_id": "job-aed8a3dc5b0d758f75c56613",
       "campaign_id": "cmp-1790043669-785ec01c",
       "campaign_family_id": null,
