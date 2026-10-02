@@ -2,6 +2,206 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-1df48c6355debb73cce047e8",
+      "campaign_id": "cmp-1790389255-b446fcfa",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790389255-b446fcfa/pin-07-33653d/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-7d6819631a2f5dc2b8ca43f0",
+      "campaign_id": "cmp-1790475641-643a9f42",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790475641-643a9f42/pin-06-84b14b/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-3d666e2a76534d0c5790ccfc",
+      "campaign_id": "cmp-1790389211-2273722f",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790389211-2273722f/pin-07-0543ab/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-6411c2725d61c0ace64efa4d",
+      "campaign_id": "cmp-1790475583-849377bc",
+      "campaign_family_id": null,
+      "market_id": "it",
+      "language": "it-IT",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/it/cmp-1790475583-849377bc/pin-06-342e79/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-0ef0555d859055f9c6ed699b",
+      "campaign_id": "cmp-1790389168-230f092a",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790389168-230f092a/pin-07-12c008/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-57cdcc412f931afce85de2d6",
+      "campaign_id": "cmp-1790475542-19cba3c5",
+      "campaign_family_id": null,
+      "market_id": "es",
+      "language": "es-ES",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/es/cmp-1790475542-19cba3c5/pin-06-bea850/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-9c1f2ba41d26c683dd1ddf0d",
+      "campaign_id": "cmp-1790389127-98b4ca2f",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790389127-98b4ca2f/pin-07-df2582/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-68babfc62214c686af75a2a2",
+      "campaign_id": "cmp-1790475505-57cc5603",
+      "campaign_family_id": null,
+      "market_id": "ca",
+      "language": "en-CA",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/ca/cmp-1790475505-57cc5603/pin-06-f5360e/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-be0e17fbf69bc3cebef56e9f",
+      "campaign_id": "cmp-1790389074-69b17acb",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Vous choisissez Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11 ? Faites une dernière comparaison",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790389074-69b17acb/pin-07-be3620/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-c46855d36aa9f424a3b3d91f",
+      "campaign_id": "cmp-1790475465-6d3d152a",
+      "campaign_family_id": null,
+      "market_id": "fr",
+      "language": "fr-FR",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home : une route directe pour comparer",
+      "url": "https://crisbrain.github.io/campanhas/fr/cmp-1790475465-6d3d152a/pin-06-f894f0/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-a66440962abf3c8e59438ff8",
+      "campaign_id": "cmp-1790389030-d0c4fb37",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790389030-d0c4fb37/pin-07-836ac8/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-fa4b5bacb038bdf7bc4bd50c",
+      "campaign_id": "cmp-1790475419-37231059",
+      "campaign_family_id": null,
+      "market_id": "gb",
+      "language": "en-GB",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/gb/cmp-1790475419-37231059/pin-06-105219/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-7aa4f192b1d0fa07ac965adf",
+      "campaign_id": "cmp-1790388995-e6c7b9cf",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Wybierasz Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Zrób ostatnie porównanie",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790388995-e6c7b9cf/pin-07-6423db/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-171471a9a021951fbc159df5",
+      "campaign_id": "cmp-1790475379-0117eb5f",
+      "campaign_family_id": null,
+      "market_id": "pl",
+      "language": "pl-PL",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: bezpośrednia trasa do porównania opcji",
+      "url": "https://crisbrain.github.io/campanhas/pl/cmp-1790475379-0117eb5f/pin-06-082c4d/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-70877eab650872c241bddd16",
+      "campaign_id": "cmp-1790388952-423044a9",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11 wählen? Ein letzter Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790388952-423044a9/pin-07-a1e64b/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-3e57e4d9beb81ebcfb63f68f",
+      "campaign_id": "cmp-1790475337-633687ae",
+      "campaign_family_id": null,
+      "market_id": "de",
+      "language": "de-DE",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: eine direkte Route zum Vergleich",
+      "url": "https://crisbrain.github.io/campanhas/de/cmp-1790475337-633687ae/pin-06-3154a5/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-9d3d0aa9fa937de7a64dedae",
+      "campaign_id": "cmp-1790388904-213220e4",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Choosing Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Make one final comparison",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790388904-213220e4/pin-07-e97123/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-0aee2d0e75ac9e280c3ab4d1",
+      "campaign_id": "cmp-1790475294-a528e9a3",
+      "campaign_family_id": null,
+      "market_id": "us",
+      "language": "en-US",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/us/cmp-1790475294-a528e9a3/pin-06-1e6e26/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-c3b61299227c10499ebc289a",
+      "campaign_id": "cmp-1790388859-6e92cf2a",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Vai escolher Notebook Dell Inspiron I15-I1300-M80P, Intel Core i7 13ª geração, 16 GB RAM, SSD 1 TB, Windows 11? Faça uma última comparação",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790388859-6e92cf2a/pin-07-80a09b/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
+      "publication_job_id": "job-64723a8a1a63bef71fddeb5b",
+      "campaign_id": "cmp-1790475253-7f077a96",
+      "campaign_family_id": null,
+      "market_id": "br",
+      "language": "pt-BR",
+      "title": "Notebook Dell 15 DC15-C3100-A20, Intel Core 3 100U, 8 GB RAM, 512 GB SSD, Windows 11 Home: uma rota direta para comparar opções",
+      "url": "https://crisbrain.github.io/campanhas/br/cmp-1790475253-7f077a96/pin-06-b40e5c/",
+      "updated_at": "2026-10-02T02:33:46.906867+00:00"
+    },
+    {
       "publication_job_id": "job-f01a25fe05c2d6d49c8cf5ef",
       "campaign_id": "cmp-1790562728-a219768b",
       "campaign_family_id": null,
