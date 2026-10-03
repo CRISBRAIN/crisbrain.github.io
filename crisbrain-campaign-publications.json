@@ -2,6 +2,26 @@
   "version": 2,
   "items": [
     {
+      "publication_job_id": "job-2ca21e0750759af265b242df",
+      "campaign_id": "cmp-1790562728-a219768b",
+      "campaign_family_id": null,
+      "market_id": "se",
+      "language": "sv-SE",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/se/cmp-1790562728-a219768b/pin-06-607f1c/",
+      "updated_at": "2026-10-03T02:35:46.895227+00:00"
+    },
+    {
+      "publication_job_id": "job-060bc343613398ad1e9bc527",
+      "campaign_id": "cmp-1790562688-a2b7b3fc",
+      "campaign_family_id": null,
+      "market_id": "nl",
+      "language": "nl-NL",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home: a direct route to compare options",
+      "url": "https://crisbrain.github.io/campanhas/nl/cmp-1790562688-a2b7b3fc/pin-06-e608b0/",
+      "updated_at": "2026-10-03T02:35:46.895227+00:00"
+    },
+    {
       "publication_job_id": "job-e0e72449595b75892da2e801",
       "campaign_id": "cmp-1790562643-d373ba2b",
       "campaign_family_id": null,
